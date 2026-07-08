@@ -29,7 +29,7 @@ jobs:
 
       - name: Run daily job
         env:
-          API_KEY: ${{ secrets.API_KEY }}
+          GEMINI_API_KEY: ${{ secrets.GEMINI_API_KEY }}
           GEMINI_MODEL: ${{ secrets.GEMINI_MODEL }}
           GEMINI_KB_NAME: ${{ secrets.GEMINI_KB_NAME }}
           GEMINI_CACHE_NAME: ${{ secrets.GEMINI_CACHE_NAME }}
