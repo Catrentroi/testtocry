@@ -5,13 +5,13 @@ Scrapes OptiSigns help-center articles, tracks them in `manifest.json`, uploads 
 ## Setup
 
 ```powershell
-cd C:\Users\Admin\Desktop\code\testtocry
+python -m venv venv
 .\venv\Scripts\Activate.ps1
 pip install -r requirements.txt
 copy .env.sample .env
 ```
 
-Set `GEMINI_API_KEY=` in `.env`.
+Set `API_KEY=` in `.env`.
 
 ## Run locally
 
@@ -24,7 +24,12 @@ Artifacts/logs:
 - `logs/daily_job_YYYYMMDD_HHMMSS.json`
 - `logs/gemini_upload_summary.json`
 
+## Chunking strategy
+
+Each Markdown file is uploaded as one Gemini File API object. Chunk counts are estimated locally for logging: ~1 token ≈ 4 characters, max chunk size **800** tokens, overlap **200** tokens. Gemini handles the actual retrieval indexing server-side; `logs/gemini_upload_summary.json` records `files_uploaded` and `estimated_chunks`.
+
 ## Daily job logs (GitHub Actions)
+
 The daily sync runs via workflow `Daily KB Sync` and uploads the `logs/` folder as an artifact named `daily-job`.
 
 Workflow: https://github.com/Catrentroi/testtocry/actions/workflows/daily-sync.yml

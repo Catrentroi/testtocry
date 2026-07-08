@@ -113,7 +113,7 @@ def main():
         question = input("Enter your question: ").strip()
 
     if not api_key:
-        raise SystemExit("GEMINI_API_KEY is missing. Set it in .env")
+        raise SystemExit("API_KEY is missing. Set it in .env")
 
     if not SUMMARY_PATH.exists():
         raise SystemExit("Missing logs/gemini_upload_summary.json. Run upload_gemini_kb.py first.")

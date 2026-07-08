@@ -29,11 +29,15 @@ jobs:
 
       - name: Run daily job
         env:
-          GEMINI_API_KEY: ${{ secrets.GEMINI_API_KEY }}
+          API_KEY: ${{ secrets.API_KEY }}
           GEMINI_MODEL: ${{ secrets.GEMINI_MODEL }}
           GEMINI_KB_NAME: ${{ secrets.GEMINI_KB_NAME }}
           GEMINI_CACHE_NAME: ${{ secrets.GEMINI_CACHE_NAME }}
         run: |
+          if [ -z "${API_KEY}" ]; then
+            echo "ERROR: GitHub secret 'API_KEY' is missing or empty."
+            exit 1
+          fi
           python main.py
 
       - name: Commit manifest back to repo

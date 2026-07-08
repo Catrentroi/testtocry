@@ -165,7 +165,7 @@ def main():
     kb_name = os.getenv("GEMINI_KB_NAME", "optibot-kb").strip()
 
     if not api_key:
-        raise SystemExit("GEMINI_API_KEY is missing. Set it in .env")
+        raise SystemExit("API_KEY is missing. Set it in .env")
 
     if not DOCS_DIR.exists():
         raise SystemExit(f"Docs directory not found: {DOCS_DIR}")
