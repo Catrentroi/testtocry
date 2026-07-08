@@ -11,7 +11,7 @@ pip install -r requirements.txt
 copy .env.sample .env
 ```
 
-Set `API_KEY` in `.env`.
+Set `GEMINI_API_KEY=` in `.env`.
 
 ## Run locally
 
@@ -24,11 +24,18 @@ Artifacts/logs:
 - `logs/daily_job_YYYYMMDD_HHMMSS.json`
 - `logs/gemini_upload_summary.json`
 
+## Daily job logs (GitHub Actions)
+The daily sync runs via workflow `Daily KB Sync` and uploads the `logs/` folder as an artifact named `daily-job`.
+
+Workflow: https://github.com/Catrentroi/testtocry/actions/workflows/daily-sync.yml
+
+To view the latest run output: open the workflow page → click the latest run → download the `daily-job` artifact.
+
 ## Docker
 
 ```powershell
 docker build -t optibot-job .
-docker run --rm --env-file .env optibot-job
+docker run --rm -e API_KEY="..." -e GEMINI_MODEL="gemini-2.5-flash" -e GEMINI_KB_NAME="optibot-kb" optibot-job
 ```
 
 ## Sample assistant screenshot
@@ -41,8 +48,23 @@ How do I add a YouTube video?
 
 Use the answer with cited `Article URL:` lines for the screenshot.
 
-## Notes
+![Assistant answer with citations](./screenshot.png)
 
-- `manifest.json` stores `article_id`, `slug`, `md5`, and upload metadata.
-- Chunking is logged as a deterministic estimate (`800` tokens with `200` overlap).
-- Daily job counts: `added`, `updated`, `skipped`, `deleted_remote`.
+## Synchronization
+
+The project uses `manifest.json` as its synchronization state.
+
+For each article it stores:
+
+- article ID
+- Markdown filename
+- MD5 checksum
+- Gemini File ID
+- upload timestamp
+
+On each scheduled run:
+
+- New article → Upload
+- Modified article (MD5 changed) → Replace Gemini file and upload
+- Unchanged article → Skip
+- Deleted article → Remove from Gemini and delete from the manifest
