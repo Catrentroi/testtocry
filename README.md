@@ -24,9 +24,18 @@ Artifacts/logs:
 - `logs/daily_job_YYYYMMDD_HHMMSS.json`
 - `logs/gemini_upload_summary.json`
 
-## Chunking strategy
+## Storage & chunking
 
-Each Markdown file is uploaded as one Gemini File API object. Chunk counts are estimated locally for logging: ~1 token ≈ 4 characters, max chunk size **800** tokens, overlap **200** tokens. Gemini handles the actual retrieval indexing server-side; `logs/gemini_upload_summary.json` records `files_uploaded` and `estimated_chunks`.
+This project uses the **Gemini Files API** (one uploaded file per Markdown article). It does **not** use File Search Store or any client-side chunking API.
+
+At upload time we only call `files.upload()` — no chunk size or overlap is sent to Gemini. Indexing and retrieval chunking happen **server-side** inside Gemini; that process is opaque and not exposed in the API response.
+
+`estimated_chunks` in logs and `manifest.json` is a **local approximation for logging only**, not the real chunk count Gemini creates. The estimate uses:
+
+- ~1 token ≈ 4 characters (`len(text) // 4`)
+- hypothetical window: max **800** tokens, overlap **200** tokens
+
+`logs/gemini_upload_summary.json` records `files_uploaded` and `estimated_chunks` under `chunking_strategy.type: "static-estimate"`.
 
 ## Daily job logs (GitHub Actions)
 
