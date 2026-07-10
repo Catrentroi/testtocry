@@ -1,6 +1,6 @@
 {
   "source": "https://support.optisigns.com",
-  "generated_at": "2026-07-09T01:45:06.777040+00:00",
+  "generated_at": "2026-07-10T01:29:43.559478+00:00",
   "articles": {
     "53293393593491": {
       "article_id": "53293393593491",
@@ -9,7 +9,7 @@
       "file_name": "refer-earn-optisigns-referral-program.md",
       "source_url": "https://support.optisigns.com/hc/en-us/articles/53293393593491-Refer-Earn-OptiSigns-Referral-Program",
       "md5": "032f7243014946f99f8cb16eb121b7ad",
-      "status": "new",
+      "status": "unchanged",
       "gemini_file_name": "files/ncnbb8imt2ey",
       "gemini_uploaded_at": "2026-07-09T01:45:08.997899+00:00",
       "upload_status": "uploaded"
@@ -93,9 +93,7 @@
       "file_name": "room-integrations-turn-your-meeting-rooms-into-digital-signage.md",
       "source_url": "https://support.optisigns.com/hc/en-us/articles/52113036672403-Room-Integrations-Turn-Your-Meeting-Rooms-into-Digital-Signage",
       "md5": "1e6f746f6760ebc1dbd6554437a1135d",
-      "status": "modified",
-      "previous_gemini_file_name": "files/4zztsaq19u32",
-      "previous_gemini_uploaded_at": "2026-07-08T05:45:59.832042+00:00",
+      "status": "unchanged",
       "gemini_file_name": "files/v2rmtd38chlu",
       "gemini_uploaded_at": "2026-07-09T01:45:10.177687+00:00",
       "upload_status": "uploaded"
@@ -535,8 +533,11 @@
       "slug": "how-to-set-up-dynamic-data-mapping-with-optisync",
       "file_name": "how-to-set-up-dynamic-data-mapping-with-optisync.md",
       "source_url": "https://support.optisigns.com/hc/en-us/articles/29217646663187-How-to-Set-Up-Dynamic-Data-Mapping-with-OptiSync",
-      "md5": "f019043aff761e313c9dd8a7eefd8fde",
-      "status": "unchanged"
+      "md5": "05fc7d86a7296699825c408ea5217197",
+      "status": "modified",
+      "gemini_file_name": "files/5523544lsedt",
+      "gemini_uploaded_at": "2026-07-10T01:29:45.894004+00:00",
+      "upload_status": "uploaded"
     },
     "28598173096723": {
       "article_id": "28598173096723",
@@ -545,7 +546,7 @@
       "file_name": "how-to-create-and-use-operational-schedules-hdmi-cec-rs-232.md",
       "source_url": "https://support.optisigns.com/hc/en-us/articles/28598173096723-How-To-Create-and-Use-Operational-Schedules-HDMI-CEC-RS-232",
       "md5": "59cdd7bdba783ebcd9adfe1eccc0a0ed",
-      "status": "modified",
+      "status": "unchanged",
       "gemini_file_name": "files/gkw3nul1mrzk",
       "gemini_uploaded_at": "2026-07-09T01:45:11.111788+00:00",
       "upload_status": "uploaded"
@@ -1864,8 +1865,11 @@
       "slug": "how-to-create-and-use-the-split-screen-app",
       "file_name": "how-to-create-and-use-the-split-screen-app.md",
       "source_url": "https://support.optisigns.com/hc/en-us/articles/360026559573-How-to-Create-and-Use-the-Split-Screen-App",
-      "md5": "8aebbb8d6b4c11fb793fcd204967d335",
-      "status": "unchanged"
+      "md5": "4754d607830024ce511d8950b0d171a9",
+      "status": "modified",
+      "gemini_file_name": "files/nl2jd2i10bdb",
+      "gemini_uploaded_at": "2026-07-10T01:29:48.809130+00:00",
+      "upload_status": "uploaded"
     },
     "360025661053": {
       "article_id": "360025661053",
@@ -3380,9 +3384,7 @@
       "file_name": "how-to-use-youtube-with-optisigns.md",
       "source_url": "https://support.optisigns.com/hc/en-us/articles/360051014713-How-to-use-YouTube-with-OptiSigns",
       "md5": "36c059dc88ae2c8e65cc6cd9af9b4474",
-      "status": "modified",
-      "previous_gemini_file_name": "files/yviwjg9xgrhv",
-      "previous_gemini_uploaded_at": "2026-07-08T05:45:38.401388+00:00",
+      "status": "unchanged",
       "gemini_file_name": "files/dnh69ync2wxu",
       "gemini_uploaded_at": "2026-07-09T01:45:12.500789+00:00",
       "upload_status": "uploaded"
@@ -3759,16 +3761,16 @@
   },
   "deleted_articles": [],
   "stats": {
-    "new": 1,
-    "modified": 3,
-    "unchanged": 402,
+    "new": 0,
+    "modified": 2,
+    "unchanged": 404,
     "deleted": 0
   },
   "last_upload_summary": {
-    "files_discovered": 4,
-    "files_uploaded": 4,
+    "files_discovered": 2,
+    "files_uploaded": 2,
     "files_failed": 0,
-    "estimated_chunks": 12,
-    "updated_at": "2026-07-09T01:45:12.501120+00:00"
+    "estimated_chunks": 10,
+    "updated_at": "2026-07-10T01:29:48.809407+00:00"
   }
 }
