@@ -1,6 +1,6 @@
 {
   "source": "https://support.optisigns.com",
-  "generated_at": "2026-07-15T01:12:37.106878+00:00",
+  "generated_at": "2026-07-16T01:21:38.107865+00:00",
   "articles": {
     "53293393593491": {
       "article_id": "53293393593491",
@@ -1416,7 +1416,7 @@
       "file_name": "custom-branding-settings.md",
       "source_url": "https://support.optisigns.com/hc/en-us/articles/1500000485202-Custom-Branding-Settings",
       "md5": "e6db42e19abb29d25e07c64833b95f5b",
-      "status": "modified",
+      "status": "unchanged",
       "gemini_file_name": "files/9asnrp6owjlx",
       "gemini_uploaded_at": "2026-07-15T01:12:39.288920+00:00",
       "upload_status": "uploaded"
@@ -1428,7 +1428,7 @@
       "file_name": "advanced-custom-domain-mapping.md",
       "source_url": "https://support.optisigns.com/hc/en-us/articles/1500000480302-Advanced-Custom-Domain-Mapping",
       "md5": "9a9c53fc02a52680680cc6d1cf97ffe9",
-      "status": "modified",
+      "status": "unchanged",
       "gemini_file_name": "files/paysj745wmgq",
       "gemini_uploaded_at": "2026-07-15T01:12:41.255371+00:00",
       "upload_status": "uploaded"
@@ -3768,15 +3768,15 @@
   "deleted_articles": [],
   "stats": {
     "new": 0,
-    "modified": 2,
-    "unchanged": 404,
+    "modified": 0,
+    "unchanged": 406,
     "deleted": 0
   },
   "last_upload_summary": {
-    "files_discovered": 2,
-    "files_uploaded": 2,
+    "files_discovered": 0,
+    "files_uploaded": 0,
     "files_failed": 0,
-    "estimated_chunks": 5,
-    "updated_at": "2026-07-15T01:12:41.255615+00:00"
+    "estimated_chunks": 0,
+    "updated_at": "2026-07-16T01:21:39.657450+00:00"
   }
 }
