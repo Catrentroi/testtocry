@@ -1,7 +1,19 @@
 {
   "source": "https://support.optisigns.com",
-  "generated_at": "2026-07-16T01:21:38.107865+00:00",
+  "generated_at": "2026-07-17T01:25:04.469257+00:00",
   "articles": {
+    "53497007807251": {
+      "article_id": "53497007807251",
+      "title": "Device Management and Mass Provisioning",
+      "slug": "device-management-and-mass-provisioning",
+      "file_name": "device-management-and-mass-provisioning.md",
+      "source_url": "https://support.optisigns.com/hc/en-us/articles/53497007807251-Device-Management-and-Mass-Provisioning",
+      "md5": "d1f50ec15bfe2fe3d36b38a785624dcd",
+      "status": "new",
+      "gemini_file_name": "files/dazwhlk9oc7y",
+      "gemini_uploaded_at": "2026-07-17T01:25:07.655222+00:00",
+      "upload_status": "uploaded"
+    },
     "53293393593491": {
       "article_id": "53293393593491",
       "title": "Refer & Earn: OptiSigns Referral Program",
@@ -3767,16 +3779,16 @@
   },
   "deleted_articles": [],
   "stats": {
-    "new": 0,
+    "new": 1,
     "modified": 0,
     "unchanged": 406,
     "deleted": 0
   },
   "last_upload_summary": {
-    "files_discovered": 0,
-    "files_uploaded": 0,
+    "files_discovered": 1,
+    "files_uploaded": 1,
     "files_failed": 0,
-    "estimated_chunks": 0,
-    "updated_at": "2026-07-16T01:21:39.657450+00:00"
+    "estimated_chunks": 6,
+    "updated_at": "2026-07-17T01:25:07.655399+00:00"
   }
 }
