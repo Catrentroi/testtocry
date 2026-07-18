@@ -1,6 +1,6 @@
 {
   "source": "https://support.optisigns.com",
-  "generated_at": "2026-07-17T01:25:04.469257+00:00",
+  "generated_at": "2026-07-18T01:16:50.538817+00:00",
   "articles": {
     "53497007807251": {
       "article_id": "53497007807251",
@@ -9,7 +9,7 @@
       "file_name": "device-management-and-mass-provisioning.md",
       "source_url": "https://support.optisigns.com/hc/en-us/articles/53497007807251-Device-Management-and-Mass-Provisioning",
       "md5": "d1f50ec15bfe2fe3d36b38a785624dcd",
-      "status": "new",
+      "status": "unchanged",
       "gemini_file_name": "files/dazwhlk9oc7y",
       "gemini_uploaded_at": "2026-07-17T01:25:07.655222+00:00",
       "upload_status": "uploaded"
@@ -116,10 +116,12 @@
       "slug": "connect-zoom-rooms-to-optisigns-digital-signage",
       "file_name": "connect-zoom-rooms-to-optisigns-digital-signage.md",
       "source_url": "https://support.optisigns.com/hc/en-us/articles/52069065128723-Connect-Zoom-Rooms-to-OptiSigns-Digital-Signage",
-      "md5": "b5eb7657726b3d795118e2a56966f179",
-      "status": "unchanged",
-      "gemini_file_name": "files/fkdzn1hi14xe",
-      "gemini_uploaded_at": "2026-07-08T05:46:02.387689+00:00",
+      "md5": "f95ffd714f4e0bbda9a2be7f7703d23f",
+      "status": "modified",
+      "previous_gemini_file_name": "files/fkdzn1hi14xe",
+      "previous_gemini_uploaded_at": "2026-07-08T05:46:02.387689+00:00",
+      "gemini_file_name": "files/ycixb32qgzrb",
+      "gemini_uploaded_at": "2026-07-18T01:16:53.214004+00:00",
       "upload_status": "uploaded"
     },
     "51343184586643": {
@@ -419,8 +421,11 @@
       "slug": "making-a-video-wall-with-optisigns-video-wall-app",
       "file_name": "making-a-video-wall-with-optisigns-video-wall-app.md",
       "source_url": "https://support.optisigns.com/hc/en-us/articles/33382537925267-Making-a-Video-Wall-with-OptiSigns-Video-Wall-App",
-      "md5": "599515117987d80f4d4a0a8842cbf788",
-      "status": "unchanged"
+      "md5": "f2aa33b952c154cabc396d6bc2b09eaf",
+      "status": "modified",
+      "gemini_file_name": "files/fivv62z96sgm",
+      "gemini_uploaded_at": "2026-07-18T01:16:54.511145+00:00",
+      "upload_status": "uploaded"
     },
     "32860569148819": {
       "article_id": "32860569148819",
@@ -3779,16 +3784,16 @@
   },
   "deleted_articles": [],
   "stats": {
-    "new": 1,
-    "modified": 0,
-    "unchanged": 406,
+    "new": 0,
+    "modified": 2,
+    "unchanged": 405,
     "deleted": 0
   },
   "last_upload_summary": {
-    "files_discovered": 1,
-    "files_uploaded": 1,
+    "files_discovered": 2,
+    "files_uploaded": 2,
     "files_failed": 0,
-    "estimated_chunks": 6,
-    "updated_at": "2026-07-17T01:25:07.655399+00:00"
+    "estimated_chunks": 11,
+    "updated_at": "2026-07-18T01:16:54.511451+00:00"
   }
 }
