@@ -1,6 +1,6 @@
 {
   "source": "https://support.optisigns.com",
-  "generated_at": "2026-07-18T01:16:50.538817+00:00",
+  "generated_at": "2026-07-19T01:22:33.696065+00:00",
   "articles": {
     "53497007807251": {
       "article_id": "53497007807251",
@@ -117,9 +117,7 @@
       "file_name": "connect-zoom-rooms-to-optisigns-digital-signage.md",
       "source_url": "https://support.optisigns.com/hc/en-us/articles/52069065128723-Connect-Zoom-Rooms-to-OptiSigns-Digital-Signage",
       "md5": "f95ffd714f4e0bbda9a2be7f7703d23f",
-      "status": "modified",
-      "previous_gemini_file_name": "files/fkdzn1hi14xe",
-      "previous_gemini_uploaded_at": "2026-07-08T05:46:02.387689+00:00",
+      "status": "unchanged",
       "gemini_file_name": "files/ycixb32qgzrb",
       "gemini_uploaded_at": "2026-07-18T01:16:53.214004+00:00",
       "upload_status": "uploaded"
@@ -422,7 +420,7 @@
       "file_name": "making-a-video-wall-with-optisigns-video-wall-app.md",
       "source_url": "https://support.optisigns.com/hc/en-us/articles/33382537925267-Making-a-Video-Wall-with-OptiSigns-Video-Wall-App",
       "md5": "f2aa33b952c154cabc396d6bc2b09eaf",
-      "status": "modified",
+      "status": "unchanged",
       "gemini_file_name": "files/fivv62z96sgm",
       "gemini_uploaded_at": "2026-07-18T01:16:54.511145+00:00",
       "upload_status": "uploaded"
@@ -3785,15 +3783,15 @@
   "deleted_articles": [],
   "stats": {
     "new": 0,
-    "modified": 2,
-    "unchanged": 405,
+    "modified": 0,
+    "unchanged": 407,
     "deleted": 0
   },
   "last_upload_summary": {
-    "files_discovered": 2,
-    "files_uploaded": 2,
+    "files_discovered": 0,
+    "files_uploaded": 0,
     "files_failed": 0,
-    "estimated_chunks": 11,
-    "updated_at": "2026-07-18T01:16:54.511451+00:00"
+    "estimated_chunks": 0,
+    "updated_at": "2026-07-19T01:22:35.339315+00:00"
   }
 }
