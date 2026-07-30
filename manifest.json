@@ -1,6 +1,6 @@
 {
   "source": "https://support.optisigns.com",
-  "generated_at": "2026-07-29T01:21:51.944324+00:00",
+  "generated_at": "2026-07-30T01:15:16.157388+00:00",
   "articles": {
     "53497007807251": {
       "article_id": "53497007807251",
@@ -3071,8 +3071,11 @@
       "slug": "displaying-sharepoint-sites-on-optisigns",
       "file_name": "displaying-sharepoint-sites-on-optisigns.md",
       "source_url": "https://support.optisigns.com/hc/en-us/articles/4414539282067-Displaying-SharePoint-Sites-on-OptiSigns",
-      "md5": "77a27605badcc22eaadb45cd10e7faff",
-      "status": "unchanged"
+      "md5": "2b5c922cda3bcfcfd3f67cee5f39ec9f",
+      "status": "modified",
+      "gemini_file_name": "files/o90qk4hknaz1",
+      "gemini_uploaded_at": "2026-07-30T01:15:18.374246+00:00",
+      "upload_status": "uploaded"
     },
     "4414355658899": {
       "article_id": "4414355658899",
@@ -3783,15 +3786,15 @@
   "deleted_articles": [],
   "stats": {
     "new": 0,
-    "modified": 0,
-    "unchanged": 407,
+    "modified": 1,
+    "unchanged": 406,
     "deleted": 0
   },
   "last_upload_summary": {
-    "files_discovered": 0,
-    "files_uploaded": 0,
+    "files_discovered": 1,
+    "files_uploaded": 1,
     "files_failed": 0,
-    "estimated_chunks": 0,
-    "updated_at": "2026-07-29T01:21:53.256328+00:00"
+    "estimated_chunks": 3,
+    "updated_at": "2026-07-30T01:15:18.374549+00:00"
   }
 }
