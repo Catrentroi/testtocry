@@ -1,6 +1,6 @@
 {
   "source": "https://support.optisigns.com",
-  "generated_at": "2026-08-01T01:29:54.813120+00:00",
+  "generated_at": "2026-08-02T01:27:38.125319+00:00",
   "articles": {
     "53497007807251": {
       "article_id": "53497007807251",
@@ -1284,7 +1284,7 @@
       "file_name": "how-to-use-the-web-scripting-app.md",
       "source_url": "https://support.optisigns.com/hc/en-us/articles/1500012522362-How-to-use-the-Web-Scripting-App",
       "md5": "85e051c8fb7a75fe0bf37db43a9cd82e",
-      "status": "modified",
+      "status": "unchanged",
       "gemini_file_name": "files/1mz7gy84x7qr",
       "gemini_uploaded_at": "2026-08-01T01:29:57.397636+00:00",
       "upload_status": "uploaded"
@@ -3789,15 +3789,15 @@
   "deleted_articles": [],
   "stats": {
     "new": 0,
-    "modified": 1,
-    "unchanged": 406,
+    "modified": 0,
+    "unchanged": 407,
     "deleted": 0
   },
   "last_upload_summary": {
-    "files_discovered": 1,
-    "files_uploaded": 1,
+    "files_discovered": 0,
+    "files_uploaded": 0,
     "files_failed": 0,
-    "estimated_chunks": 4,
-    "updated_at": "2026-08-01T01:29:57.397903+00:00"
+    "estimated_chunks": 0,
+    "updated_at": "2026-08-02T01:27:39.803048+00:00"
   }
 }
