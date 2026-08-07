@@ -1,6 +1,6 @@
 {
   "source": "https://support.optisigns.com",
-  "generated_at": "2026-08-06T01:18:55.690786+00:00",
+  "generated_at": "2026-08-07T01:59:56.241060+00:00",
   "articles": {
     "54095075680275": {
       "article_id": "54095075680275",
@@ -9,7 +9,7 @@
       "file_name": "optidev-add-on-free-trial-and-pricing.md",
       "source_url": "https://support.optisigns.com/hc/en-us/articles/54095075680275-OptiDev-Add-on-Free-Trial-and-Pricing",
       "md5": "d876fe2e9728ff8e7feaf4bc1e4642fc",
-      "status": "new",
+      "status": "unchanged",
       "gemini_file_name": "files/gg8zwkiifex3",
       "gemini_uploaded_at": "2026-08-06T01:18:59.550872+00:00",
       "upload_status": "uploaded"
@@ -21,9 +21,7 @@
       "file_name": "how-to-display-databricks-dashboards-on-optisigns.md",
       "source_url": "https://support.optisigns.com/hc/en-us/articles/53952018650515-How-to-Display-Databricks-Dashboards-on-OptiSigns",
       "md5": "d781859f426f2bcb08801097d1b6e651",
-      "status": "modified",
-      "previous_gemini_file_name": "files/zncgj83kez33",
-      "previous_gemini_uploaded_at": "2026-08-05T01:21:46.769890+00:00",
+      "status": "unchanged",
       "gemini_file_name": "files/jihuh0usxfrt",
       "gemini_uploaded_at": "2026-08-06T01:19:01.108303+00:00",
       "upload_status": "uploaded"
@@ -3800,31 +3798,18 @@
       "status": "unchanged"
     }
   },
-  "deleted_articles": [
-    {
-      "article_id": "47616485609491",
-      "title": "How to Use the OptiDev App",
-      "slug": "how-to-use-the-optidev-app",
-      "file_name": "how-to-use-the-optidev-app.md",
-      "source_url": "https://support.optisigns.com/hc/en-us/articles/47616485609491-How-to-Use-the-OptiDev-App",
-      "md5": "eadaec99d8fa563be814dc9a3341e851",
-      "status": "unchanged",
-      "gemini_file_name": "files/b2q7x3r32vz5",
-      "gemini_uploaded_at": "2026-07-08T05:46:19.010521+00:00",
-      "upload_status": "uploaded"
-    }
-  ],
+  "deleted_articles": [],
   "stats": {
-    "new": 1,
-    "modified": 1,
-    "unchanged": 406,
-    "deleted": 1
+    "new": 0,
+    "modified": 0,
+    "unchanged": 408,
+    "deleted": 0
   },
   "last_upload_summary": {
-    "files_discovered": 2,
-    "files_uploaded": 2,
+    "files_discovered": 0,
+    "files_uploaded": 0,
     "files_failed": 0,
-    "estimated_chunks": 10,
-    "updated_at": "2026-08-06T01:19:01.108632+00:00"
+    "estimated_chunks": 0,
+    "updated_at": "2026-08-07T01:59:57.631684+00:00"
   }
 }
