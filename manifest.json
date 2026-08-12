@@ -1,6 +1,6 @@
 {
   "source": "https://support.optisigns.com",
-  "generated_at": "2026-08-11T00:47:19.958125+00:00",
+  "generated_at": "2026-08-12T00:54:57.106150+00:00",
   "articles": {
     "54095075680275": {
       "article_id": "54095075680275",
@@ -20,10 +20,12 @@
       "slug": "how-to-display-databricks-dashboards-on-optisigns",
       "file_name": "how-to-display-databricks-dashboards-on-optisigns.md",
       "source_url": "https://support.optisigns.com/hc/en-us/articles/53952018650515-How-to-Display-Databricks-Dashboards-on-OptiSigns",
-      "md5": "d781859f426f2bcb08801097d1b6e651",
-      "status": "unchanged",
-      "gemini_file_name": "files/jihuh0usxfrt",
-      "gemini_uploaded_at": "2026-08-06T01:19:01.108303+00:00",
+      "md5": "a38400f8d7ec8c481a298d1ba2c3ad57",
+      "status": "modified",
+      "previous_gemini_file_name": "files/jihuh0usxfrt",
+      "previous_gemini_uploaded_at": "2026-08-06T01:19:01.108303+00:00",
+      "gemini_file_name": "files/40nfk1eevrze",
+      "gemini_uploaded_at": "2026-08-12T00:55:00.622209+00:00",
       "upload_status": "uploaded"
     },
     "53497007807251": {
@@ -2084,8 +2086,11 @@
       "slug": "how-to-use-google-slides-with-optisigns",
       "file_name": "how-to-use-google-slides-with-optisigns.md",
       "source_url": "https://support.optisigns.com/hc/en-us/articles/360050642833-How-to-Use-Google-Slides-with-OptiSigns",
-      "md5": "b55904888967007cdbd45e7c3da215ab",
-      "status": "unchanged"
+      "md5": "eed6f5afd6117168efc979ae654269dc",
+      "status": "modified",
+      "gemini_file_name": "files/zbfcxo3fd7im",
+      "gemini_uploaded_at": "2026-08-12T00:55:01.562648+00:00",
+      "upload_status": "uploaded"
     },
     "360041501494": {
       "article_id": "360041501494",
@@ -2411,8 +2416,11 @@
       "slug": "photos-gifs-and-qr-codes-in-designer",
       "file_name": "photos-gifs-and-qr-codes-in-designer.md",
       "source_url": "https://support.optisigns.com/hc/en-us/articles/42526907045651-Photos-GIFs-and-QR-Codes-in-Designer",
-      "md5": "d4d2231445b3a86e3f83e50706044598",
-      "status": "unchanged"
+      "md5": "cf29c8b103785fb050b09495eab2a9b2",
+      "status": "modified",
+      "gemini_file_name": "files/k7qqxed7ywu1",
+      "gemini_uploaded_at": "2026-08-12T00:55:03.098379+00:00",
+      "upload_status": "uploaded"
     },
     "29979283289235": {
       "article_id": "29979283289235",
@@ -3801,15 +3809,15 @@
   "deleted_articles": [],
   "stats": {
     "new": 0,
-    "modified": 0,
-    "unchanged": 408,
+    "modified": 3,
+    "unchanged": 405,
     "deleted": 0
   },
   "last_upload_summary": {
-    "files_discovered": 0,
-    "files_uploaded": 0,
+    "files_discovered": 3,
+    "files_uploaded": 3,
     "files_failed": 0,
-    "estimated_chunks": 0,
-    "updated_at": "2026-08-11T00:47:21.439625+00:00"
+    "estimated_chunks": 19,
+    "updated_at": "2026-08-12T00:55:03.098668+00:00"
   }
 }
