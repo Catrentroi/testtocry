@@ -1,6 +1,6 @@
 {
   "source": "https://support.optisigns.com",
-  "generated_at": "2026-08-12T00:54:57.106150+00:00",
+  "generated_at": "2026-08-13T00:56:25.524408+00:00",
   "articles": {
     "54095075680275": {
       "article_id": "54095075680275",
@@ -21,9 +21,7 @@
       "file_name": "how-to-display-databricks-dashboards-on-optisigns.md",
       "source_url": "https://support.optisigns.com/hc/en-us/articles/53952018650515-How-to-Display-Databricks-Dashboards-on-OptiSigns",
       "md5": "a38400f8d7ec8c481a298d1ba2c3ad57",
-      "status": "modified",
-      "previous_gemini_file_name": "files/jihuh0usxfrt",
-      "previous_gemini_uploaded_at": "2026-08-06T01:19:01.108303+00:00",
+      "status": "unchanged",
       "gemini_file_name": "files/40nfk1eevrze",
       "gemini_uploaded_at": "2026-08-12T00:55:00.622209+00:00",
       "upload_status": "uploaded"
@@ -70,10 +68,12 @@
       "slug": "using-the-japan-earthquake-app",
       "file_name": "using-the-japan-earthquake-app.md",
       "source_url": "https://support.optisigns.com/hc/en-us/articles/53095698149011-Using-the-Japan-Earthquake-App",
-      "md5": "cfdc87562bac6ebd3e13355cc03dd1c2",
-      "status": "unchanged",
-      "gemini_file_name": "files/qq50guihunuc",
-      "gemini_uploaded_at": "2026-07-08T05:45:45.024328+00:00",
+      "md5": "a283dc127abcea7558f8e073ced2e0fe",
+      "status": "modified",
+      "previous_gemini_file_name": "files/qq50guihunuc",
+      "previous_gemini_uploaded_at": "2026-07-08T05:45:45.024328+00:00",
+      "gemini_file_name": "files/zja8met9vywh",
+      "gemini_uploaded_at": "2026-08-13T00:56:27.791811+00:00",
       "upload_status": "uploaded"
     },
     "53028011485715": {
@@ -2087,7 +2087,7 @@
       "file_name": "how-to-use-google-slides-with-optisigns.md",
       "source_url": "https://support.optisigns.com/hc/en-us/articles/360050642833-How-to-Use-Google-Slides-with-OptiSigns",
       "md5": "eed6f5afd6117168efc979ae654269dc",
-      "status": "modified",
+      "status": "unchanged",
       "gemini_file_name": "files/zbfcxo3fd7im",
       "gemini_uploaded_at": "2026-08-12T00:55:01.562648+00:00",
       "upload_status": "uploaded"
@@ -2417,7 +2417,7 @@
       "file_name": "photos-gifs-and-qr-codes-in-designer.md",
       "source_url": "https://support.optisigns.com/hc/en-us/articles/42526907045651-Photos-GIFs-and-QR-Codes-in-Designer",
       "md5": "cf29c8b103785fb050b09495eab2a9b2",
-      "status": "modified",
+      "status": "unchanged",
       "gemini_file_name": "files/k7qqxed7ywu1",
       "gemini_uploaded_at": "2026-08-12T00:55:03.098379+00:00",
       "upload_status": "uploaded"
@@ -3809,15 +3809,15 @@
   "deleted_articles": [],
   "stats": {
     "new": 0,
-    "modified": 3,
-    "unchanged": 405,
+    "modified": 1,
+    "unchanged": 407,
     "deleted": 0
   },
   "last_upload_summary": {
-    "files_discovered": 3,
-    "files_uploaded": 3,
+    "files_discovered": 1,
+    "files_uploaded": 1,
     "files_failed": 0,
-    "estimated_chunks": 19,
-    "updated_at": "2026-08-12T00:55:03.098668+00:00"
+    "estimated_chunks": 2,
+    "updated_at": "2026-08-13T00:56:27.792089+00:00"
   }
 }
