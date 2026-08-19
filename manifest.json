@@ -1,6 +1,6 @@
 {
   "source": "https://support.optisigns.com",
-  "generated_at": "2026-08-18T00:31:21.853269+00:00",
+  "generated_at": "2026-08-19T00:32:11.191762+00:00",
   "articles": {
     "54095075680275": {
       "article_id": "54095075680275",
@@ -561,9 +561,7 @@
       "file_name": "how-to-set-up-dynamic-data-mapping-with-optisync.md",
       "source_url": "https://support.optisigns.com/hc/en-us/articles/29217646663187-How-to-Set-Up-Dynamic-Data-Mapping-with-OptiSync",
       "md5": "0806971340702fcbe8cdca0436af7381",
-      "status": "modified",
-      "previous_gemini_file_name": "files/5523544lsedt",
-      "previous_gemini_uploaded_at": "2026-07-10T01:29:45.894004+00:00",
+      "status": "unchanged",
       "gemini_file_name": "files/coydn84m9jng",
       "gemini_uploaded_at": "2026-08-18T00:31:23.397975+00:00",
       "upload_status": "uploaded"
@@ -758,7 +756,7 @@
       "file_name": "how-to-integrate-api-and-publish-api-data-via-optisync.md",
       "source_url": "https://support.optisigns.com/hc/en-us/articles/22875592994195-How-to-Integrate-API-and-Publish-API-Data-via-OptiSync",
       "md5": "672282aa9a6b1cf058cd219e6a45fd12",
-      "status": "modified",
+      "status": "unchanged",
       "gemini_file_name": "files/5qcikbrbc11n",
       "gemini_uploaded_at": "2026-08-18T00:31:24.099483+00:00",
       "upload_status": "uploaded"
@@ -1682,7 +1680,7 @@
       "file_name": "whitelist-optisigns-ip-addresses-ports.md",
       "source_url": "https://support.optisigns.com/hc/en-us/articles/360047275934-Whitelist-OptiSigns-IP-addresses-ports",
       "md5": "db44c508ae18aa57a08d0908e030bc3b",
-      "status": "modified",
+      "status": "unchanged",
       "gemini_file_name": "files/j87lmyqf9ajw",
       "gemini_uploaded_at": "2026-08-18T00:31:24.922525+00:00",
       "upload_status": "uploaded"
@@ -3818,15 +3816,15 @@
   "deleted_articles": [],
   "stats": {
     "new": 0,
-    "modified": 3,
-    "unchanged": 405,
+    "modified": 0,
+    "unchanged": 408,
     "deleted": 0
   },
   "last_upload_summary": {
-    "files_discovered": 3,
-    "files_uploaded": 3,
+    "files_discovered": 0,
+    "files_uploaded": 0,
     "files_failed": 0,
-    "estimated_chunks": 17,
-    "updated_at": "2026-08-18T00:31:24.922795+00:00"
+    "estimated_chunks": 0,
+    "updated_at": "2026-08-19T00:32:13.090529+00:00"
   }
 }
