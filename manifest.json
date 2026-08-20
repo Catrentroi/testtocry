@@ -1,6 +1,6 @@
 {
   "source": "https://support.optisigns.com",
-  "generated_at": "2026-08-19T00:32:11.191762+00:00",
+  "generated_at": "2026-08-20T00:31:38.518531+00:00",
   "articles": {
     "54095075680275": {
       "article_id": "54095075680275",
@@ -3626,10 +3626,12 @@
       "slug": "how-to-use-the-simple-clock-app",
       "file_name": "how-to-use-the-simple-clock-app.md",
       "source_url": "https://support.optisigns.com/hc/en-us/articles/360042950593-How-to-Use-the-Simple-Clock-App",
-      "md5": "58dce3d99cbddef1304aa94c44d39794",
-      "status": "unchanged",
-      "gemini_file_name": "files/ggxw7yx3yjhj",
-      "gemini_uploaded_at": "2026-08-15T00:31:58.913435+00:00",
+      "md5": "b4b2a0df5bfefece8bee63f3b6e3ab41",
+      "status": "modified",
+      "previous_gemini_file_name": "files/ggxw7yx3yjhj",
+      "previous_gemini_uploaded_at": "2026-08-15T00:31:58.913435+00:00",
+      "gemini_file_name": "files/hfzivmoc3mzy",
+      "gemini_uploaded_at": "2026-08-20T00:31:40.013848+00:00",
       "upload_status": "uploaded"
     },
     "360042450514": {
@@ -3809,22 +3811,25 @@
       "slug": "how-to-use-the-website-app-and-display-urls-on-optisigns",
       "file_name": "how-to-use-the-website-app-and-display-urls-on-optisigns.md",
       "source_url": "https://support.optisigns.com/hc/en-us/articles/360016382473-How-to-Use-the-Website-App-and-Display-URLs-on-OptiSigns",
-      "md5": "00120fa0f8f23a886af52d4b126953f0",
-      "status": "unchanged"
+      "md5": "74f44d1a39cac01dc9ffc07de8ab6157",
+      "status": "modified",
+      "gemini_file_name": "files/9pwrq32rgdmb",
+      "gemini_uploaded_at": "2026-08-20T00:31:41.106763+00:00",
+      "upload_status": "uploaded"
     }
   },
   "deleted_articles": [],
   "stats": {
     "new": 0,
-    "modified": 0,
-    "unchanged": 408,
+    "modified": 2,
+    "unchanged": 406,
     "deleted": 0
   },
   "last_upload_summary": {
-    "files_discovered": 0,
-    "files_uploaded": 0,
+    "files_discovered": 2,
+    "files_uploaded": 2,
     "files_failed": 0,
-    "estimated_chunks": 0,
-    "updated_at": "2026-08-19T00:32:13.090529+00:00"
+    "estimated_chunks": 5,
+    "updated_at": "2026-08-20T00:31:41.107001+00:00"
   }
 }
