@@ -1,6 +1,6 @@
 {
   "source": "https://support.optisigns.com",
-  "generated_at": "2026-08-20T00:31:38.518531+00:00",
+  "generated_at": "2026-08-21T00:34:15.782822+00:00",
   "articles": {
     "54095075680275": {
       "article_id": "54095075680275",
@@ -844,12 +844,15 @@
     },
     "19171222981523": {
       "article_id": "19171222981523",
-      "title": "How to use Yammer app on OptiSigns",
-      "slug": "how-to-use-yammer-app-on-optisigns",
-      "file_name": "how-to-use-yammer-app-on-optisigns.md",
-      "source_url": "https://support.optisigns.com/hc/en-us/articles/19171222981523-How-to-use-Yammer-app-on-OptiSigns",
-      "md5": "678c316df0b98632b1cd28d7d15c8721",
-      "status": "unchanged"
+      "title": "How to Use the Viva Engage app (formerly Yammer) on OptiSigns",
+      "slug": "how-to-use-the-viva-engage-app-formerly-yammer-on-optisigns",
+      "file_name": "how-to-use-the-viva-engage-app-formerly-yammer-on-optisigns.md",
+      "source_url": "https://support.optisigns.com/hc/en-us/articles/19171222981523-How-to-Use-the-Viva-Engage-app-formerly-Yammer-on-OptiSigns",
+      "md5": "206556f3bb8a26192ed49a40c2906467",
+      "status": "modified",
+      "gemini_file_name": "files/dtptujp3a1y3",
+      "gemini_uploaded_at": "2026-08-21T00:34:17.794022+00:00",
+      "upload_status": "uploaded"
     },
     "18988049363859": {
       "article_id": "18988049363859",
@@ -1813,12 +1816,15 @@
     },
     "360037416494": {
       "article_id": "360037416494",
-      "title": "How to use the Atlassian JIRA app",
-      "slug": "how-to-use-the-atlassian-jira-app",
-      "file_name": "how-to-use-the-atlassian-jira-app.md",
-      "source_url": "https://support.optisigns.com/hc/en-us/articles/360037416494-How-to-use-the-Atlassian-JIRA-app",
-      "md5": "b66241aa107946cbd0a67b49fa58763b",
-      "status": "unchanged"
+      "title": "How to use the Jira (formerly Atlassian JIRA) app",
+      "slug": "how-to-use-the-jira-formerly-atlassian-jira-app",
+      "file_name": "how-to-use-the-jira-formerly-atlassian-jira-app.md",
+      "source_url": "https://support.optisigns.com/hc/en-us/articles/360037416494-How-to-use-the-Jira-formerly-Atlassian-JIRA-app",
+      "md5": "60bf389f5f693f2e8b00697d34a129d7",
+      "status": "modified",
+      "gemini_file_name": "files/3b412n015ahg",
+      "gemini_uploaded_at": "2026-08-21T00:34:18.732404+00:00",
+      "upload_status": "uploaded"
     },
     "360037391854": {
       "article_id": "360037391854",
@@ -3627,9 +3633,7 @@
       "file_name": "how-to-use-the-simple-clock-app.md",
       "source_url": "https://support.optisigns.com/hc/en-us/articles/360042950593-How-to-Use-the-Simple-Clock-App",
       "md5": "b4b2a0df5bfefece8bee63f3b6e3ab41",
-      "status": "modified",
-      "previous_gemini_file_name": "files/ggxw7yx3yjhj",
-      "previous_gemini_uploaded_at": "2026-08-15T00:31:58.913435+00:00",
+      "status": "unchanged",
       "gemini_file_name": "files/hfzivmoc3mzy",
       "gemini_uploaded_at": "2026-08-20T00:31:40.013848+00:00",
       "upload_status": "uploaded"
@@ -3812,7 +3816,7 @@
       "file_name": "how-to-use-the-website-app-and-display-urls-on-optisigns.md",
       "source_url": "https://support.optisigns.com/hc/en-us/articles/360016382473-How-to-Use-the-Website-App-and-Display-URLs-on-OptiSigns",
       "md5": "74f44d1a39cac01dc9ffc07de8ab6157",
-      "status": "modified",
+      "status": "unchanged",
       "gemini_file_name": "files/9pwrq32rgdmb",
       "gemini_uploaded_at": "2026-08-20T00:31:41.106763+00:00",
       "upload_status": "uploaded"
@@ -3829,7 +3833,7 @@
     "files_discovered": 2,
     "files_uploaded": 2,
     "files_failed": 0,
-    "estimated_chunks": 5,
-    "updated_at": "2026-08-20T00:31:41.107001+00:00"
+    "estimated_chunks": 3,
+    "updated_at": "2026-08-21T00:34:18.732704+00:00"
   }
 }
