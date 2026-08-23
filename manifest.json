@@ -1,6 +1,6 @@
 {
   "source": "https://support.optisigns.com",
-  "generated_at": "2026-08-22T00:31:21.618399+00:00",
+  "generated_at": "2026-08-23T00:34:25.471666+00:00",
   "articles": {
     "54095075680275": {
       "article_id": "54095075680275",
@@ -849,9 +849,7 @@
       "file_name": "how-to-use-the-viva-engage-app-formerly-yammer-on-optisigns.md",
       "source_url": "https://support.optisigns.com/hc/en-us/articles/19171222981523-How-to-Use-the-Viva-Engage-app-formerly-Yammer-on-OptiSigns",
       "md5": "a651f91c89a822419af943876d760822",
-      "status": "modified",
-      "previous_gemini_file_name": "files/dtptujp3a1y3",
-      "previous_gemini_uploaded_at": "2026-08-21T00:34:17.794022+00:00",
+      "status": "unchanged",
       "gemini_file_name": "files/95j5gsz3qb86",
       "gemini_uploaded_at": "2026-08-22T00:31:24.102133+00:00",
       "upload_status": "uploaded"
@@ -3635,9 +3633,7 @@
       "file_name": "how-to-use-the-simple-clock-app.md",
       "source_url": "https://support.optisigns.com/hc/en-us/articles/360042950593-How-to-Use-the-Simple-Clock-App",
       "md5": "3d58620f0b2fac2be251012bcf6f9ac2",
-      "status": "modified",
-      "previous_gemini_file_name": "files/hfzivmoc3mzy",
-      "previous_gemini_uploaded_at": "2026-08-20T00:31:40.013848+00:00",
+      "status": "unchanged",
       "gemini_file_name": "files/pow04zlk82c7",
       "gemini_uploaded_at": "2026-08-22T00:31:25.404195+00:00",
       "upload_status": "uploaded"
@@ -3829,15 +3825,15 @@
   "deleted_articles": [],
   "stats": {
     "new": 0,
-    "modified": 2,
-    "unchanged": 406,
+    "modified": 0,
+    "unchanged": 408,
     "deleted": 0
   },
   "last_upload_summary": {
-    "files_discovered": 2,
-    "files_uploaded": 2,
+    "files_discovered": 0,
+    "files_uploaded": 0,
     "files_failed": 0,
-    "estimated_chunks": 5,
-    "updated_at": "2026-08-22T00:31:25.404481+00:00"
+    "estimated_chunks": 0,
+    "updated_at": "2026-08-23T00:34:26.442203+00:00"
   }
 }
