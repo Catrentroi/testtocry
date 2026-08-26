@@ -1,6 +1,6 @@
 {
   "source": "https://support.optisigns.com",
-  "generated_at": "2026-08-25T00:32:32.796036+00:00",
+  "generated_at": "2026-08-26T00:34:01.887118+00:00",
   "articles": {
     "54095075680275": {
       "article_id": "54095075680275",
@@ -457,12 +457,15 @@
     },
     "31960461758611": {
       "article_id": "31960461758611",
-      "title": "How to Order a Preconfigured OptiSigns Android Player Device",
-      "slug": "how-to-order-a-preconfigured-optisigns-android-player-device",
-      "file_name": "how-to-order-a-preconfigured-optisigns-android-player-device.md",
-      "source_url": "https://support.optisigns.com/hc/en-us/articles/31960461758611-How-to-Order-a-Preconfigured-OptiSigns-Android-Player-Device",
-      "md5": "eb27ebda9c2b23631a24975f0e57b606",
-      "status": "unchanged"
+      "title": "How to Order a Preconfigured OptiSigns Android Stick",
+      "slug": "how-to-order-a-preconfigured-optisigns-android-stick",
+      "file_name": "how-to-order-a-preconfigured-optisigns-android-stick.md",
+      "source_url": "https://support.optisigns.com/hc/en-us/articles/31960461758611-How-to-Order-a-Preconfigured-OptiSigns-Android-Stick",
+      "md5": "3b38b4efd984010c902550bc639bfd00",
+      "status": "modified",
+      "gemini_file_name": "files/spg0wzemb3kq",
+      "gemini_uploaded_at": "2026-08-26T00:34:04.071045+00:00",
+      "upload_status": "uploaded"
     },
     "31860170199955": {
       "article_id": "31860170199955",
@@ -2681,8 +2684,11 @@
       "slug": "amazon-firestick",
       "file_name": "amazon-firestick.md",
       "source_url": "https://support.optisigns.com/hc/en-us/articles/360016174554-Amazon-Firestick",
-      "md5": "9e01f72f90f4d6f25526a019525b62e2",
-      "status": "unchanged"
+      "md5": "62a158c1b1962e89c9716144e1631e9c",
+      "status": "modified",
+      "gemini_file_name": "files/32ugt6dx5jm5",
+      "gemini_uploaded_at": "2026-08-26T00:34:05.146673+00:00",
+      "upload_status": "uploaded"
     },
     "44650391786131": {
       "article_id": "44650391786131",
@@ -3825,15 +3831,15 @@
   "deleted_articles": [],
   "stats": {
     "new": 0,
-    "modified": 0,
-    "unchanged": 408,
+    "modified": 2,
+    "unchanged": 406,
     "deleted": 0
   },
   "last_upload_summary": {
-    "files_discovered": 0,
-    "files_uploaded": 0,
+    "files_discovered": 2,
+    "files_uploaded": 2,
     "files_failed": 0,
-    "estimated_chunks": 0,
-    "updated_at": "2026-08-25T00:32:33.465861+00:00"
+    "estimated_chunks": 4,
+    "updated_at": "2026-08-26T00:34:05.146818+00:00"
   }
 }
