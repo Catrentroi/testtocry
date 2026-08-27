@@ -1,6 +1,6 @@
 {
   "source": "https://support.optisigns.com",
-  "generated_at": "2026-08-26T00:34:01.887118+00:00",
+  "generated_at": "2026-08-27T05:25:54.286795+00:00",
   "articles": {
     "54095075680275": {
       "article_id": "54095075680275",
@@ -462,7 +462,7 @@
       "file_name": "how-to-order-a-preconfigured-optisigns-android-stick.md",
       "source_url": "https://support.optisigns.com/hc/en-us/articles/31960461758611-How-to-Order-a-Preconfigured-OptiSigns-Android-Stick",
       "md5": "3b38b4efd984010c902550bc639bfd00",
-      "status": "modified",
+      "status": "unchanged",
       "gemini_file_name": "files/spg0wzemb3kq",
       "gemini_uploaded_at": "2026-08-26T00:34:04.071045+00:00",
       "upload_status": "uploaded"
@@ -1835,8 +1835,11 @@
       "slug": "how-to-display-content-inside-websites-that-require-login",
       "file_name": "how-to-display-content-inside-websites-that-require-login.md",
       "source_url": "https://support.optisigns.com/hc/en-us/articles/360037391854-How-to-display-content-inside-websites-that-require-login",
-      "md5": "d80a0fa189f493b53132e1b0e3a220ad",
-      "status": "unchanged"
+      "md5": "2d685101ea9931feab7662b0df849c33",
+      "status": "modified",
+      "gemini_file_name": "files/bn326q2m5nuc",
+      "gemini_uploaded_at": "2026-08-27T05:25:55.732863+00:00",
+      "upload_status": "uploaded"
     },
     "360036465673": {
       "article_id": "360036465673",
@@ -2685,7 +2688,7 @@
       "file_name": "amazon-firestick.md",
       "source_url": "https://support.optisigns.com/hc/en-us/articles/360016174554-Amazon-Firestick",
       "md5": "62a158c1b1962e89c9716144e1631e9c",
-      "status": "modified",
+      "status": "unchanged",
       "gemini_file_name": "files/32ugt6dx5jm5",
       "gemini_uploaded_at": "2026-08-26T00:34:05.146673+00:00",
       "upload_status": "uploaded"
@@ -3831,15 +3834,15 @@
   "deleted_articles": [],
   "stats": {
     "new": 0,
-    "modified": 2,
-    "unchanged": 406,
+    "modified": 1,
+    "unchanged": 407,
     "deleted": 0
   },
   "last_upload_summary": {
-    "files_discovered": 2,
-    "files_uploaded": 2,
+    "files_discovered": 1,
+    "files_uploaded": 1,
     "files_failed": 0,
-    "estimated_chunks": 4,
-    "updated_at": "2026-08-26T00:34:05.146818+00:00"
+    "estimated_chunks": 1,
+    "updated_at": "2026-08-27T05:25:55.733154+00:00"
   }
 }
