@@ -1,6 +1,6 @@
 {
   "source": "https://support.optisigns.com",
-  "generated_at": "2026-08-27T05:25:54.286795+00:00",
+  "generated_at": "2026-08-28T07:22:28.460999+00:00",
   "articles": {
     "54095075680275": {
       "article_id": "54095075680275",
@@ -116,10 +116,12 @@
       "slug": "connect-microsoft-teams-rooms-to-optisigns-digital-signage",
       "file_name": "connect-microsoft-teams-rooms-to-optisigns-digital-signage.md",
       "source_url": "https://support.optisigns.com/hc/en-us/articles/52350277262483-Connect-Microsoft-Teams-Rooms-to-OptiSigns-Digital-Signage",
-      "md5": "253dffbdc0c7efe9c3de13b7128315a6",
-      "status": "unchanged",
-      "gemini_file_name": "files/5606878wdmvr",
-      "gemini_uploaded_at": "2026-07-08T05:45:56.984376+00:00",
+      "md5": "835067732b983605dc0e01ff6ba5ac47",
+      "status": "modified",
+      "previous_gemini_file_name": "files/5606878wdmvr",
+      "previous_gemini_uploaded_at": "2026-07-08T05:45:56.984376+00:00",
+      "gemini_file_name": "files/e1blfr0ccsdi",
+      "gemini_uploaded_at": "2026-08-28T07:22:30.420686+00:00",
       "upload_status": "uploaded"
     },
     "52113036672403": {
@@ -731,8 +733,11 @@
       "slug": "engage-plan-faqs",
       "file_name": "engage-plan-faqs.md",
       "source_url": "https://support.optisigns.com/hc/en-us/articles/23565267463315-Engage-Plan-FAQs",
-      "md5": "0d6c8fef843933ed104f4058328b7d7a",
-      "status": "unchanged"
+      "md5": "89a5d72d18667854835857657fe5245d",
+      "status": "modified",
+      "gemini_file_name": "files/qdf37778yklm",
+      "gemini_uploaded_at": "2026-08-28T07:22:31.148172+00:00",
+      "upload_status": "uploaded"
     },
     "23274673797139": {
       "article_id": "23274673797139",
@@ -1836,7 +1841,7 @@
       "file_name": "how-to-display-content-inside-websites-that-require-login.md",
       "source_url": "https://support.optisigns.com/hc/en-us/articles/360037391854-How-to-display-content-inside-websites-that-require-login",
       "md5": "2d685101ea9931feab7662b0df849c33",
-      "status": "modified",
+      "status": "unchanged",
       "gemini_file_name": "files/bn326q2m5nuc",
       "gemini_uploaded_at": "2026-08-27T05:25:55.732863+00:00",
       "upload_status": "uploaded"
@@ -2678,8 +2683,11 @@
       "slug": "how-to-delete-your-account-from-optisigns",
       "file_name": "how-to-delete-your-account-from-optisigns.md",
       "source_url": "https://support.optisigns.com/hc/en-us/articles/4404608957075-How-to-Delete-Your-Account-from-OptiSigns",
-      "md5": "571f272f221a9eab1b3076abb1d4d1f2",
-      "status": "unchanged"
+      "md5": "7aeb9443d34fbcfade798e233a60adbd",
+      "status": "modified",
+      "gemini_file_name": "files/68emsngudwz0",
+      "gemini_uploaded_at": "2026-08-28T07:22:31.961284+00:00",
+      "upload_status": "uploaded"
     },
     "360016174554": {
       "article_id": "360016174554",
@@ -3834,15 +3842,15 @@
   "deleted_articles": [],
   "stats": {
     "new": 0,
-    "modified": 1,
-    "unchanged": 407,
+    "modified": 3,
+    "unchanged": 405,
     "deleted": 0
   },
   "last_upload_summary": {
-    "files_discovered": 1,
-    "files_uploaded": 1,
+    "files_discovered": 3,
+    "files_uploaded": 3,
     "files_failed": 0,
-    "estimated_chunks": 1,
-    "updated_at": "2026-08-27T05:25:55.733154+00:00"
+    "estimated_chunks": 9,
+    "updated_at": "2026-08-28T07:22:31.961568+00:00"
   }
 }
