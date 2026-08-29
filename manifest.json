@@ -1,6 +1,6 @@
 {
   "source": "https://support.optisigns.com",
-  "generated_at": "2026-08-28T07:22:28.460999+00:00",
+  "generated_at": "2026-08-29T04:33:32.618020+00:00",
   "articles": {
     "54095075680275": {
       "article_id": "54095075680275",
@@ -117,9 +117,7 @@
       "file_name": "connect-microsoft-teams-rooms-to-optisigns-digital-signage.md",
       "source_url": "https://support.optisigns.com/hc/en-us/articles/52350277262483-Connect-Microsoft-Teams-Rooms-to-OptiSigns-Digital-Signage",
       "md5": "835067732b983605dc0e01ff6ba5ac47",
-      "status": "modified",
-      "previous_gemini_file_name": "files/5606878wdmvr",
-      "previous_gemini_uploaded_at": "2026-07-08T05:45:56.984376+00:00",
+      "status": "unchanged",
       "gemini_file_name": "files/e1blfr0ccsdi",
       "gemini_uploaded_at": "2026-08-28T07:22:30.420686+00:00",
       "upload_status": "uploaded"
@@ -734,7 +732,7 @@
       "file_name": "engage-plan-faqs.md",
       "source_url": "https://support.optisigns.com/hc/en-us/articles/23565267463315-Engage-Plan-FAQs",
       "md5": "89a5d72d18667854835857657fe5245d",
-      "status": "modified",
+      "status": "unchanged",
       "gemini_file_name": "files/qdf37778yklm",
       "gemini_uploaded_at": "2026-08-28T07:22:31.148172+00:00",
       "upload_status": "uploaded"
@@ -2684,7 +2682,7 @@
       "file_name": "how-to-delete-your-account-from-optisigns.md",
       "source_url": "https://support.optisigns.com/hc/en-us/articles/4404608957075-How-to-Delete-Your-Account-from-OptiSigns",
       "md5": "7aeb9443d34fbcfade798e233a60adbd",
-      "status": "modified",
+      "status": "unchanged",
       "gemini_file_name": "files/68emsngudwz0",
       "gemini_uploaded_at": "2026-08-28T07:22:31.961284+00:00",
       "upload_status": "uploaded"
@@ -3842,15 +3840,15 @@
   "deleted_articles": [],
   "stats": {
     "new": 0,
-    "modified": 3,
-    "unchanged": 405,
+    "modified": 0,
+    "unchanged": 408,
     "deleted": 0
   },
   "last_upload_summary": {
-    "files_discovered": 3,
-    "files_uploaded": 3,
+    "files_discovered": 0,
+    "files_uploaded": 0,
     "files_failed": 0,
-    "estimated_chunks": 9,
-    "updated_at": "2026-08-28T07:22:31.961568+00:00"
+    "estimated_chunks": 0,
+    "updated_at": "2026-08-29T04:33:33.524833+00:00"
   }
 }
