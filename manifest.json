@@ -1,6 +1,6 @@
 {
   "source": "https://support.optisigns.com",
-  "generated_at": "2026-09-01T02:20:50.888572+00:00",
+  "generated_at": "2026-09-02T01:42:02.674133+00:00",
   "articles": {
     "54095075680275": {
       "article_id": "54095075680275",
@@ -1935,7 +1935,7 @@
       "file_name": "how-can-i-remove-delete-uploaded-files-or-assets.md",
       "source_url": "https://support.optisigns.com/hc/en-us/articles/360025661053-How-Can-I-Remove-Delete-Uploaded-Files-or-Assets",
       "md5": "bdba90d00fd7130c6663a7925ed18f6e",
-      "status": "modified",
+      "status": "unchanged",
       "gemini_file_name": "files/yb3vuzinjyre",
       "gemini_uploaded_at": "2026-09-01T02:20:53.031278+00:00",
       "upload_status": "uploaded"
@@ -2073,7 +2073,7 @@
       "file_name": "how-to-get-the-list-of-playlists-where-the-asset-is-used.md",
       "source_url": "https://support.optisigns.com/hc/en-us/articles/4472060158355-How-to-get-the-list-of-playlists-where-the-asset-is-used",
       "md5": "fb101fcb73222a65f83bc3dee0b0b54a",
-      "status": "modified",
+      "status": "unchanged",
       "gemini_file_name": "files/h75u6o2nc56r",
       "gemini_uploaded_at": "2026-09-01T02:20:54.040596+00:00",
       "upload_status": "uploaded"
@@ -3846,15 +3846,15 @@
   "deleted_articles": [],
   "stats": {
     "new": 0,
-    "modified": 2,
-    "unchanged": 406,
+    "modified": 0,
+    "unchanged": 408,
     "deleted": 0
   },
   "last_upload_summary": {
-    "files_discovered": 2,
-    "files_uploaded": 2,
+    "files_discovered": 0,
+    "files_uploaded": 0,
     "files_failed": 0,
-    "estimated_chunks": 2,
-    "updated_at": "2026-09-01T02:20:54.040904+00:00"
+    "estimated_chunks": 0,
+    "updated_at": "2026-09-02T01:42:03.576573+00:00"
   }
 }
