@@ -1,6 +1,6 @@
 {
   "source": "https://support.optisigns.com",
-  "generated_at": "2026-09-03T01:47:51.413612+00:00",
+  "generated_at": "2026-09-04T01:42:02.351508+00:00",
   "articles": {
     "54095075680275": {
       "article_id": "54095075680275",
@@ -422,8 +422,11 @@
       "slug": "what-do-i-get-with-an-optisigns-free-plan",
       "file_name": "what-do-i-get-with-an-optisigns-free-plan.md",
       "source_url": "https://support.optisigns.com/hc/en-us/articles/33940834613139-What-Do-I-Get-With-an-OptiSigns-Free-Plan",
-      "md5": "cb3ba43b53d7262135553d8e9540a539",
-      "status": "unchanged"
+      "md5": "b1763bd7f87e446589665aa4e426a748",
+      "status": "modified",
+      "gemini_file_name": "files/y2hpiib4bmkz",
+      "gemini_uploaded_at": "2026-09-04T01:42:03.910871+00:00",
+      "upload_status": "uploaded"
     },
     "33382537925267": {
       "article_id": "33382537925267",
@@ -519,7 +522,7 @@
       "file_name": "how-to-use-the-mobile-app-for-remote-control.md",
       "source_url": "https://support.optisigns.com/hc/en-us/articles/30304278652563-How-to-Use-the-Mobile-App-for-Remote-Control",
       "md5": "d37aca4508158df0b0295339d0ebbbb5",
-      "status": "modified",
+      "status": "unchanged",
       "gemini_file_name": "files/4d4h3gfj3eg3",
       "gemini_uploaded_at": "2026-09-03T01:47:53.084793+00:00",
       "upload_status": "uploaded"
@@ -734,10 +737,12 @@
       "slug": "engage-plan-faqs",
       "file_name": "engage-plan-faqs.md",
       "source_url": "https://support.optisigns.com/hc/en-us/articles/23565267463315-Engage-Plan-FAQs",
-      "md5": "89a5d72d18667854835857657fe5245d",
-      "status": "unchanged",
-      "gemini_file_name": "files/qdf37778yklm",
-      "gemini_uploaded_at": "2026-08-28T07:22:31.148172+00:00",
+      "md5": "8e726b7255ae5163e3121776f6834072",
+      "status": "modified",
+      "previous_gemini_file_name": "files/qdf37778yklm",
+      "previous_gemini_uploaded_at": "2026-08-28T07:22:31.148172+00:00",
+      "gemini_file_name": "files/7399cs6f16v6",
+      "gemini_uploaded_at": "2026-09-04T01:42:04.597557+00:00",
       "upload_status": "uploaded"
     },
     "23274673797139": {
@@ -1040,8 +1045,11 @@
       "slug": "data-residency-and-optisigns",
       "file_name": "data-residency-and-optisigns.md",
       "source_url": "https://support.optisigns.com/hc/en-us/articles/9169378546195-Data-Residency-and-OptiSigns",
-      "md5": "065b1bfef2f8b5abba11351fc2e9bab5",
-      "status": "unchanged"
+      "md5": "1908d96212a1e2c5c082fefe38589a48",
+      "status": "modified",
+      "gemini_file_name": "files/xqmafnm7z7he",
+      "gemini_uploaded_at": "2026-09-04T01:42:05.532801+00:00",
+      "upload_status": "uploaded"
     },
     "9061950942995": {
       "article_id": "9061950942995",
@@ -1683,7 +1691,7 @@
       "file_name": "edit-screen-what-does-each-option-do.md",
       "source_url": "https://support.optisigns.com/hc/en-us/articles/360048914673-Edit-Screen-What-does-each-option-do",
       "md5": "e1e444e7a31911f80d68021a5d21c161",
-      "status": "modified",
+      "status": "unchanged",
       "gemini_file_name": "files/tz4wvub6eh12",
       "gemini_uploaded_at": "2026-09-03T01:47:53.766270+00:00",
       "upload_status": "uploaded"
@@ -1694,12 +1702,12 @@
       "slug": "whitelist-optisigns-ip-addresses-ports",
       "file_name": "whitelist-optisigns-ip-addresses-ports.md",
       "source_url": "https://support.optisigns.com/hc/en-us/articles/360047275934-Whitelist-OptiSigns-IP-addresses-ports",
-      "md5": "3609f84236927e29acb29b79709fed99",
+      "md5": "6a89eda17b1bdc5850b9e6298665c32a",
       "status": "modified",
-      "previous_gemini_file_name": "files/j87lmyqf9ajw",
-      "previous_gemini_uploaded_at": "2026-08-18T00:31:24.922525+00:00",
-      "gemini_file_name": "files/e9zgxrgzriwb",
-      "gemini_uploaded_at": "2026-09-03T01:47:54.562004+00:00",
+      "previous_gemini_file_name": "files/e9zgxrgzriwb",
+      "previous_gemini_uploaded_at": "2026-09-03T01:47:54.562004+00:00",
+      "gemini_file_name": "files/tofey71cqf0x",
+      "gemini_uploaded_at": "2026-09-04T01:42:06.818039+00:00",
       "upload_status": "uploaded"
     },
     "360047232054": {
@@ -2140,8 +2148,11 @@
       "slug": "how-to-preview-a-screen",
       "file_name": "how-to-preview-a-screen.md",
       "source_url": "https://support.optisigns.com/hc/en-us/articles/360035739414-How-to-Preview-a-Screen",
-      "md5": "43675d96616e8a36212a5e9a749c4bd0",
-      "status": "unchanged"
+      "md5": "29d55384384ce9a1f704f4241c3fe87c",
+      "status": "modified",
+      "gemini_file_name": "files/e6vanecofs7a",
+      "gemini_uploaded_at": "2026-09-04T01:42:07.311677+00:00",
+      "upload_status": "uploaded"
     },
     "360024310813": {
       "article_id": "360024310813",
@@ -2936,7 +2947,7 @@
       "file_name": "show-offline-indicator-feature.md",
       "source_url": "https://support.optisigns.com/hc/en-us/articles/12498801963027-Show-Offline-Indicator-feature",
       "md5": "7f61aaf0f111c332b6266a3a25f06698",
-      "status": "modified",
+      "status": "unchanged",
       "gemini_file_name": "files/yvjwg3b0wyc6",
       "gemini_uploaded_at": "2026-09-03T01:47:55.221359+00:00",
       "upload_status": "uploaded"
@@ -3409,8 +3420,11 @@
       "slug": "how-to-use-kiosk-lite-formerly-known-as-interactive-kiosk-app",
       "file_name": "how-to-use-kiosk-lite-formerly-known-as-interactive-kiosk-app.md",
       "source_url": "https://support.optisigns.com/hc/en-us/articles/360053993934-How-to-use-Kiosk-Lite-formerly-known-as-Interactive-Kiosk-app",
-      "md5": "de048837c060185a1fdcfc1dc33049ee",
-      "status": "unchanged"
+      "md5": "8600a6f3ca02d447091107aedb427dc2",
+      "status": "modified",
+      "gemini_file_name": "files/23inpt0oapfw",
+      "gemini_uploaded_at": "2026-09-04T01:42:07.982373+00:00",
+      "upload_status": "uploaded"
     },
     "360052827713": {
       "article_id": "360052827713",
@@ -3857,15 +3871,15 @@
   "deleted_articles": [],
   "stats": {
     "new": 0,
-    "modified": 4,
-    "unchanged": 404,
+    "modified": 6,
+    "unchanged": 402,
     "deleted": 0
   },
   "last_upload_summary": {
-    "files_discovered": 4,
-    "files_uploaded": 4,
+    "files_discovered": 6,
+    "files_uploaded": 6,
     "files_failed": 0,
     "estimated_chunks": 10,
-    "updated_at": "2026-09-03T01:47:55.221670+00:00"
+    "updated_at": "2026-09-04T01:42:07.982673+00:00"
   }
 }
