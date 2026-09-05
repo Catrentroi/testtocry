@@ -1,6 +1,6 @@
 {
   "source": "https://support.optisigns.com",
-  "generated_at": "2026-09-04T01:42:02.351508+00:00",
+  "generated_at": "2026-09-05T01:42:44.758896+00:00",
   "articles": {
     "54095075680275": {
       "article_id": "54095075680275",
@@ -423,7 +423,7 @@
       "file_name": "what-do-i-get-with-an-optisigns-free-plan.md",
       "source_url": "https://support.optisigns.com/hc/en-us/articles/33940834613139-What-Do-I-Get-With-an-OptiSigns-Free-Plan",
       "md5": "b1763bd7f87e446589665aa4e426a748",
-      "status": "modified",
+      "status": "unchanged",
       "gemini_file_name": "files/y2hpiib4bmkz",
       "gemini_uploaded_at": "2026-09-04T01:42:03.910871+00:00",
       "upload_status": "uploaded"
@@ -434,10 +434,12 @@
       "slug": "making-a-video-wall-with-optisigns-video-wall-app",
       "file_name": "making-a-video-wall-with-optisigns-video-wall-app.md",
       "source_url": "https://support.optisigns.com/hc/en-us/articles/33382537925267-Making-a-Video-Wall-with-OptiSigns-Video-Wall-App",
-      "md5": "f2aa33b952c154cabc396d6bc2b09eaf",
-      "status": "unchanged",
-      "gemini_file_name": "files/fivv62z96sgm",
-      "gemini_uploaded_at": "2026-07-18T01:16:54.511145+00:00",
+      "md5": "f3cc6767e8b3237ba8b6a50f615960d2",
+      "status": "modified",
+      "previous_gemini_file_name": "files/fivv62z96sgm",
+      "previous_gemini_uploaded_at": "2026-07-18T01:16:54.511145+00:00",
+      "gemini_file_name": "files/bbq2hhh05yom",
+      "gemini_uploaded_at": "2026-09-05T01:42:46.403978+00:00",
       "upload_status": "uploaded"
     },
     "32860569148819": {
@@ -738,9 +740,7 @@
       "file_name": "engage-plan-faqs.md",
       "source_url": "https://support.optisigns.com/hc/en-us/articles/23565267463315-Engage-Plan-FAQs",
       "md5": "8e726b7255ae5163e3121776f6834072",
-      "status": "modified",
-      "previous_gemini_file_name": "files/qdf37778yklm",
-      "previous_gemini_uploaded_at": "2026-08-28T07:22:31.148172+00:00",
+      "status": "unchanged",
       "gemini_file_name": "files/7399cs6f16v6",
       "gemini_uploaded_at": "2026-09-04T01:42:04.597557+00:00",
       "upload_status": "uploaded"
@@ -826,8 +826,11 @@
       "slug": "navigating-through-optisigns-template-library",
       "file_name": "navigating-through-optisigns-template-library.md",
       "source_url": "https://support.optisigns.com/hc/en-us/articles/20425113117459-Navigating-Through-OptiSigns-Template-Library",
-      "md5": "a5c35f9494e38382ca4c425b5f3c96cd",
-      "status": "unchanged"
+      "md5": "0544f4d69001aa06134f41f8384df68f",
+      "status": "modified",
+      "gemini_file_name": "files/4qutc8m4fguz",
+      "gemini_uploaded_at": "2026-09-05T01:42:47.879050+00:00",
+      "upload_status": "uploaded"
     },
     "20153471319187": {
       "article_id": "20153471319187",
@@ -1046,7 +1049,7 @@
       "file_name": "data-residency-and-optisigns.md",
       "source_url": "https://support.optisigns.com/hc/en-us/articles/9169378546195-Data-Residency-and-OptiSigns",
       "md5": "1908d96212a1e2c5c082fefe38589a48",
-      "status": "modified",
+      "status": "unchanged",
       "gemini_file_name": "files/xqmafnm7z7he",
       "gemini_uploaded_at": "2026-09-04T01:42:05.532801+00:00",
       "upload_status": "uploaded"
@@ -1362,12 +1365,15 @@
     },
     "1500006130902": {
       "article_id": "1500006130902",
-      "title": "How to use Live TV with Ads App",
-      "slug": "how-to-use-live-tv-with-ads-app",
-      "file_name": "how-to-use-live-tv-with-ads-app.md",
-      "source_url": "https://support.optisigns.com/hc/en-us/articles/1500006130902-How-to-use-Live-TV-with-Ads-App",
-      "md5": "1128c7f7fb829752395388f571f0832d",
-      "status": "unchanged"
+      "title": "How to Use the Live TV with Ads App",
+      "slug": "how-to-use-the-live-tv-with-ads-app",
+      "file_name": "how-to-use-the-live-tv-with-ads-app.md",
+      "source_url": "https://support.optisigns.com/hc/en-us/articles/1500006130902-How-to-Use-the-Live-TV-with-Ads-App",
+      "md5": "e0f065d8cb5591080db7a6f0b04607b8",
+      "status": "modified",
+      "gemini_file_name": "files/2lxg0zxv8yw9",
+      "gemini_uploaded_at": "2026-09-05T01:42:48.593436+00:00",
+      "upload_status": "uploaded"
     },
     "1500006056101": {
       "article_id": "1500006056101",
@@ -1703,9 +1709,7 @@
       "file_name": "whitelist-optisigns-ip-addresses-ports.md",
       "source_url": "https://support.optisigns.com/hc/en-us/articles/360047275934-Whitelist-OptiSigns-IP-addresses-ports",
       "md5": "6a89eda17b1bdc5850b9e6298665c32a",
-      "status": "modified",
-      "previous_gemini_file_name": "files/e9zgxrgzriwb",
-      "previous_gemini_uploaded_at": "2026-09-03T01:47:54.562004+00:00",
+      "status": "unchanged",
       "gemini_file_name": "files/tofey71cqf0x",
       "gemini_uploaded_at": "2026-09-04T01:42:06.818039+00:00",
       "upload_status": "uploaded"
@@ -2025,8 +2029,11 @@
       "slug": "proplayer",
       "file_name": "proplayer.md",
       "source_url": "https://support.optisigns.com/hc/en-us/articles/32272215514131-ProPlayer",
-      "md5": "f51c129cd1fffa980622d803e92df601",
-      "status": "unchanged"
+      "md5": "97d5a8c341cdee3b00cc0ccd708414e6",
+      "status": "modified",
+      "gemini_file_name": "files/gst03t3o5nuh",
+      "gemini_uploaded_at": "2026-09-05T01:42:49.333967+00:00",
+      "upload_status": "uploaded"
     },
     "30003143806099": {
       "article_id": "30003143806099",
@@ -2149,7 +2156,7 @@
       "file_name": "how-to-preview-a-screen.md",
       "source_url": "https://support.optisigns.com/hc/en-us/articles/360035739414-How-to-Preview-a-Screen",
       "md5": "29d55384384ce9a1f704f4241c3fe87c",
-      "status": "modified",
+      "status": "unchanged",
       "gemini_file_name": "files/e6vanecofs7a",
       "gemini_uploaded_at": "2026-09-04T01:42:07.311677+00:00",
       "upload_status": "uploaded"
@@ -2187,8 +2194,11 @@
       "slug": "promax",
       "file_name": "promax.md",
       "source_url": "https://support.optisigns.com/hc/en-us/articles/38680194603155-ProMax",
-      "md5": "51f8cd55d6791905da44ceb5289f768d",
-      "status": "unchanged"
+      "md5": "fa7a5c418b11f0c1846dcc8fe80503f8",
+      "status": "modified",
+      "gemini_file_name": "files/mhytb8ffej3z",
+      "gemini_uploaded_at": "2026-09-05T01:42:50.440268+00:00",
+      "upload_status": "uploaded"
     },
     "35626165056787": {
       "article_id": "35626165056787",
@@ -2793,8 +2803,11 @@
       "slug": "about-the-onhold-devices-folder",
       "file_name": "about-the-onhold-devices-folder.md",
       "source_url": "https://support.optisigns.com/hc/en-us/articles/1500003244381-About-the-OnHold-Devices-Folder",
-      "md5": "517cfb243710f5ad124356ec852e8aae",
-      "status": "unchanged"
+      "md5": "47f3775f18169bdb0374cdc970d166b9",
+      "status": "modified",
+      "gemini_file_name": "files/6dhbqbaulv2h",
+      "gemini_uploaded_at": "2026-09-05T01:42:51.129577+00:00",
+      "upload_status": "uploaded"
     },
     "360016981853": {
       "article_id": "360016981853",
@@ -3421,7 +3434,7 @@
       "file_name": "how-to-use-kiosk-lite-formerly-known-as-interactive-kiosk-app.md",
       "source_url": "https://support.optisigns.com/hc/en-us/articles/360053993934-How-to-use-Kiosk-Lite-formerly-known-as-Interactive-Kiosk-app",
       "md5": "8600a6f3ca02d447091107aedb427dc2",
-      "status": "modified",
+      "status": "unchanged",
       "gemini_file_name": "files/23inpt0oapfw",
       "gemini_uploaded_at": "2026-09-04T01:42:07.982373+00:00",
       "upload_status": "uploaded"
@@ -3482,14 +3495,16 @@
     },
     "360051014713": {
       "article_id": "360051014713",
-      "title": "How to use YouTube with OptiSigns",
+      "title": "How to Use YouTube with OptiSigns",
       "slug": "how-to-use-youtube-with-optisigns",
       "file_name": "how-to-use-youtube-with-optisigns.md",
-      "source_url": "https://support.optisigns.com/hc/en-us/articles/360051014713-How-to-use-YouTube-with-OptiSigns",
-      "md5": "36c059dc88ae2c8e65cc6cd9af9b4474",
-      "status": "unchanged",
-      "gemini_file_name": "files/dnh69ync2wxu",
-      "gemini_uploaded_at": "2026-07-09T01:45:12.500789+00:00",
+      "source_url": "https://support.optisigns.com/hc/en-us/articles/360051014713-How-to-Use-YouTube-with-OptiSigns",
+      "md5": "fdd0f3b9c4f21881a1caedc767c3d79f",
+      "status": "modified",
+      "previous_gemini_file_name": "files/dnh69ync2wxu",
+      "previous_gemini_uploaded_at": "2026-07-09T01:45:12.500789+00:00",
+      "gemini_file_name": "files/jcej1g8o5vsz",
+      "gemini_uploaded_at": "2026-09-05T01:42:52.067242+00:00",
       "upload_status": "uploaded"
     },
     "360049875794": {
@@ -3871,15 +3886,15 @@
   "deleted_articles": [],
   "stats": {
     "new": 0,
-    "modified": 6,
-    "unchanged": 402,
+    "modified": 7,
+    "unchanged": 401,
     "deleted": 0
   },
   "last_upload_summary": {
-    "files_discovered": 6,
-    "files_uploaded": 6,
+    "files_discovered": 7,
+    "files_uploaded": 7,
     "files_failed": 0,
-    "estimated_chunks": 10,
-    "updated_at": "2026-09-04T01:42:07.982673+00:00"
+    "estimated_chunks": 28,
+    "updated_at": "2026-09-05T01:42:52.067579+00:00"
   }
 }
