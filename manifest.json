@@ -1,6 +1,6 @@
 {
   "source": "https://support.optisigns.com",
-  "generated_at": "2026-09-05T01:42:44.758896+00:00",
+  "generated_at": "2026-09-06T01:36:33.724601+00:00",
   "articles": {
     "54095075680275": {
       "article_id": "54095075680275",
@@ -435,9 +435,7 @@
       "file_name": "making-a-video-wall-with-optisigns-video-wall-app.md",
       "source_url": "https://support.optisigns.com/hc/en-us/articles/33382537925267-Making-a-Video-Wall-with-OptiSigns-Video-Wall-App",
       "md5": "f3cc6767e8b3237ba8b6a50f615960d2",
-      "status": "modified",
-      "previous_gemini_file_name": "files/fivv62z96sgm",
-      "previous_gemini_uploaded_at": "2026-07-18T01:16:54.511145+00:00",
+      "status": "unchanged",
       "gemini_file_name": "files/bbq2hhh05yom",
       "gemini_uploaded_at": "2026-09-05T01:42:46.403978+00:00",
       "upload_status": "uploaded"
@@ -827,7 +825,7 @@
       "file_name": "navigating-through-optisigns-template-library.md",
       "source_url": "https://support.optisigns.com/hc/en-us/articles/20425113117459-Navigating-Through-OptiSigns-Template-Library",
       "md5": "0544f4d69001aa06134f41f8384df68f",
-      "status": "modified",
+      "status": "unchanged",
       "gemini_file_name": "files/4qutc8m4fguz",
       "gemini_uploaded_at": "2026-09-05T01:42:47.879050+00:00",
       "upload_status": "uploaded"
@@ -1370,7 +1368,7 @@
       "file_name": "how-to-use-the-live-tv-with-ads-app.md",
       "source_url": "https://support.optisigns.com/hc/en-us/articles/1500006130902-How-to-Use-the-Live-TV-with-Ads-App",
       "md5": "e0f065d8cb5591080db7a6f0b04607b8",
-      "status": "modified",
+      "status": "unchanged",
       "gemini_file_name": "files/2lxg0zxv8yw9",
       "gemini_uploaded_at": "2026-09-05T01:42:48.593436+00:00",
       "upload_status": "uploaded"
@@ -2030,7 +2028,7 @@
       "file_name": "proplayer.md",
       "source_url": "https://support.optisigns.com/hc/en-us/articles/32272215514131-ProPlayer",
       "md5": "97d5a8c341cdee3b00cc0ccd708414e6",
-      "status": "modified",
+      "status": "unchanged",
       "gemini_file_name": "files/gst03t3o5nuh",
       "gemini_uploaded_at": "2026-09-05T01:42:49.333967+00:00",
       "upload_status": "uploaded"
@@ -2195,7 +2193,7 @@
       "file_name": "promax.md",
       "source_url": "https://support.optisigns.com/hc/en-us/articles/38680194603155-ProMax",
       "md5": "fa7a5c418b11f0c1846dcc8fe80503f8",
-      "status": "modified",
+      "status": "unchanged",
       "gemini_file_name": "files/mhytb8ffej3z",
       "gemini_uploaded_at": "2026-09-05T01:42:50.440268+00:00",
       "upload_status": "uploaded"
@@ -2804,7 +2802,7 @@
       "file_name": "about-the-onhold-devices-folder.md",
       "source_url": "https://support.optisigns.com/hc/en-us/articles/1500003244381-About-the-OnHold-Devices-Folder",
       "md5": "47f3775f18169bdb0374cdc970d166b9",
-      "status": "modified",
+      "status": "unchanged",
       "gemini_file_name": "files/6dhbqbaulv2h",
       "gemini_uploaded_at": "2026-09-05T01:42:51.129577+00:00",
       "upload_status": "uploaded"
@@ -3500,9 +3498,7 @@
       "file_name": "how-to-use-youtube-with-optisigns.md",
       "source_url": "https://support.optisigns.com/hc/en-us/articles/360051014713-How-to-Use-YouTube-with-OptiSigns",
       "md5": "fdd0f3b9c4f21881a1caedc767c3d79f",
-      "status": "modified",
-      "previous_gemini_file_name": "files/dnh69ync2wxu",
-      "previous_gemini_uploaded_at": "2026-07-09T01:45:12.500789+00:00",
+      "status": "unchanged",
       "gemini_file_name": "files/jcej1g8o5vsz",
       "gemini_uploaded_at": "2026-09-05T01:42:52.067242+00:00",
       "upload_status": "uploaded"
@@ -3886,15 +3882,15 @@
   "deleted_articles": [],
   "stats": {
     "new": 0,
-    "modified": 7,
-    "unchanged": 401,
+    "modified": 0,
+    "unchanged": 408,
     "deleted": 0
   },
   "last_upload_summary": {
-    "files_discovered": 7,
-    "files_uploaded": 7,
+    "files_discovered": 0,
+    "files_uploaded": 0,
     "files_failed": 0,
-    "estimated_chunks": 28,
-    "updated_at": "2026-09-05T01:42:52.067579+00:00"
+    "estimated_chunks": 0,
+    "updated_at": "2026-09-06T01:36:34.211291+00:00"
   }
 }
