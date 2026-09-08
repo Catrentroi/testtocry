@@ -1,6 +1,6 @@
 {
   "source": "https://support.optisigns.com",
-  "generated_at": "2026-09-07T01:34:55.733769+00:00",
+  "generated_at": "2026-09-08T01:45:32.310815+00:00",
   "articles": {
     "54095075680275": {
       "article_id": "54095075680275",
@@ -422,10 +422,12 @@
       "slug": "what-do-i-get-with-an-optisigns-free-plan",
       "file_name": "what-do-i-get-with-an-optisigns-free-plan.md",
       "source_url": "https://support.optisigns.com/hc/en-us/articles/33940834613139-What-Do-I-Get-With-an-OptiSigns-Free-Plan",
-      "md5": "b1763bd7f87e446589665aa4e426a748",
-      "status": "unchanged",
-      "gemini_file_name": "files/y2hpiib4bmkz",
-      "gemini_uploaded_at": "2026-09-04T01:42:03.910871+00:00",
+      "md5": "cb29d2541f7ebf072bad006010897aff",
+      "status": "modified",
+      "previous_gemini_file_name": "files/y2hpiib4bmkz",
+      "previous_gemini_uploaded_at": "2026-09-04T01:42:03.910871+00:00",
+      "gemini_file_name": "files/y4i3ijovlqg1",
+      "gemini_uploaded_at": "2026-09-08T01:45:34.194272+00:00",
       "upload_status": "uploaded"
     },
     "33382537925267": {
@@ -1367,10 +1369,12 @@
       "slug": "how-to-use-the-live-tv-with-ads-app",
       "file_name": "how-to-use-the-live-tv-with-ads-app.md",
       "source_url": "https://support.optisigns.com/hc/en-us/articles/1500006130902-How-to-Use-the-Live-TV-with-Ads-App",
-      "md5": "e0f065d8cb5591080db7a6f0b04607b8",
-      "status": "unchanged",
-      "gemini_file_name": "files/2lxg0zxv8yw9",
-      "gemini_uploaded_at": "2026-09-05T01:42:48.593436+00:00",
+      "md5": "fb37fb02042407f15b4d9519097df97f",
+      "status": "modified",
+      "previous_gemini_file_name": "files/2lxg0zxv8yw9",
+      "previous_gemini_uploaded_at": "2026-09-05T01:42:48.593436+00:00",
+      "gemini_file_name": "files/1zme0ast9zpk",
+      "gemini_uploaded_at": "2026-09-08T01:45:35.555315+00:00",
       "upload_status": "uploaded"
     },
     "1500006056101": {
@@ -2615,8 +2619,11 @@
       "slug": "how-to-change-account-owners",
       "file_name": "how-to-change-account-owners.md",
       "source_url": "https://support.optisigns.com/hc/en-us/articles/4404616314515-How-to-Change-Account-Owners",
-      "md5": "ea6bed4c45b6f2d3149a1b9da96f9ba7",
-      "status": "unchanged"
+      "md5": "df63d456a3dc38c59de7ef6307a44b83",
+      "status": "modified",
+      "gemini_file_name": "files/qtch9izwj7al",
+      "gemini_uploaded_at": "2026-09-08T01:45:36.443631+00:00",
+      "upload_status": "uploaded"
     },
     "1500011891542": {
       "article_id": "1500011891542",
@@ -2714,10 +2721,12 @@
       "slug": "how-to-delete-your-account-from-optisigns",
       "file_name": "how-to-delete-your-account-from-optisigns.md",
       "source_url": "https://support.optisigns.com/hc/en-us/articles/4404608957075-How-to-Delete-Your-Account-from-OptiSigns",
-      "md5": "7aeb9443d34fbcfade798e233a60adbd",
-      "status": "unchanged",
-      "gemini_file_name": "files/68emsngudwz0",
-      "gemini_uploaded_at": "2026-08-28T07:22:31.961284+00:00",
+      "md5": "11a5cb112cbcd36b0c95371c6bce5acf",
+      "status": "modified",
+      "previous_gemini_file_name": "files/68emsngudwz0",
+      "previous_gemini_uploaded_at": "2026-08-28T07:22:31.961284+00:00",
+      "gemini_file_name": "files/ocedqnu2fsy3",
+      "gemini_uploaded_at": "2026-09-08T01:45:37.438288+00:00",
       "upload_status": "uploaded"
     },
     "360016174554": {
@@ -3882,15 +3891,15 @@
   "deleted_articles": [],
   "stats": {
     "new": 0,
-    "modified": 0,
-    "unchanged": 408,
+    "modified": 4,
+    "unchanged": 404,
     "deleted": 0
   },
   "last_upload_summary": {
-    "files_discovered": 0,
-    "files_uploaded": 0,
+    "files_discovered": 4,
+    "files_uploaded": 4,
     "files_failed": 0,
-    "estimated_chunks": 0,
-    "updated_at": "2026-09-07T01:34:56.477600+00:00"
+    "estimated_chunks": 7,
+    "updated_at": "2026-09-08T01:45:37.438618+00:00"
   }
 }
