@@ -1,6 +1,6 @@
 {
   "source": "https://support.optisigns.com",
-  "generated_at": "2026-09-09T01:52:00.632793+00:00",
+  "generated_at": "2026-09-10T01:48:09.887805+00:00",
   "articles": {
     "54095075680275": {
       "article_id": "54095075680275",
@@ -706,12 +706,15 @@
     },
     "24338756617747": {
       "article_id": "24338756617747",
-      "title": "What Are Feeds and How to Use It",
-      "slug": "what-are-feeds-and-how-to-use-it",
-      "file_name": "what-are-feeds-and-how-to-use-it.md",
-      "source_url": "https://support.optisigns.com/hc/en-us/articles/24338756617747-What-Are-Feeds-and-How-to-Use-It",
-      "md5": "05b0e3aeb9e678091cc1466198f4227c",
-      "status": "unchanged"
+      "title": "Feeds and How to Use Them",
+      "slug": "feeds-and-how-to-use-them",
+      "file_name": "feeds-and-how-to-use-them.md",
+      "source_url": "https://support.optisigns.com/hc/en-us/articles/24338756617747-Feeds-and-How-to-Use-Them",
+      "md5": "63c0f18cff40df9f1a7674ac3eb5a5f9",
+      "status": "modified",
+      "gemini_file_name": "files/nuocha5vguiz",
+      "gemini_uploaded_at": "2026-09-10T01:48:11.802599+00:00",
+      "upload_status": "uploaded"
     },
     "23629657318547": {
       "article_id": "23629657318547",
@@ -738,9 +741,7 @@
       "file_name": "engage-plan-faqs.md",
       "source_url": "https://support.optisigns.com/hc/en-us/articles/23565267463315-Engage-Plan-FAQs",
       "md5": "2bc06be37b26e8f9bf69a0e2ab0fc565",
-      "status": "modified",
-      "previous_gemini_file_name": "files/7399cs6f16v6",
-      "previous_gemini_uploaded_at": "2026-09-04T01:42:04.597557+00:00",
+      "status": "unchanged",
       "gemini_file_name": "files/lq2axcof9rbt",
       "gemini_uploaded_at": "2026-09-09T01:52:01.986825+00:00",
       "upload_status": "uploaded"
@@ -838,8 +839,11 @@
       "slug": "external-storage-on-optisigns-devices",
       "file_name": "external-storage-on-optisigns-devices.md",
       "source_url": "https://support.optisigns.com/hc/en-us/articles/20153471319187-External-Storage-on-OptiSigns-Devices",
-      "md5": "a3869ae7de44f9eb77779374c0dfd841",
-      "status": "unchanged"
+      "md5": "166f3fccb7136161dac204a28fd4b0c7",
+      "status": "modified",
+      "gemini_file_name": "files/qs3kz1n9tfff",
+      "gemini_uploaded_at": "2026-09-10T01:48:12.599669+00:00",
+      "upload_status": "uploaded"
     },
     "20062273670163": {
       "article_id": "20062273670163",
@@ -1022,7 +1026,7 @@
       "file_name": "show-hide-downloading-status-on-your-player.md",
       "source_url": "https://support.optisigns.com/hc/en-us/articles/12947300131731-Show-Hide-downloading-status-on-your-Player",
       "md5": "dd3e7bea1b7d06df852a2921c85e37f7",
-      "status": "modified",
+      "status": "unchanged",
       "gemini_file_name": "files/iih4jq6hrfeu",
       "gemini_uploaded_at": "2026-09-09T01:52:02.681429+00:00",
       "upload_status": "uploaded"
@@ -1090,8 +1094,11 @@
       "slug": "host-your-html-js-or-create-your-own-web-app-with-hosted-website",
       "file_name": "host-your-html-js-or-create-your-own-web-app-with-hosted-website.md",
       "source_url": "https://support.optisigns.com/hc/en-us/articles/7592123111699-Host-your-HTML-JS-or-Create-your-own-Web-App-with-Hosted-Website",
-      "md5": "eb60f55ed372b006b6a9b4472e32c98e",
-      "status": "unchanged"
+      "md5": "29e780c62142bdbbb2f7545dfe665b5a",
+      "status": "modified",
+      "gemini_file_name": "files/6owxog6buzgj",
+      "gemini_uploaded_at": "2026-09-10T01:48:13.442946+00:00",
+      "upload_status": "uploaded"
     },
     "7589195635219": {
       "article_id": "7589195635219",
@@ -1127,7 +1134,7 @@
       "file_name": "manually-control-playlist-playback-with-optisigns.md",
       "source_url": "https://support.optisigns.com/hc/en-us/articles/4416704273811-Manually-control-playlist-playback-with-OptiSigns",
       "md5": "101d28c2368a322aba1aaecf158e9762",
-      "status": "modified",
+      "status": "unchanged",
       "gemini_file_name": "files/u2xg7p76orvr",
       "gemini_uploaded_at": "2026-09-09T01:52:03.365230+00:00",
       "upload_status": "uploaded"
@@ -1772,7 +1779,7 @@
       "file_name": "how-to-create-and-use-nested-playlists.md",
       "source_url": "https://support.optisigns.com/hc/en-us/articles/360043621953-How-to-Create-and-Use-Nested-Playlists",
       "md5": "2ee22179a0e29e009cf4ede49039dfec",
-      "status": "modified",
+      "status": "unchanged",
       "gemini_file_name": "files/60bzcknvwfvj",
       "gemini_uploaded_at": "2026-09-09T01:52:04.349832+00:00",
       "upload_status": "uploaded"
@@ -1873,15 +1880,6 @@
       "gemini_uploaded_at": "2026-08-27T05:25:55.732863+00:00",
       "upload_status": "uploaded"
     },
-    "360036465673": {
-      "article_id": "360036465673",
-      "title": "Adjusting social, news wall speeds",
-      "slug": "adjusting-social-news-wall-speeds",
-      "file_name": "adjusting-social-news-wall-speeds.md",
-      "source_url": "https://support.optisigns.com/hc/en-us/articles/360036465673-Adjusting-social-news-wall-speeds",
-      "md5": "2d0e478ec8530ad46c47643492d9a99e",
-      "status": "unchanged"
-    },
     "360035538093": {
       "article_id": "360035538093",
       "title": "My image, content are bleeding off the screens with Fire TV (need screen calibration)",
@@ -1943,7 +1941,7 @@
       "file_name": "how-to-create-a-scrolling-strip-or-bar.md",
       "source_url": "https://support.optisigns.com/hc/en-us/articles/360026559613-How-to-Create-a-Scrolling-Strip-or-Bar",
       "md5": "8cbb72d71dafbde0eabec6e0d1930f14",
-      "status": "modified",
+      "status": "unchanged",
       "gemini_file_name": "files/hh1mofaf48va",
       "gemini_uploaded_at": "2026-09-09T01:52:05.093216+00:00",
       "upload_status": "uploaded"
@@ -1967,9 +1965,7 @@
       "file_name": "how-can-i-remove-delete-uploaded-files-or-assets.md",
       "source_url": "https://support.optisigns.com/hc/en-us/articles/360025661053-How-Can-I-Remove-Delete-Uploaded-Files-or-Assets",
       "md5": "e355f7e9cb932c6ab1b98bc42f5fa2f8",
-      "status": "modified",
-      "previous_gemini_file_name": "files/yb3vuzinjyre",
-      "previous_gemini_uploaded_at": "2026-09-01T02:20:53.031278+00:00",
+      "status": "unchanged",
       "gemini_file_name": "files/y69cpywl2w3l",
       "gemini_uploaded_at": "2026-09-09T01:52:05.932796+00:00",
       "upload_status": "uploaded"
@@ -2117,12 +2113,15 @@
     },
     "4414563797139": {
       "article_id": "4414563797139",
-      "title": "Generate & Manage OptiSigns API Key",
-      "slug": "generate-manage-optisigns-api-key",
-      "file_name": "generate-manage-optisigns-api-key.md",
-      "source_url": "https://support.optisigns.com/hc/en-us/articles/4414563797139-Generate-Manage-OptiSigns-API-Key",
-      "md5": "1ff92654853df773eba38a2e97e46dd0",
-      "status": "unchanged"
+      "title": "Generate & Manage an OptiSigns API Key",
+      "slug": "generate-manage-an-optisigns-api-key",
+      "file_name": "generate-manage-an-optisigns-api-key.md",
+      "source_url": "https://support.optisigns.com/hc/en-us/articles/4414563797139-Generate-Manage-an-OptiSigns-API-Key",
+      "md5": "41c0c1d3c39884dfc71b8c8cf38abe49",
+      "status": "modified",
+      "gemini_file_name": "files/tpzoo9r6wtu3",
+      "gemini_uploaded_at": "2026-09-10T01:48:14.274924+00:00",
+      "upload_status": "uploaded"
     },
     "360054557434": {
       "article_id": "360054557434",
@@ -2131,7 +2130,7 @@
       "file_name": "view-billing-history-and-download-receipts.md",
       "source_url": "https://support.optisigns.com/hc/en-us/articles/360054557434-View-Billing-History-and-Download-Receipts",
       "md5": "d8d17d8709da5791eb6c87a42e3b4119",
-      "status": "modified",
+      "status": "unchanged",
       "gemini_file_name": "files/gpi75nubez5a",
       "gemini_uploaded_at": "2026-09-09T01:52:06.639264+00:00",
       "upload_status": "uploaded"
@@ -2460,8 +2459,11 @@
       "slug": "how-to-use-weather-apps-in-optisigns",
       "file_name": "how-to-use-weather-apps-in-optisigns.md",
       "source_url": "https://support.optisigns.com/hc/en-us/articles/360017964153-How-to-Use-Weather-Apps-in-OptiSigns",
-      "md5": "284b41959496db54daf9d71d9fa9aa13",
-      "status": "unchanged"
+      "md5": "b4d2c59128dc0bba1fd05cb289a50fee",
+      "status": "modified",
+      "gemini_file_name": "files/jwedy0e4bkxj",
+      "gemini_uploaded_at": "2026-09-10T01:48:15.418045+00:00",
+      "upload_status": "uploaded"
     },
     "360016375153": {
       "article_id": "360016375153",
@@ -2616,8 +2618,11 @@
       "slug": "amazon-signage-stick",
       "file_name": "amazon-signage-stick.md",
       "source_url": "https://support.optisigns.com/hc/en-us/articles/34087061669523-Amazon-Signage-Stick",
-      "md5": "3ea4ee1653de115aa81369ce53ea149f",
-      "status": "unchanged"
+      "md5": "c597d9f9641b0a382d3db52383a915d6",
+      "status": "modified",
+      "gemini_file_name": "files/xn7vv439w0s5",
+      "gemini_uploaded_at": "2026-09-10T01:48:16.327219+00:00",
+      "upload_status": "uploaded"
     },
     "14502723487379": {
       "article_id": "14502723487379",
@@ -2779,7 +2784,7 @@
       "file_name": "update-optisigns-player-on-optisigns-pro-player-gen-2-via-script.md",
       "source_url": "https://support.optisigns.com/hc/en-us/articles/21449362442003-Update-OptiSigns-player-on-OptiSigns-Pro-Player-Gen-2-via-script",
       "md5": "bb9e53ede1916a4bd3cc1fa63dce820a",
-      "status": "modified",
+      "status": "unchanged",
       "gemini_file_name": "files/yponef69vyeh",
       "gemini_uploaded_at": "2026-09-09T01:52:07.704356+00:00",
       "upload_status": "uploaded"
@@ -2800,7 +2805,7 @@
       "file_name": "pagination.md",
       "source_url": "https://support.optisigns.com/hc/en-us/articles/4414558369811-Pagination",
       "md5": "9ce088bf4d4d72f4d5bd4fa4f68f823b",
-      "status": "modified",
+      "status": "unchanged",
       "gemini_file_name": "files/durywbmj7a7b",
       "gemini_uploaded_at": "2026-09-09T01:52:08.715487+00:00",
       "upload_status": "uploaded"
@@ -2821,7 +2826,7 @@
       "file_name": "fireos-tvs-amazon-insigna-toshiba-tcl.md",
       "source_url": "https://support.optisigns.com/hc/en-us/articles/1500009042742-FireOS-TVs-Amazon-Insigna-Toshiba-TCL",
       "md5": "afdbd2cae2717f4f975905d2cc829c6a",
-      "status": "modified",
+      "status": "unchanged",
       "gemini_file_name": "files/58dpfbsdu99m",
       "gemini_uploaded_at": "2026-09-09T01:52:09.415144+00:00",
       "upload_status": "uploaded"
@@ -2926,7 +2931,7 @@
       "file_name": "how-to-display-google-slide-in-portrait-mode.md",
       "source_url": "https://support.optisigns.com/hc/en-us/articles/360019710493-How-to-display-Google-Slide-in-Portrait-Mode",
       "md5": "f1fd8d105d4c2db35f59be480b56843c",
-      "status": "modified",
+      "status": "unchanged",
       "gemini_file_name": "files/kjp2di2zaiq1",
       "gemini_uploaded_at": "2026-09-09T01:52:10.346695+00:00",
       "upload_status": "uploaded"
@@ -2983,7 +2988,7 @@
       "file_name": "how-to-export-high-resolution-canvas-template-designs.md",
       "source_url": "https://support.optisigns.com/hc/en-us/articles/360060049534-How-to-export-high-resolution-canvas-template-designs",
       "md5": "48905b5d0da34f369016e71d13494865",
-      "status": "modified",
+      "status": "unchanged",
       "gemini_file_name": "files/ryn8ruhyp46f",
       "gemini_uploaded_at": "2026-09-09T01:52:11.217877+00:00",
       "upload_status": "uploaded"
@@ -3007,7 +3012,7 @@
       "file_name": "how-to-use-the-website-screenshot-app.md",
       "source_url": "https://support.optisigns.com/hc/en-us/articles/10259143299219-How-to-Use-the-Website-Screenshot-app",
       "md5": "ea7f44e31df989bd6d59f5db4bcfe688",
-      "status": "modified",
+      "status": "unchanged",
       "gemini_file_name": "files/auly9k6ftq3n",
       "gemini_uploaded_at": "2026-09-09T01:52:11.912853+00:00",
       "upload_status": "uploaded"
@@ -3260,12 +3265,15 @@
     },
     "4408052949139": {
       "article_id": "4408052949139",
-      "title": "How to use Calendar Mix app",
-      "slug": "how-to-use-calendar-mix-app",
-      "file_name": "how-to-use-calendar-mix-app.md",
-      "source_url": "https://support.optisigns.com/hc/en-us/articles/4408052949139-How-to-use-Calendar-Mix-app",
-      "md5": "5c1ef11bb8c069db326a582d1b3a9fb6",
-      "status": "unchanged"
+      "title": "How to Use the Calendar Mix app",
+      "slug": "how-to-use-the-calendar-mix-app",
+      "file_name": "how-to-use-the-calendar-mix-app.md",
+      "source_url": "https://support.optisigns.com/hc/en-us/articles/4408052949139-How-to-Use-the-Calendar-Mix-app",
+      "md5": "b58fe352723e71c0de2e0047b1337cbd",
+      "status": "modified",
+      "gemini_file_name": "files/rk8ybzbc0klh",
+      "gemini_uploaded_at": "2026-09-10T01:48:17.177174+00:00",
+      "upload_status": "uploaded"
     },
     "4407335862931": {
       "article_id": "4407335862931",
@@ -3318,8 +3326,11 @@
       "slug": "how-to-use-the-cbc-news-app",
       "file_name": "how-to-use-the-cbc-news-app.md",
       "source_url": "https://support.optisigns.com/hc/en-us/articles/1500011611322-How-to-use-the-CBC-News-App",
-      "md5": "51839f4605f08b0a2dc8ea0e9e20fb8a",
-      "status": "unchanged"
+      "md5": "9160b34469326d305483662090f1ea6a",
+      "status": "modified",
+      "gemini_file_name": "files/irq4q58egjun",
+      "gemini_uploaded_at": "2026-09-10T01:48:18.342182+00:00",
+      "upload_status": "uploaded"
     },
     "1500009492202": {
       "article_id": "1500009492202",
@@ -3558,8 +3569,11 @@
       "slug": "how-to-use-facebook-video-app",
       "file_name": "how-to-use-facebook-video-app.md",
       "source_url": "https://support.optisigns.com/hc/en-us/articles/360049872414-How-to-use-Facebook-Video-App",
-      "md5": "ce74bd618db8afcc431c2b8d6e0215b6",
-      "status": "unchanged"
+      "md5": "42dd18170b25f2b6d3675067fb5636dd",
+      "status": "modified",
+      "gemini_file_name": "files/vaozds0335um",
+      "gemini_uploaded_at": "2026-09-10T01:48:19.152351+00:00",
+      "upload_status": "uploaded"
     },
     "360050665413": {
       "article_id": "360050665413",
@@ -3604,7 +3618,7 @@
       "file_name": "how-to-use-the-currency-exchange-app.md",
       "source_url": "https://support.optisigns.com/hc/en-us/articles/360049156234-How-to-Use-the-Currency-Exchange-App",
       "md5": "050ccd7e982bb8a15bb33fc9b17a701d",
-      "status": "modified",
+      "status": "unchanged",
       "gemini_file_name": "files/wh3ul9ncgxvd",
       "gemini_uploaded_at": "2026-09-09T01:52:12.666851+00:00",
       "upload_status": "uploaded"
@@ -3616,7 +3630,7 @@
       "file_name": "how-to-use-the-crypto-index-crypto-exchange-app.md",
       "source_url": "https://support.optisigns.com/hc/en-us/articles/360049919933-How-to-Use-the-Crypto-Index-Crypto-Exchange-App",
       "md5": "b82511274c60ce95f4a9cedee0b0b9af",
-      "status": "modified",
+      "status": "unchanged",
       "gemini_file_name": "files/4a60jy0py6qq",
       "gemini_uploaded_at": "2026-09-09T01:52:13.403118+00:00",
       "upload_status": "uploaded"
@@ -3645,8 +3659,11 @@
       "slug": "how-to-use-the-motivational-quote-app",
       "file_name": "how-to-use-the-motivational-quote-app.md",
       "source_url": "https://support.optisigns.com/hc/en-us/articles/360049030453-How-to-use-the-Motivational-Quote-App",
-      "md5": "b77a5be97e52421d538b52001fd2ec76",
-      "status": "unchanged"
+      "md5": "ec208dd7979844cdc24e78771bbfcdae",
+      "status": "modified",
+      "gemini_file_name": "files/mdzv1qi4kki9",
+      "gemini_uploaded_at": "2026-09-10T01:48:20.106973+00:00",
+      "upload_status": "uploaded"
     },
     "360048660813": {
       "article_id": "360048660813",
@@ -3686,12 +3703,15 @@
     },
     "360044619014": {
       "article_id": "360044619014",
-      "title": "How to use the Facebook Counter App",
+      "title": "How to Use the Facebook Counter App",
       "slug": "how-to-use-the-facebook-counter-app",
       "file_name": "how-to-use-the-facebook-counter-app.md",
-      "source_url": "https://support.optisigns.com/hc/en-us/articles/360044619014-How-to-use-the-Facebook-Counter-App",
-      "md5": "7a76ae3ce71b5f86bf3e4f41aa518a1d",
-      "status": "unchanged"
+      "source_url": "https://support.optisigns.com/hc/en-us/articles/360044619014-How-to-Use-the-Facebook-Counter-App",
+      "md5": "33b7fde90d6bfc8519765ae11ef31f9d",
+      "status": "modified",
+      "gemini_file_name": "files/myj8tvdjxrpn",
+      "gemini_uploaded_at": "2026-09-10T01:48:20.807300+00:00",
+      "upload_status": "uploaded"
     },
     "360045121233": {
       "article_id": "360045121233",
@@ -3704,12 +3724,15 @@
     },
     "360044613874": {
       "article_id": "360044613874",
-      "title": "How to use the Guardian App",
-      "slug": "how-to-use-the-guardian-app",
-      "file_name": "how-to-use-the-guardian-app.md",
-      "source_url": "https://support.optisigns.com/hc/en-us/articles/360044613874-How-to-use-the-Guardian-App",
-      "md5": "a0a30b19571dfdaf387504e987228993",
-      "status": "unchanged"
+      "title": "How to Use the Guardian News App",
+      "slug": "how-to-use-the-guardian-news-app",
+      "file_name": "how-to-use-the-guardian-news-app.md",
+      "source_url": "https://support.optisigns.com/hc/en-us/articles/360044613874-How-to-Use-the-Guardian-News-App",
+      "md5": "85c54a3ab3b6077975fed86b7c2f573b",
+      "status": "modified",
+      "gemini_file_name": "files/8441u2juxouv",
+      "gemini_uploaded_at": "2026-09-10T01:48:22.080656+00:00",
+      "upload_status": "uploaded"
     },
     "360045120133": {
       "article_id": "360045120133",
@@ -3726,8 +3749,11 @@
       "slug": "how-to-use-the-stock-app",
       "file_name": "how-to-use-the-stock-app.md",
       "source_url": "https://support.optisigns.com/hc/en-us/articles/360044115513-How-to-Use-the-Stock-App",
-      "md5": "836e7c409741091601075ea4e09d2464",
-      "status": "unchanged"
+      "md5": "b28f976ed5873da25d452c7da464fb54",
+      "status": "modified",
+      "gemini_file_name": "files/8ui4qyonpx2s",
+      "gemini_uploaded_at": "2026-09-10T01:48:22.982794+00:00",
+      "upload_status": "uploaded"
     },
     "360042950593": {
       "article_id": "360042950593",
@@ -3775,7 +3801,7 @@
       "file_name": "how-to-use-the-simple-calendar-app.md",
       "source_url": "https://support.optisigns.com/hc/en-us/articles/360041481553-How-to-Use-the-Simple-Calendar-App",
       "md5": "ab28abf5c26d296d3f9af8e8c5e13ef6",
-      "status": "modified",
+      "status": "unchanged",
       "gemini_file_name": "files/dq706wugqaac",
       "gemini_uploaded_at": "2026-09-09T01:52:14.120386+00:00",
       "upload_status": "uploaded"
@@ -3786,26 +3812,35 @@
       "slug": "how-to-use-the-techcrunch-news-app",
       "file_name": "how-to-use-the-techcrunch-news-app.md",
       "source_url": "https://support.optisigns.com/hc/en-us/articles/360040991534-How-to-use-the-TechCrunch-News-App",
-      "md5": "435ad288214331890b1cc104bc895207",
-      "status": "unchanged"
+      "md5": "8736270ddd8f0a4d84dc9060ed69f7ab",
+      "status": "modified",
+      "gemini_file_name": "files/lg1azt1i98zt",
+      "gemini_uploaded_at": "2026-09-10T01:48:24.259819+00:00",
+      "upload_status": "uploaded"
     },
     "360040991474": {
       "article_id": "360040991474",
-      "title": "How to use the ESPN News App",
+      "title": "How to Use the ESPN News App",
       "slug": "how-to-use-the-espn-news-app",
       "file_name": "how-to-use-the-espn-news-app.md",
-      "source_url": "https://support.optisigns.com/hc/en-us/articles/360040991474-How-to-use-the-ESPN-News-App",
-      "md5": "e5c13697c3d596f56c3cb8c034042775",
-      "status": "unchanged"
+      "source_url": "https://support.optisigns.com/hc/en-us/articles/360040991474-How-to-Use-the-ESPN-News-App",
+      "md5": "c6fb6772769f22d521344d92521b1cf4",
+      "status": "modified",
+      "gemini_file_name": "files/dxtntdzd6x2n",
+      "gemini_uploaded_at": "2026-09-10T01:48:25.230874+00:00",
+      "upload_status": "uploaded"
     },
     "360041476213": {
       "article_id": "360041476213",
-      "title": "How to use the CNN News App",
-      "slug": "how-to-use-the-cnn-news-app",
-      "file_name": "how-to-use-the-cnn-news-app.md",
-      "source_url": "https://support.optisigns.com/hc/en-us/articles/360041476213-How-to-use-the-CNN-News-App",
-      "md5": "9e30e3f299ef2db031d5702a11ec5706",
-      "status": "unchanged"
+      "title": "How to use the CNN Wall App",
+      "slug": "how-to-use-the-cnn-wall-app",
+      "file_name": "how-to-use-the-cnn-wall-app.md",
+      "source_url": "https://support.optisigns.com/hc/en-us/articles/360041476213-How-to-use-the-CNN-Wall-App",
+      "md5": "0ad61df349f8d33c20c1fb7b2d8ab88a",
+      "status": "modified",
+      "gemini_file_name": "files/oflr1cdglxxi",
+      "gemini_uploaded_at": "2026-09-10T01:48:25.952466+00:00",
+      "upload_status": "uploaded"
     },
     "360039264133": {
       "article_id": "360039264133",
@@ -3823,7 +3858,7 @@
       "file_name": "how-to-create-and-use-the-yelp-app.md",
       "source_url": "https://support.optisigns.com/hc/en-us/articles/360038769394-How-to-Create-and-Use-the-Yelp-App",
       "md5": "550844634e887458929909592a80d69e",
-      "status": "modified",
+      "status": "unchanged",
       "gemini_file_name": "files/ctjy5pg94c7u",
       "gemini_uploaded_at": "2026-09-09T01:52:15.410192+00:00",
       "upload_status": "uploaded"
@@ -3879,8 +3914,11 @@
       "slug": "how-to-use-the-facebook-page-app",
       "file_name": "how-to-use-the-facebook-page-app.md",
       "source_url": "https://support.optisigns.com/hc/en-us/articles/360023848334-How-to-Use-the-Facebook-Page-App",
-      "md5": "189827d1cf25469ba0ddc90c0d4d0522",
-      "status": "unchanged"
+      "md5": "3919e35f141b1166a93ee97d5fed8299",
+      "status": "modified",
+      "gemini_file_name": "files/qm7y6o9pmc1d",
+      "gemini_uploaded_at": "2026-09-10T01:48:26.756516+00:00",
+      "upload_status": "uploaded"
     },
     "360016375573": {
       "article_id": "360016375573",
@@ -3893,12 +3931,15 @@
     },
     "360022393473": {
       "article_id": "360022393473",
-      "title": "How to use the News App",
+      "title": "How to Use the News App",
       "slug": "how-to-use-the-news-app",
       "file_name": "how-to-use-the-news-app.md",
-      "source_url": "https://support.optisigns.com/hc/en-us/articles/360022393473-How-to-use-the-News-App",
-      "md5": "d20df65481cff8001f1382d428b47969",
-      "status": "unchanged"
+      "source_url": "https://support.optisigns.com/hc/en-us/articles/360022393473-How-to-Use-the-News-App",
+      "md5": "082573154533ad4b189bd1395c07eefa",
+      "status": "modified",
+      "gemini_file_name": "files/x36t1zq9al09",
+      "gemini_uploaded_at": "2026-09-10T01:48:27.661351+00:00",
+      "upload_status": "uploaded"
     },
     "360019517953": {
       "article_id": "360019517953",
@@ -3931,18 +3972,28 @@
       "upload_status": "uploaded"
     }
   },
-  "deleted_articles": [],
+  "deleted_articles": [
+    {
+      "article_id": "360036465673",
+      "title": "Adjusting social, news wall speeds",
+      "slug": "adjusting-social-news-wall-speeds",
+      "file_name": "adjusting-social-news-wall-speeds.md",
+      "source_url": "https://support.optisigns.com/hc/en-us/articles/360036465673-Adjusting-social-news-wall-speeds",
+      "md5": "2d0e478ec8530ad46c47643492d9a99e",
+      "status": "unchanged"
+    }
+  ],
   "stats": {
     "new": 0,
-    "modified": 17,
-    "unchanged": 391,
-    "deleted": 0
+    "modified": 18,
+    "unchanged": 389,
+    "deleted": 1
   },
   "last_upload_summary": {
-    "files_discovered": 17,
-    "files_uploaded": 17,
+    "files_discovered": 18,
+    "files_uploaded": 18,
     "files_failed": 0,
-    "estimated_chunks": 20,
-    "updated_at": "2026-09-09T01:52:15.410580+00:00"
+    "estimated_chunks": 37,
+    "updated_at": "2026-09-10T01:48:27.661793+00:00"
   }
 }
