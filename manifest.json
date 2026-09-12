@@ -1,6 +1,6 @@
 {
   "source": "https://support.optisigns.com",
-  "generated_at": "2026-09-11T01:46:50.768071+00:00",
+  "generated_at": "2026-09-12T01:52:30.128574+00:00",
   "articles": {
     "54095075680275": {
       "article_id": "54095075680275",
@@ -581,10 +581,12 @@
       "slug": "how-to-create-and-use-operational-schedules-hdmi-cec-rs-232",
       "file_name": "how-to-create-and-use-operational-schedules-hdmi-cec-rs-232.md",
       "source_url": "https://support.optisigns.com/hc/en-us/articles/28598173096723-How-To-Create-and-Use-Operational-Schedules-HDMI-CEC-RS-232",
-      "md5": "59cdd7bdba783ebcd9adfe1eccc0a0ed",
-      "status": "unchanged",
-      "gemini_file_name": "files/gkw3nul1mrzk",
-      "gemini_uploaded_at": "2026-07-09T01:45:11.111788+00:00",
+      "md5": "24a6c378bfe4b8ef2043f6a523104a26",
+      "status": "modified",
+      "previous_gemini_file_name": "files/gkw3nul1mrzk",
+      "previous_gemini_uploaded_at": "2026-07-09T01:45:11.111788+00:00",
+      "gemini_file_name": "files/nxbqov48x5t1",
+      "gemini_uploaded_at": "2026-09-12T01:52:31.699087+00:00",
       "upload_status": "uploaded"
     },
     "28427819992979": {
@@ -639,7 +641,7 @@
       "file_name": "how-to-change-engage-kiosk-style-preferences.md",
       "source_url": "https://support.optisigns.com/hc/en-us/articles/28115946505107-How-to-Change-Engage-Kiosk-Style-Preferences",
       "md5": "f2f28373dca0d58aff091b22c2cbca4d",
-      "status": "modified",
+      "status": "unchanged",
       "gemini_file_name": "files/lvi9gxzt6ofc",
       "gemini_uploaded_at": "2026-09-11T01:46:53.202319+00:00",
       "upload_status": "uploaded"
@@ -705,7 +707,7 @@
       "file_name": "how-to-add-a-qr-code-in-designs-using-optisigns-designer.md",
       "source_url": "https://support.optisigns.com/hc/en-us/articles/25127398699667-How-to-add-a-QR-Code-in-designs-using-OptiSigns-Designer",
       "md5": "8418c36a31cd773b40138a97abc13f9c",
-      "status": "modified",
+      "status": "unchanged",
       "gemini_file_name": "files/5n20in44ms82",
       "gemini_uploaded_at": "2026-09-11T01:46:54.265492+00:00",
       "upload_status": "uploaded"
@@ -767,8 +769,11 @@
       "slug": "how-to-setup-aericast-meet-wireless-video-conferencing",
       "file_name": "how-to-setup-aericast-meet-wireless-video-conferencing.md",
       "source_url": "https://support.optisigns.com/hc/en-us/articles/23030445716883-How-to-setup-AeriCast-Meet-Wireless-Video-Conferencing",
-      "md5": "7ca0943e10e328ffbecb938ec62e6c39",
-      "status": "unchanged"
+      "md5": "b9c95f9579799d45ab07f82097104f13",
+      "status": "modified",
+      "gemini_file_name": "files/8g7eokrzdm16",
+      "gemini_uploaded_at": "2026-09-12T01:52:33.339371+00:00",
+      "upload_status": "uploaded"
     },
     "22875592994195": {
       "article_id": "22875592994195",
@@ -793,12 +798,15 @@
     },
     "21708242980755": {
       "article_id": "21708242980755",
-      "title": "How to Share Playlist and Folder with External Users",
-      "slug": "how-to-share-playlist-and-folder-with-external-users",
-      "file_name": "how-to-share-playlist-and-folder-with-external-users.md",
-      "source_url": "https://support.optisigns.com/hc/en-us/articles/21708242980755-How-to-Share-Playlist-and-Folder-with-External-Users",
-      "md5": "0bf518bd84522f77f9d375c43b6c13a9",
-      "status": "unchanged"
+      "title": "Sharing Playlists and Folders with External Users",
+      "slug": "sharing-playlists-and-folders-with-external-users",
+      "file_name": "sharing-playlists-and-folders-with-external-users.md",
+      "source_url": "https://support.optisigns.com/hc/en-us/articles/21708242980755-Sharing-Playlists-and-Folders-with-External-Users",
+      "md5": "1213a1863cfd33c2de0694bacaa0c8b9",
+      "status": "modified",
+      "gemini_file_name": "files/itu3dcsk7qjl",
+      "gemini_uploaded_at": "2026-09-12T01:52:34.435881+00:00",
+      "upload_status": "uploaded"
     },
     "20879903340947": {
       "article_id": "20879903340947",
@@ -806,8 +814,11 @@
       "slug": "how-to-use-content-tags-in-the-playlist",
       "file_name": "how-to-use-content-tags-in-the-playlist.md",
       "source_url": "https://support.optisigns.com/hc/en-us/articles/20879903340947-How-to-Use-Content-Tags-in-The-Playlist",
-      "md5": "70acbfd0f2206354dc38a2ad406eca55",
-      "status": "unchanged"
+      "md5": "8346828de925c30f6702ffd08a628e7f",
+      "status": "modified",
+      "gemini_file_name": "files/54zwk4wu6oh1",
+      "gemini_uploaded_at": "2026-09-12T01:52:35.395680+00:00",
+      "upload_status": "uploaded"
     },
     "20750060900883": {
       "article_id": "20750060900883",
@@ -1278,7 +1289,7 @@
       "file_name": "add-1-or-multiple-assets-to-many-playlists-at-the-same-time.md",
       "source_url": "https://support.optisigns.com/hc/en-us/articles/4404616139411-Add-1-or-multiple-assets-to-many-playlists-at-the-same-time",
       "md5": "389e3f265317d6315db3243a46be21b4",
-      "status": "modified",
+      "status": "unchanged",
       "gemini_file_name": "files/vn60rt7a4cqo",
       "gemini_uploaded_at": "2026-09-11T01:46:55.152415+00:00",
       "upload_status": "uploaded"
@@ -1395,7 +1406,7 @@
       "file_name": "multi-select-assets-in-files-assets-view.md",
       "source_url": "https://support.optisigns.com/hc/en-us/articles/1500006056101-Multi-select-assets-in-Files-Assets-view",
       "md5": "db1d74024ae281fac4a5a876bbd62ecf",
-      "status": "modified",
+      "status": "unchanged",
       "gemini_file_name": "files/r3nrkme29mdq",
       "gemini_uploaded_at": "2026-09-11T01:46:56.287653+00:00",
       "upload_status": "uploaded"
@@ -1515,7 +1526,7 @@
       "file_name": "how-to-manually-install-activate-optisigns-ai-add-on-on-linux-or-raspberry-pi.md",
       "source_url": "https://support.optisigns.com/hc/en-us/articles/360060676993-How-to-manually-install-activate-OptiSigns-AI-Add-on-on-Linux-or-Raspberry-Pi",
       "md5": "4721ba5ac3bda8ad3150fe7b6dbf147b",
-      "status": "modified",
+      "status": "unchanged",
       "gemini_file_name": "files/aqllcb9bl6uh",
       "gemini_uploaded_at": "2026-09-11T01:46:57.108855+00:00",
       "upload_status": "uploaded"
@@ -1707,7 +1718,7 @@
       "file_name": "how-to-use-overlay-layers-with-optisigns.md",
       "source_url": "https://support.optisigns.com/hc/en-us/articles/360050602413-How-to-Use-Overlay-layers-with-OptiSigns",
       "md5": "948875f36aad04a00dcd4dc08738ccd7",
-      "status": "modified",
+      "status": "unchanged",
       "gemini_file_name": "files/sl0wgy5he7p0",
       "gemini_uploaded_at": "2026-09-11T01:46:58.098366+00:00",
       "upload_status": "uploaded"
@@ -1779,7 +1790,7 @@
       "file_name": "organizing-your-files-assets-playlists-and-schedules-by-using-folders.md",
       "source_url": "https://support.optisigns.com/hc/en-us/articles/360043670633-Organizing-your-files-assets-playlists-and-schedules-by-using-Folders",
       "md5": "19793d6f5163ae5a2ba32cb13fde024c",
-      "status": "modified",
+      "status": "unchanged",
       "gemini_file_name": "files/wfz1g7rrfkvz",
       "gemini_uploaded_at": "2026-09-11T01:46:59.108278+00:00",
       "upload_status": "uploaded"
@@ -1998,7 +2009,7 @@
       "file_name": "can-i-disable-the-download-button-for-assets.md",
       "source_url": "https://support.optisigns.com/hc/en-us/articles/360020931734-Can-I-Disable-the-Download-Button-for-Assets",
       "md5": "42c4c06c92ac985976945029eae9667c",
-      "status": "modified",
+      "status": "unchanged",
       "gemini_file_name": "files/d8udn24innr7",
       "gemini_uploaded_at": "2026-09-11T01:47:00.045289+00:00",
       "upload_status": "uploaded"
@@ -2273,8 +2284,11 @@
       "slug": "how-to-install-optisigns-player-on-apple-tv",
       "file_name": "how-to-install-optisigns-player-on-apple-tv.md",
       "source_url": "https://support.optisigns.com/hc/en-us/articles/6636047009427-How-to-install-OptiSigns-Player-on-Apple-TV",
-      "md5": "266ede508ca3ea7e043475e136669a56",
-      "status": "unchanged"
+      "md5": "0a1f5e97518d6574346b9b2ace2feac5",
+      "status": "modified",
+      "gemini_file_name": "files/pf0d6g1oph45",
+      "gemini_uploaded_at": "2026-09-12T01:52:36.169937+00:00",
+      "upload_status": "uploaded"
     },
     "4414563863827": {
       "article_id": "4414563863827",
@@ -2543,8 +2557,11 @@
       "slug": "tutorial-create-update-add-remove-items-from-playlists",
       "file_name": "tutorial-create-update-add-remove-items-from-playlists.md",
       "source_url": "https://support.optisigns.com/hc/en-us/articles/4414558295955-Tutorial-Create-Update-Add-Remove-items-from-Playlists",
-      "md5": "e9b8db2d7806c10c98381677f8e46e9d",
-      "status": "unchanged"
+      "md5": "9c1982cb1588d082cfc44a09c73e795c",
+      "status": "modified",
+      "gemini_file_name": "files/3cno2y96cbg7",
+      "gemini_uploaded_at": "2026-09-12T01:52:37.186547+00:00",
+      "upload_status": "uploaded"
     },
     "4411762539027": {
       "article_id": "4411762539027",
@@ -2832,7 +2849,7 @@
       "file_name": "how-to-replace-update-an-existing-asset-image-video-documents.md",
       "source_url": "https://support.optisigns.com/hc/en-us/articles/1500009498782-How-to-replace-update-an-existing-asset-image-video-documents",
       "md5": "b14e3c8c1f78c680135bfea10592ff4a",
-      "status": "modified",
+      "status": "unchanged",
       "gemini_file_name": "files/wc3ycc114six",
       "gemini_uploaded_at": "2026-09-11T01:47:01.012833+00:00",
       "upload_status": "uploaded"
@@ -3422,8 +3439,11 @@
       "slug": "how-to-use-the-local-folder-app-in-optisigns",
       "file_name": "how-to-use-the-local-folder-app-in-optisigns.md",
       "source_url": "https://support.optisigns.com/hc/en-us/articles/1500001985341-How-to-Use-the-Local-Folder-App-in-OptiSigns",
-      "md5": "04245ce7616815bf2ddfa9298a02d4f6",
-      "status": "unchanged"
+      "md5": "31001c5c7db265510bb2b8cfce1cabbc",
+      "status": "modified",
+      "gemini_file_name": "files/vyacpe0b94bw",
+      "gemini_uploaded_at": "2026-09-12T01:52:38.172464+00:00",
+      "upload_status": "uploaded"
     },
     "360060284174": {
       "article_id": "360060284174",
@@ -3482,8 +3502,11 @@
       "slug": "how-to-use-scrolling-website-app",
       "file_name": "how-to-use-scrolling-website-app.md",
       "source_url": "https://support.optisigns.com/hc/en-us/articles/360056356414-How-to-use-Scrolling-Website-App",
-      "md5": "3b586fe5c59af354f00587dbdeaeea55",
-      "status": "unchanged"
+      "md5": "ce986c3a8156dd7c468649dce126321a",
+      "status": "modified",
+      "gemini_file_name": "files/dnl7dpx4t2dd",
+      "gemini_uploaded_at": "2026-09-12T01:52:38.988891+00:00",
+      "upload_status": "uploaded"
     },
     "360055900513": {
       "article_id": "360055900513",
@@ -3513,7 +3536,7 @@
       "file_name": "how-to-use-the-flash-message-app.md",
       "source_url": "https://support.optisigns.com/hc/en-us/articles/360052827713-How-to-Use-the-Flash-Message-App",
       "md5": "b5b64f68beaca3742091a1d41b77d0d3",
-      "status": "modified",
+      "status": "unchanged",
       "gemini_file_name": "files/ezkrrmush1lc",
       "gemini_uploaded_at": "2026-09-11T01:47:02.387361+00:00",
       "upload_status": "uploaded"
@@ -3729,9 +3752,7 @@
       "file_name": "how-to-use-the-facebook-counter-app.md",
       "source_url": "https://support.optisigns.com/hc/en-us/articles/360044619014-How-to-Use-the-Facebook-Counter-App",
       "md5": "4800789c37f73742623fc1686f5892c7",
-      "status": "modified",
-      "previous_gemini_file_name": "files/myj8tvdjxrpn",
-      "previous_gemini_uploaded_at": "2026-09-10T01:48:20.807300+00:00",
+      "status": "unchanged",
       "gemini_file_name": "files/d33sa43sssfj",
       "gemini_uploaded_at": "2026-09-11T01:47:03.413463+00:00",
       "upload_status": "uploaded"
@@ -3743,7 +3764,7 @@
       "file_name": "how-to-use-the-new-york-times-app.md",
       "source_url": "https://support.optisigns.com/hc/en-us/articles/360045121233-How-to-Use-the-New-York-Times-app",
       "md5": "92dfa0fa49fee5537d64b69b0e8454d3",
-      "status": "modified",
+      "status": "unchanged",
       "gemini_file_name": "files/6ve9v039cing",
       "gemini_uploaded_at": "2026-09-11T01:47:04.179226+00:00",
       "upload_status": "uploaded"
@@ -3767,7 +3788,7 @@
       "file_name": "how-to-use-the-wall-street-journal-app.md",
       "source_url": "https://support.optisigns.com/hc/en-us/articles/360045120133-How-to-Use-the-Wall-Street-Journal-App",
       "md5": "81502028c25aa5f56c67ef21b38f8e2b",
-      "status": "modified",
+      "status": "unchanged",
       "gemini_file_name": "files/emtwy55yh73n",
       "gemini_uploaded_at": "2026-09-11T01:47:05.422533+00:00",
       "upload_status": "uploaded"
@@ -3820,8 +3841,11 @@
       "slug": "how-to-use-the-countdown-app",
       "file_name": "how-to-use-the-countdown-app.md",
       "source_url": "https://support.optisigns.com/hc/en-us/articles/360041638433-How-to-use-the-CountDown-App",
-      "md5": "78fff36585964f9d3cbf90370a72929f",
-      "status": "unchanged"
+      "md5": "e87fa34270365b46582541d109f174ca",
+      "status": "modified",
+      "gemini_file_name": "files/b861jghz7n7n",
+      "gemini_uploaded_at": "2026-09-12T01:52:39.947339+00:00",
+      "upload_status": "uploaded"
     },
     "360041481553": {
       "article_id": "360041481553",
@@ -3917,7 +3941,7 @@
       "file_name": "how-to-use-rss-feeds-with-optisigns.md",
       "source_url": "https://support.optisigns.com/hc/en-us/articles/360037965133-How-to-Use-RSS-feeds-with-OptiSigns",
       "md5": "3da5116126f933f37a5ad0570428f46e",
-      "status": "modified",
+      "status": "unchanged",
       "gemini_file_name": "files/6faoj224lcqj",
       "gemini_uploaded_at": "2026-09-11T01:47:06.104836+00:00",
       "upload_status": "uploaded"
@@ -4004,28 +4028,18 @@
       "upload_status": "uploaded"
     }
   },
-  "deleted_articles": [
-    {
-      "article_id": "7589195635219",
-      "title": "Using eyedrop feature to select color in Designer app",
-      "slug": "using-eyedrop-feature-to-select-color-in-designer-app",
-      "file_name": "using-eyedrop-feature-to-select-color-in-designer-app.md",
-      "source_url": "https://support.optisigns.com/hc/en-us/articles/7589195635219-Using-eyedrop-feature-to-select-color-in-Designer-app",
-      "md5": "5061ffff13079126d276e32ee2ea7452",
-      "status": "unchanged"
-    }
-  ],
+  "deleted_articles": [],
   "stats": {
     "new": 0,
-    "modified": 14,
-    "unchanged": 392,
-    "deleted": 1
+    "modified": 9,
+    "unchanged": 397,
+    "deleted": 0
   },
   "last_upload_summary": {
-    "files_discovered": 14,
-    "files_uploaded": 14,
+    "files_discovered": 9,
+    "files_uploaded": 9,
     "files_failed": 0,
-    "estimated_chunks": 22,
-    "updated_at": "2026-09-11T01:47:06.105232+00:00"
+    "estimated_chunks": 25,
+    "updated_at": "2026-09-12T01:52:39.947702+00:00"
   }
 }
