@@ -1,6 +1,6 @@
 {
   "source": "https://support.optisigns.com",
-  "generated_at": "2026-09-12T01:52:30.128574+00:00",
+  "generated_at": "2026-09-13T01:44:20.981248+00:00",
   "articles": {
     "54095075680275": {
       "article_id": "54095075680275",
@@ -582,9 +582,7 @@
       "file_name": "how-to-create-and-use-operational-schedules-hdmi-cec-rs-232.md",
       "source_url": "https://support.optisigns.com/hc/en-us/articles/28598173096723-How-To-Create-and-Use-Operational-Schedules-HDMI-CEC-RS-232",
       "md5": "24a6c378bfe4b8ef2043f6a523104a26",
-      "status": "modified",
-      "previous_gemini_file_name": "files/gkw3nul1mrzk",
-      "previous_gemini_uploaded_at": "2026-07-09T01:45:11.111788+00:00",
+      "status": "unchanged",
       "gemini_file_name": "files/nxbqov48x5t1",
       "gemini_uploaded_at": "2026-09-12T01:52:31.699087+00:00",
       "upload_status": "uploaded"
@@ -770,7 +768,7 @@
       "file_name": "how-to-setup-aericast-meet-wireless-video-conferencing.md",
       "source_url": "https://support.optisigns.com/hc/en-us/articles/23030445716883-How-to-setup-AeriCast-Meet-Wireless-Video-Conferencing",
       "md5": "b9c95f9579799d45ab07f82097104f13",
-      "status": "modified",
+      "status": "unchanged",
       "gemini_file_name": "files/8g7eokrzdm16",
       "gemini_uploaded_at": "2026-09-12T01:52:33.339371+00:00",
       "upload_status": "uploaded"
@@ -803,7 +801,7 @@
       "file_name": "sharing-playlists-and-folders-with-external-users.md",
       "source_url": "https://support.optisigns.com/hc/en-us/articles/21708242980755-Sharing-Playlists-and-Folders-with-External-Users",
       "md5": "1213a1863cfd33c2de0694bacaa0c8b9",
-      "status": "modified",
+      "status": "unchanged",
       "gemini_file_name": "files/itu3dcsk7qjl",
       "gemini_uploaded_at": "2026-09-12T01:52:34.435881+00:00",
       "upload_status": "uploaded"
@@ -815,7 +813,7 @@
       "file_name": "how-to-use-content-tags-in-the-playlist.md",
       "source_url": "https://support.optisigns.com/hc/en-us/articles/20879903340947-How-to-Use-Content-Tags-in-The-Playlist",
       "md5": "8346828de925c30f6702ffd08a628e7f",
-      "status": "modified",
+      "status": "unchanged",
       "gemini_file_name": "files/54zwk4wu6oh1",
       "gemini_uploaded_at": "2026-09-12T01:52:35.395680+00:00",
       "upload_status": "uploaded"
@@ -2285,7 +2283,7 @@
       "file_name": "how-to-install-optisigns-player-on-apple-tv.md",
       "source_url": "https://support.optisigns.com/hc/en-us/articles/6636047009427-How-to-install-OptiSigns-Player-on-Apple-TV",
       "md5": "0a1f5e97518d6574346b9b2ace2feac5",
-      "status": "modified",
+      "status": "unchanged",
       "gemini_file_name": "files/pf0d6g1oph45",
       "gemini_uploaded_at": "2026-09-12T01:52:36.169937+00:00",
       "upload_status": "uploaded"
@@ -2558,7 +2556,7 @@
       "file_name": "tutorial-create-update-add-remove-items-from-playlists.md",
       "source_url": "https://support.optisigns.com/hc/en-us/articles/4414558295955-Tutorial-Create-Update-Add-Remove-items-from-Playlists",
       "md5": "9c1982cb1588d082cfc44a09c73e795c",
-      "status": "modified",
+      "status": "unchanged",
       "gemini_file_name": "files/3cno2y96cbg7",
       "gemini_uploaded_at": "2026-09-12T01:52:37.186547+00:00",
       "upload_status": "uploaded"
@@ -3440,7 +3438,7 @@
       "file_name": "how-to-use-the-local-folder-app-in-optisigns.md",
       "source_url": "https://support.optisigns.com/hc/en-us/articles/1500001985341-How-to-Use-the-Local-Folder-App-in-OptiSigns",
       "md5": "31001c5c7db265510bb2b8cfce1cabbc",
-      "status": "modified",
+      "status": "unchanged",
       "gemini_file_name": "files/vyacpe0b94bw",
       "gemini_uploaded_at": "2026-09-12T01:52:38.172464+00:00",
       "upload_status": "uploaded"
@@ -3503,7 +3501,7 @@
       "file_name": "how-to-use-scrolling-website-app.md",
       "source_url": "https://support.optisigns.com/hc/en-us/articles/360056356414-How-to-use-Scrolling-Website-App",
       "md5": "ce986c3a8156dd7c468649dce126321a",
-      "status": "modified",
+      "status": "unchanged",
       "gemini_file_name": "files/dnl7dpx4t2dd",
       "gemini_uploaded_at": "2026-09-12T01:52:38.988891+00:00",
       "upload_status": "uploaded"
@@ -3842,7 +3840,7 @@
       "file_name": "how-to-use-the-countdown-app.md",
       "source_url": "https://support.optisigns.com/hc/en-us/articles/360041638433-How-to-use-the-CountDown-App",
       "md5": "e87fa34270365b46582541d109f174ca",
-      "status": "modified",
+      "status": "unchanged",
       "gemini_file_name": "files/b861jghz7n7n",
       "gemini_uploaded_at": "2026-09-12T01:52:39.947339+00:00",
       "upload_status": "uploaded"
@@ -4031,15 +4029,15 @@
   "deleted_articles": [],
   "stats": {
     "new": 0,
-    "modified": 9,
-    "unchanged": 397,
+    "modified": 0,
+    "unchanged": 406,
     "deleted": 0
   },
   "last_upload_summary": {
-    "files_discovered": 9,
-    "files_uploaded": 9,
+    "files_discovered": 0,
+    "files_uploaded": 0,
     "files_failed": 0,
-    "estimated_chunks": 25,
-    "updated_at": "2026-09-12T01:52:39.947702+00:00"
+    "estimated_chunks": 0,
+    "updated_at": "2026-09-13T01:44:21.686429+00:00"
   }
 }
