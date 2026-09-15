@@ -1,6 +1,6 @@
 {
   "source": "https://support.optisigns.com",
-  "generated_at": "2026-09-14T02:02:17.117734+00:00",
+  "generated_at": "2026-09-15T02:10:00.973389+00:00",
   "articles": {
     "54095075680275": {
       "article_id": "54095075680275",
@@ -977,8 +977,11 @@
       "slug": "how-to-use-streaming-app-with-optisigns",
       "file_name": "how-to-use-streaming-app-with-optisigns.md",
       "source_url": "https://support.optisigns.com/hc/en-us/articles/16364134190355-How-to-use-Streaming-App-with-OptiSigns",
-      "md5": "3580fe88a4269634eec6b95766bbc85f",
-      "status": "unchanged"
+      "md5": "091485da71f11e4a595929c141b1138a",
+      "status": "modified",
+      "gemini_file_name": "files/2sciew92yo8z",
+      "gemini_uploaded_at": "2026-09-15T02:10:03.179421+00:00",
+      "upload_status": "uploaded"
     },
     "15861880059283": {
       "article_id": "15861880059283",
@@ -1018,12 +1021,15 @@
     },
     "13320135306515": {
       "article_id": "13320135306515",
-      "title": "Build Integration Using OptiSigns Enterprise App",
-      "slug": "build-integration-using-optisigns-enterprise-app",
-      "file_name": "build-integration-using-optisigns-enterprise-app.md",
-      "source_url": "https://support.optisigns.com/hc/en-us/articles/13320135306515-Build-Integration-Using-OptiSigns-Enterprise-App",
-      "md5": "30577a6dc4275cb5e0b9310a7e44829c",
-      "status": "unchanged"
+      "title": "Build Integrations Using the OptiSigns Enterprise App",
+      "slug": "build-integrations-using-the-optisigns-enterprise-app",
+      "file_name": "build-integrations-using-the-optisigns-enterprise-app.md",
+      "source_url": "https://support.optisigns.com/hc/en-us/articles/13320135306515-Build-Integrations-Using-the-OptiSigns-Enterprise-App",
+      "md5": "801e93acee37a0f666031e731dad9696",
+      "status": "modified",
+      "gemini_file_name": "files/xeop8xlz920s",
+      "gemini_uploaded_at": "2026-09-15T02:10:04.016818+00:00",
+      "upload_status": "uploaded"
     },
     "13097501958291": {
       "article_id": "13097501958291",
@@ -1031,8 +1037,11 @@
       "slug": "optisigns-iot-sensor-add-on-quick-start",
       "file_name": "optisigns-iot-sensor-add-on-quick-start.md",
       "source_url": "https://support.optisigns.com/hc/en-us/articles/13097501958291-OptiSigns-IoT-Sensor-Add-on-Quick-Start",
-      "md5": "8202f7766f388890babf49a14e289434",
-      "status": "unchanged"
+      "md5": "28e5222fde9df187bb6798daade894e1",
+      "status": "modified",
+      "gemini_file_name": "files/rjdl3kbdulk2",
+      "gemini_uploaded_at": "2026-09-15T02:10:05.427904+00:00",
+      "upload_status": "uploaded"
     },
     "12947300131731": {
       "article_id": "12947300131731",
@@ -1078,12 +1087,15 @@
     },
     "9061950942995": {
       "article_id": "9061950942995",
-      "title": "Using RS-232 to Schedule TV Power On/Off or other commands",
-      "slug": "using-rs-232-to-schedule-tv-power-on-off-or-other-commands",
-      "file_name": "using-rs-232-to-schedule-tv-power-on-off-or-other-commands.md",
-      "source_url": "https://support.optisigns.com/hc/en-us/articles/9061950942995-Using-RS-232-to-Schedule-TV-Power-On-Off-or-other-commands",
-      "md5": "0769053d18c24a181f545f81a43ef162",
-      "status": "unchanged"
+      "title": "Using RS232 to Schedule TV Power On/Off or other commands",
+      "slug": "using-rs232-to-schedule-tv-power-on-off-or-other-commands",
+      "file_name": "using-rs232-to-schedule-tv-power-on-off-or-other-commands.md",
+      "source_url": "https://support.optisigns.com/hc/en-us/articles/9061950942995-Using-RS232-to-Schedule-TV-Power-On-Off-or-other-commands",
+      "md5": "90a41ed7e8690e4312cd7f275eb37427",
+      "status": "modified",
+      "gemini_file_name": "files/dqlbcb225iwa",
+      "gemini_uploaded_at": "2026-09-15T02:10:06.963027+00:00",
+      "upload_status": "uploaded"
     },
     "8099928867475": {
       "article_id": "8099928867475",
@@ -1474,14 +1486,16 @@
     },
     "360059386254": {
       "article_id": "360059386254",
-      "title": "How to use YouTube Playlist with OptiSigns",
-      "slug": "how-to-use-youtube-playlist-with-optisigns",
-      "file_name": "how-to-use-youtube-playlist-with-optisigns.md",
-      "source_url": "https://support.optisigns.com/hc/en-us/articles/360059386254-How-to-use-YouTube-Playlist-with-OptiSigns",
-      "md5": "66f3b5da254b27ed238954aeecdedb03",
-      "status": "unchanged",
-      "gemini_file_name": "files/bo3fxm87o599",
-      "gemini_uploaded_at": "2026-07-08T05:45:23.907710+00:00",
+      "title": "How to Use the YouTube Playlist App with OptiSigns",
+      "slug": "how-to-use-the-youtube-playlist-app-with-optisigns",
+      "file_name": "how-to-use-the-youtube-playlist-app-with-optisigns.md",
+      "source_url": "https://support.optisigns.com/hc/en-us/articles/360059386254-How-to-Use-the-YouTube-Playlist-App-with-OptiSigns",
+      "md5": "30f225cef00430f2c39de2b9bf175ffe",
+      "status": "modified",
+      "previous_gemini_file_name": "files/bo3fxm87o599",
+      "previous_gemini_uploaded_at": "2026-07-08T05:45:23.907710+00:00",
+      "gemini_file_name": "files/jhygzp229j2z",
+      "gemini_uploaded_at": "2026-09-15T02:10:07.965056+00:00",
       "upload_status": "uploaded"
     },
     "1500000493782": {
@@ -2093,8 +2107,11 @@
       "slug": "how-to-manage-and-edit-your-playlist-settings",
       "file_name": "how-to-manage-and-edit-your-playlist-settings.md",
       "source_url": "https://support.optisigns.com/hc/en-us/articles/28295074995859-How-to-Manage-and-Edit-Your-Playlist-Settings",
-      "md5": "e409da987ebbe595aa5d3ff5622ae1a1",
-      "status": "unchanged"
+      "md5": "7380bf18b9360c9ca7c950f93576d5cd",
+      "status": "modified",
+      "gemini_file_name": "files/f724yn2cp9ax",
+      "gemini_uploaded_at": "2026-09-15T02:10:09.153839+00:00",
+      "upload_status": "uploaded"
     },
     "28026588373139": {
       "article_id": "28026588373139",
@@ -2321,10 +2338,12 @@
       "slug": "show-youtube-video-s-subtitle-closed-caption",
       "file_name": "show-youtube-video-s-subtitle-closed-caption.md",
       "source_url": "https://support.optisigns.com/hc/en-us/articles/360051014773-Show-YouTube-video-s-subtitle-closed-caption",
-      "md5": "ddacb53eef850479e1a3db576bf7f08f",
-      "status": "unchanged",
-      "gemini_file_name": "files/zo74dlehk936",
-      "gemini_uploaded_at": "2026-07-08T05:45:26.677445+00:00",
+      "md5": "ecc0b50053e190d32e60a98e7f0f3d65",
+      "status": "modified",
+      "previous_gemini_file_name": "files/zo74dlehk936",
+      "previous_gemini_uploaded_at": "2026-07-08T05:45:26.677445+00:00",
+      "gemini_file_name": "files/simtsu41xwcj",
+      "gemini_uploaded_at": "2026-09-15T02:10:10.469235+00:00",
       "upload_status": "uploaded"
     },
     "360034379573": {
@@ -3275,8 +3294,11 @@
       "slug": "how-to-use-the-emergency-feed-app",
       "file_name": "how-to-use-the-emergency-feed-app.md",
       "source_url": "https://support.optisigns.com/hc/en-us/articles/4409673381011-How-to-Use-the-Emergency-Feed-App",
-      "md5": "aabe80b797a6fae2271c028b1f818ac4",
-      "status": "unchanged"
+      "md5": "0c6690f9a8412a368b598d32fe159227",
+      "status": "modified",
+      "gemini_file_name": "files/pa9dcufg345m",
+      "gemini_uploaded_at": "2026-09-15T02:10:11.876754+00:00",
+      "upload_status": "uploaded"
     },
     "4409607912211": {
       "article_id": "4409607912211",
@@ -3367,12 +3389,15 @@
     },
     "1500009492202": {
       "article_id": "1500009492202",
-      "title": "How to use On This Day app",
-      "slug": "how-to-use-on-this-day-app",
-      "file_name": "how-to-use-on-this-day-app.md",
-      "source_url": "https://support.optisigns.com/hc/en-us/articles/1500009492202-How-to-use-On-This-Day-app",
-      "md5": "ab41120754619adf90bb0ac1b802a1ba",
-      "status": "unchanged"
+      "title": "How to Use the On This Day App",
+      "slug": "how-to-use-the-on-this-day-app",
+      "file_name": "how-to-use-the-on-this-day-app.md",
+      "source_url": "https://support.optisigns.com/hc/en-us/articles/1500009492202-How-to-Use-the-On-This-Day-App",
+      "md5": "ebe9fdb0520b8fe5f17d7f4a3d6e754c",
+      "status": "modified",
+      "gemini_file_name": "files/qpl2mprfm142",
+      "gemini_uploaded_at": "2026-09-15T02:10:12.961086+00:00",
+      "upload_status": "uploaded"
     },
     "1500009343862": {
       "article_id": "1500009343862",
@@ -4029,15 +4054,15 @@
   "deleted_articles": [],
   "stats": {
     "new": 0,
-    "modified": 0,
-    "unchanged": 406,
+    "modified": 9,
+    "unchanged": 397,
     "deleted": 0
   },
   "last_upload_summary": {
-    "files_discovered": 0,
-    "files_uploaded": 0,
+    "files_discovered": 9,
+    "files_uploaded": 9,
     "files_failed": 0,
-    "estimated_chunks": 0,
-    "updated_at": "2026-09-14T02:02:18.229058+00:00"
+    "estimated_chunks": 25,
+    "updated_at": "2026-09-15T02:10:12.961406+00:00"
   }
 }
