@@ -1,7 +1,43 @@
 {
   "source": "https://support.optisigns.com",
-  "generated_at": "2026-09-15T02:10:00.973389+00:00",
+  "generated_at": "2026-09-16T02:02:04.688787+00:00",
   "articles": {
+    "55450681344915": {
+      "article_id": "55450681344915",
+      "title": "Connect SharePoint News to OptiSigns Digital Signage",
+      "slug": "connect-sharepoint-news-to-optisigns-digital-signage",
+      "file_name": "connect-sharepoint-news-to-optisigns-digital-signage.md",
+      "source_url": "https://support.optisigns.com/hc/en-us/articles/55450681344915-Connect-SharePoint-News-to-OptiSigns-Digital-Signage",
+      "md5": "af8aa0b87a08ac44ffef22042565d98e",
+      "status": "new",
+      "gemini_file_name": "files/hqbrlpayt1va",
+      "gemini_uploaded_at": "2026-09-16T02:02:06.854428+00:00",
+      "upload_status": "uploaded"
+    },
+    "55416186918163": {
+      "article_id": "55416186918163",
+      "title": "How to Get a Microsoft Teams Webhook URL for OptiSigns Broadcast",
+      "slug": "how-to-get-a-microsoft-teams-webhook-url-for-optisigns-broadcast",
+      "file_name": "how-to-get-a-microsoft-teams-webhook-url-for-optisigns-broadcast.md",
+      "source_url": "https://support.optisigns.com/hc/en-us/articles/55416186918163-How-to-Get-a-Microsoft-Teams-Webhook-URL-for-OptiSigns-Broadcast",
+      "md5": "e92dc8148b596e815f33c361adf24f89",
+      "status": "new",
+      "gemini_file_name": "files/4fw582mikr19",
+      "gemini_uploaded_at": "2026-09-16T02:02:07.696515+00:00",
+      "upload_status": "uploaded"
+    },
+    "55416185869331": {
+      "article_id": "55416185869331",
+      "title": "Broadcast: Send Scheduled Snapshots of Your Dashboards",
+      "slug": "broadcast-send-scheduled-snapshots-of-your-dashboards",
+      "file_name": "broadcast-send-scheduled-snapshots-of-your-dashboards.md",
+      "source_url": "https://support.optisigns.com/hc/en-us/articles/55416185869331-Broadcast-Send-Scheduled-Snapshots-of-Your-Dashboards",
+      "md5": "fa9c750a72b1c26bc9b4f013a8b8b0fa",
+      "status": "new",
+      "gemini_file_name": "files/st8nkzimrdue",
+      "gemini_uploaded_at": "2026-09-16T02:02:08.935065+00:00",
+      "upload_status": "uploaded"
+    },
     "54095075680275": {
       "article_id": "54095075680275",
       "title": "OptiDev Add-on - Free Trial and Pricing",
@@ -978,7 +1014,7 @@
       "file_name": "how-to-use-streaming-app-with-optisigns.md",
       "source_url": "https://support.optisigns.com/hc/en-us/articles/16364134190355-How-to-use-Streaming-App-with-OptiSigns",
       "md5": "091485da71f11e4a595929c141b1138a",
-      "status": "modified",
+      "status": "unchanged",
       "gemini_file_name": "files/2sciew92yo8z",
       "gemini_uploaded_at": "2026-09-15T02:10:03.179421+00:00",
       "upload_status": "uploaded"
@@ -1026,7 +1062,7 @@
       "file_name": "build-integrations-using-the-optisigns-enterprise-app.md",
       "source_url": "https://support.optisigns.com/hc/en-us/articles/13320135306515-Build-Integrations-Using-the-OptiSigns-Enterprise-App",
       "md5": "801e93acee37a0f666031e731dad9696",
-      "status": "modified",
+      "status": "unchanged",
       "gemini_file_name": "files/xeop8xlz920s",
       "gemini_uploaded_at": "2026-09-15T02:10:04.016818+00:00",
       "upload_status": "uploaded"
@@ -1038,7 +1074,7 @@
       "file_name": "optisigns-iot-sensor-add-on-quick-start.md",
       "source_url": "https://support.optisigns.com/hc/en-us/articles/13097501958291-OptiSigns-IoT-Sensor-Add-on-Quick-Start",
       "md5": "28e5222fde9df187bb6798daade894e1",
-      "status": "modified",
+      "status": "unchanged",
       "gemini_file_name": "files/rjdl3kbdulk2",
       "gemini_uploaded_at": "2026-09-15T02:10:05.427904+00:00",
       "upload_status": "uploaded"
@@ -1092,7 +1128,7 @@
       "file_name": "using-rs232-to-schedule-tv-power-on-off-or-other-commands.md",
       "source_url": "https://support.optisigns.com/hc/en-us/articles/9061950942995-Using-RS232-to-Schedule-TV-Power-On-Off-or-other-commands",
       "md5": "90a41ed7e8690e4312cd7f275eb37427",
-      "status": "modified",
+      "status": "unchanged",
       "gemini_file_name": "files/dqlbcb225iwa",
       "gemini_uploaded_at": "2026-09-15T02:10:06.963027+00:00",
       "upload_status": "uploaded"
@@ -1491,9 +1527,7 @@
       "file_name": "how-to-use-the-youtube-playlist-app-with-optisigns.md",
       "source_url": "https://support.optisigns.com/hc/en-us/articles/360059386254-How-to-Use-the-YouTube-Playlist-App-with-OptiSigns",
       "md5": "30f225cef00430f2c39de2b9bf175ffe",
-      "status": "modified",
-      "previous_gemini_file_name": "files/bo3fxm87o599",
-      "previous_gemini_uploaded_at": "2026-07-08T05:45:23.907710+00:00",
+      "status": "unchanged",
       "gemini_file_name": "files/jhygzp229j2z",
       "gemini_uploaded_at": "2026-09-15T02:10:07.965056+00:00",
       "upload_status": "uploaded"
@@ -2108,7 +2142,7 @@
       "file_name": "how-to-manage-and-edit-your-playlist-settings.md",
       "source_url": "https://support.optisigns.com/hc/en-us/articles/28295074995859-How-to-Manage-and-Edit-Your-Playlist-Settings",
       "md5": "7380bf18b9360c9ca7c950f93576d5cd",
-      "status": "modified",
+      "status": "unchanged",
       "gemini_file_name": "files/f724yn2cp9ax",
       "gemini_uploaded_at": "2026-09-15T02:10:09.153839+00:00",
       "upload_status": "uploaded"
@@ -2339,9 +2373,7 @@
       "file_name": "show-youtube-video-s-subtitle-closed-caption.md",
       "source_url": "https://support.optisigns.com/hc/en-us/articles/360051014773-Show-YouTube-video-s-subtitle-closed-caption",
       "md5": "ecc0b50053e190d32e60a98e7f0f3d65",
-      "status": "modified",
-      "previous_gemini_file_name": "files/zo74dlehk936",
-      "previous_gemini_uploaded_at": "2026-07-08T05:45:26.677445+00:00",
+      "status": "unchanged",
       "gemini_file_name": "files/simtsu41xwcj",
       "gemini_uploaded_at": "2026-09-15T02:10:10.469235+00:00",
       "upload_status": "uploaded"
@@ -3295,7 +3327,7 @@
       "file_name": "how-to-use-the-emergency-feed-app.md",
       "source_url": "https://support.optisigns.com/hc/en-us/articles/4409673381011-How-to-Use-the-Emergency-Feed-App",
       "md5": "0c6690f9a8412a368b598d32fe159227",
-      "status": "modified",
+      "status": "unchanged",
       "gemini_file_name": "files/pa9dcufg345m",
       "gemini_uploaded_at": "2026-09-15T02:10:11.876754+00:00",
       "upload_status": "uploaded"
@@ -3394,7 +3426,7 @@
       "file_name": "how-to-use-the-on-this-day-app.md",
       "source_url": "https://support.optisigns.com/hc/en-us/articles/1500009492202-How-to-Use-the-On-This-Day-App",
       "md5": "ebe9fdb0520b8fe5f17d7f4a3d6e754c",
-      "status": "modified",
+      "status": "unchanged",
       "gemini_file_name": "files/qpl2mprfm142",
       "gemini_uploaded_at": "2026-09-15T02:10:12.961086+00:00",
       "upload_status": "uploaded"
@@ -3516,8 +3548,11 @@
       "slug": "how-to-use-google-sheets-with-optisigns",
       "file_name": "how-to-use-google-sheets-with-optisigns.md",
       "source_url": "https://support.optisigns.com/hc/en-us/articles/360056977214-How-to-use-Google-Sheets-with-OptiSigns",
-      "md5": "c3612e4246cc3c4ae664f378763b44e7",
-      "status": "unchanged"
+      "md5": "1523a103a2d66ef0f8f2716df38ea80d",
+      "status": "modified",
+      "gemini_file_name": "files/wwpoobfo3bou",
+      "gemini_uploaded_at": "2026-09-16T02:02:10.643361+00:00",
+      "upload_status": "uploaded"
     },
     "360056356414": {
       "article_id": "360056356414",
@@ -3756,8 +3791,11 @@
       "slug": "how-to-use-google-traffic-app",
       "file_name": "how-to-use-google-traffic-app.md",
       "source_url": "https://support.optisigns.com/hc/en-us/articles/360047499893-How-to-use-Google-Traffic-App",
-      "md5": "b80a90983d3b9ac5345c1cb93a76dba3",
-      "status": "unchanged"
+      "md5": "9e115e3bc833a8ee90df117f3ed0cf67",
+      "status": "modified",
+      "gemini_file_name": "files/k19nnooncqzn",
+      "gemini_uploaded_at": "2026-09-16T02:02:12.281201+00:00",
+      "upload_status": "uploaded"
     },
     "360046859534": {
       "article_id": "360046859534",
@@ -4053,16 +4091,16 @@
   },
   "deleted_articles": [],
   "stats": {
-    "new": 0,
-    "modified": 9,
-    "unchanged": 397,
+    "new": 3,
+    "modified": 2,
+    "unchanged": 404,
     "deleted": 0
   },
   "last_upload_summary": {
-    "files_discovered": 9,
-    "files_uploaded": 9,
+    "files_discovered": 5,
+    "files_uploaded": 5,
     "files_failed": 0,
-    "estimated_chunks": 25,
-    "updated_at": "2026-09-15T02:10:12.961406+00:00"
+    "estimated_chunks": 17,
+    "updated_at": "2026-09-16T02:02:12.281489+00:00"
   }
 }
