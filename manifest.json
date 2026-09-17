@@ -1,6 +1,6 @@
 {
   "source": "https://support.optisigns.com",
-  "generated_at": "2026-09-16T02:02:04.688787+00:00",
+  "generated_at": "2026-09-17T02:05:39.787667+00:00",
   "articles": {
     "55450681344915": {
       "article_id": "55450681344915",
@@ -9,7 +9,7 @@
       "file_name": "connect-sharepoint-news-to-optisigns-digital-signage.md",
       "source_url": "https://support.optisigns.com/hc/en-us/articles/55450681344915-Connect-SharePoint-News-to-OptiSigns-Digital-Signage",
       "md5": "af8aa0b87a08ac44ffef22042565d98e",
-      "status": "new",
+      "status": "unchanged",
       "gemini_file_name": "files/hqbrlpayt1va",
       "gemini_uploaded_at": "2026-09-16T02:02:06.854428+00:00",
       "upload_status": "uploaded"
@@ -21,7 +21,7 @@
       "file_name": "how-to-get-a-microsoft-teams-webhook-url-for-optisigns-broadcast.md",
       "source_url": "https://support.optisigns.com/hc/en-us/articles/55416186918163-How-to-Get-a-Microsoft-Teams-Webhook-URL-for-OptiSigns-Broadcast",
       "md5": "e92dc8148b596e815f33c361adf24f89",
-      "status": "new",
+      "status": "unchanged",
       "gemini_file_name": "files/4fw582mikr19",
       "gemini_uploaded_at": "2026-09-16T02:02:07.696515+00:00",
       "upload_status": "uploaded"
@@ -33,7 +33,7 @@
       "file_name": "broadcast-send-scheduled-snapshots-of-your-dashboards.md",
       "source_url": "https://support.optisigns.com/hc/en-us/articles/55416185869331-Broadcast-Send-Scheduled-Snapshots-of-Your-Dashboards",
       "md5": "fa9c750a72b1c26bc9b4f013a8b8b0fa",
-      "status": "new",
+      "status": "unchanged",
       "gemini_file_name": "files/st8nkzimrdue",
       "gemini_uploaded_at": "2026-09-16T02:02:08.935065+00:00",
       "upload_status": "uploaded"
@@ -3549,7 +3549,7 @@
       "file_name": "how-to-use-google-sheets-with-optisigns.md",
       "source_url": "https://support.optisigns.com/hc/en-us/articles/360056977214-How-to-use-Google-Sheets-with-OptiSigns",
       "md5": "1523a103a2d66ef0f8f2716df38ea80d",
-      "status": "modified",
+      "status": "unchanged",
       "gemini_file_name": "files/wwpoobfo3bou",
       "gemini_uploaded_at": "2026-09-16T02:02:10.643361+00:00",
       "upload_status": "uploaded"
@@ -3701,8 +3701,11 @@
       "slug": "how-to-use-google-trends-app",
       "file_name": "how-to-use-google-trends-app.md",
       "source_url": "https://support.optisigns.com/hc/en-us/articles/360050664913-How-to-use-Google-Trends-App",
-      "md5": "4e5445cde19d5b41475b7b209bb50271",
-      "status": "unchanged"
+      "md5": "0291942a76c5a075f03b7727aef345f6",
+      "status": "modified",
+      "gemini_file_name": "files/c1f1gdq2veuq",
+      "gemini_uploaded_at": "2026-09-17T02:05:41.378778+00:00",
+      "upload_status": "uploaded"
     },
     "360049159814": {
       "article_id": "360049159814",
@@ -3792,7 +3795,7 @@
       "file_name": "how-to-use-google-traffic-app.md",
       "source_url": "https://support.optisigns.com/hc/en-us/articles/360047499893-How-to-use-Google-Traffic-App",
       "md5": "9e115e3bc833a8ee90df117f3ed0cf67",
-      "status": "modified",
+      "status": "unchanged",
       "gemini_file_name": "files/k19nnooncqzn",
       "gemini_uploaded_at": "2026-09-16T02:02:12.281201+00:00",
       "upload_status": "uploaded"
@@ -4091,16 +4094,16 @@
   },
   "deleted_articles": [],
   "stats": {
-    "new": 3,
-    "modified": 2,
-    "unchanged": 404,
+    "new": 0,
+    "modified": 1,
+    "unchanged": 408,
     "deleted": 0
   },
   "last_upload_summary": {
-    "files_discovered": 5,
-    "files_uploaded": 5,
+    "files_discovered": 1,
+    "files_uploaded": 1,
     "files_failed": 0,
-    "estimated_chunks": 17,
-    "updated_at": "2026-09-16T02:02:12.281489+00:00"
+    "estimated_chunks": 1,
+    "updated_at": "2026-09-17T02:05:41.379102+00:00"
   }
 }
