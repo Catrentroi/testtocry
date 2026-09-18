@@ -1,6 +1,6 @@
 {
   "source": "https://support.optisigns.com",
-  "generated_at": "2026-09-17T02:05:39.787667+00:00",
+  "generated_at": "2026-09-18T01:53:03.424845+00:00",
   "articles": {
     "55450681344915": {
       "article_id": "55450681344915",
@@ -1106,8 +1106,11 @@
       "slug": "how-to-put-live-tv-on-your-screens-with-optisigns",
       "file_name": "how-to-put-live-tv-on-your-screens-with-optisigns.md",
       "source_url": "https://support.optisigns.com/hc/en-us/articles/10159088954387-How-to-put-Live-TV-on-your-screens-with-OptiSigns",
-      "md5": "8d675db8bf7d3c45374afd89a25b6001",
-      "status": "unchanged"
+      "md5": "ff6a56813698331078abe16cb30ad3ad",
+      "status": "modified",
+      "gemini_file_name": "files/lvuhppo2fan3",
+      "gemini_uploaded_at": "2026-09-18T01:53:05.319477+00:00",
+      "upload_status": "uploaded"
     },
     "9169378546195": {
       "article_id": "9169378546195",
@@ -1787,10 +1790,12 @@
       "slug": "whitelist-optisigns-ip-addresses-ports",
       "file_name": "whitelist-optisigns-ip-addresses-ports.md",
       "source_url": "https://support.optisigns.com/hc/en-us/articles/360047275934-Whitelist-OptiSigns-IP-addresses-ports",
-      "md5": "6a89eda17b1bdc5850b9e6298665c32a",
-      "status": "unchanged",
-      "gemini_file_name": "files/tofey71cqf0x",
-      "gemini_uploaded_at": "2026-09-04T01:42:06.818039+00:00",
+      "md5": "984fd61e2d6636d6f9c5fa7f0f77eb20",
+      "status": "modified",
+      "previous_gemini_file_name": "files/tofey71cqf0x",
+      "previous_gemini_uploaded_at": "2026-09-04T01:42:06.818039+00:00",
+      "gemini_file_name": "files/bxqkterqpr6a",
+      "gemini_uploaded_at": "2026-09-18T01:53:06.047563+00:00",
       "upload_status": "uploaded"
     },
     "360047232054": {
@@ -2393,8 +2398,11 @@
       "slug": "changing-screen-s-orientation-portrait-landscape",
       "file_name": "changing-screen-s-orientation-portrait-landscape.md",
       "source_url": "https://support.optisigns.com/hc/en-us/articles/360016833514-Changing-screen-s-orientation-portrait-landscape",
-      "md5": "a2cc46e2bcb735967eded20f427f9603",
-      "status": "unchanged"
+      "md5": "5600301b71b13c22be140b25425003c3",
+      "status": "modified",
+      "gemini_file_name": "files/t2ucqlys49hi",
+      "gemini_uploaded_at": "2026-09-18T01:53:06.952593+00:00",
+      "upload_status": "uploaded"
     },
     "360016485633": {
       "article_id": "360016485633",
@@ -2549,8 +2557,11 @@
       "slug": "assign-content-to-your-screens",
       "file_name": "assign-content-to-your-screens.md",
       "source_url": "https://support.optisigns.com/hc/en-us/articles/360016375153-Assign-content-to-your-screens",
-      "md5": "5b94e9f3b55d2243a1dc1b848c89e0b4",
-      "status": "unchanged"
+      "md5": "9a3c3f4e5a3995d558ec1962a14ddb89",
+      "status": "modified",
+      "gemini_file_name": "files/p3tcuw607l55",
+      "gemini_uploaded_at": "2026-09-18T01:53:07.812024+00:00",
+      "upload_status": "uploaded"
     },
     "44669013147923": {
       "article_id": "44669013147923",
@@ -3702,7 +3713,7 @@
       "file_name": "how-to-use-google-trends-app.md",
       "source_url": "https://support.optisigns.com/hc/en-us/articles/360050664913-How-to-use-Google-Trends-App",
       "md5": "0291942a76c5a075f03b7727aef345f6",
-      "status": "modified",
+      "status": "unchanged",
       "gemini_file_name": "files/c1f1gdq2veuq",
       "gemini_uploaded_at": "2026-09-17T02:05:41.378778+00:00",
       "upload_status": "uploaded"
@@ -4095,15 +4106,15 @@
   "deleted_articles": [],
   "stats": {
     "new": 0,
-    "modified": 1,
-    "unchanged": 408,
+    "modified": 4,
+    "unchanged": 405,
     "deleted": 0
   },
   "last_upload_summary": {
-    "files_discovered": 1,
-    "files_uploaded": 1,
+    "files_discovered": 4,
+    "files_uploaded": 4,
     "files_failed": 0,
-    "estimated_chunks": 1,
-    "updated_at": "2026-09-17T02:05:41.379102+00:00"
+    "estimated_chunks": 6,
+    "updated_at": "2026-09-18T01:53:07.812325+00:00"
   }
 }
