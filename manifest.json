@@ -1,6 +1,6 @@
 {
   "source": "https://support.optisigns.com",
-  "generated_at": "2026-09-18T01:53:03.424845+00:00",
+  "generated_at": "2026-09-19T01:58:02.138708+00:00",
   "articles": {
     "55450681344915": {
       "article_id": "55450681344915",
@@ -1107,7 +1107,7 @@
       "file_name": "how-to-put-live-tv-on-your-screens-with-optisigns.md",
       "source_url": "https://support.optisigns.com/hc/en-us/articles/10159088954387-How-to-put-Live-TV-on-your-screens-with-OptiSigns",
       "md5": "ff6a56813698331078abe16cb30ad3ad",
-      "status": "modified",
+      "status": "unchanged",
       "gemini_file_name": "files/lvuhppo2fan3",
       "gemini_uploaded_at": "2026-09-18T01:53:05.319477+00:00",
       "upload_status": "uploaded"
@@ -1791,9 +1791,7 @@
       "file_name": "whitelist-optisigns-ip-addresses-ports.md",
       "source_url": "https://support.optisigns.com/hc/en-us/articles/360047275934-Whitelist-OptiSigns-IP-addresses-ports",
       "md5": "984fd61e2d6636d6f9c5fa7f0f77eb20",
-      "status": "modified",
-      "previous_gemini_file_name": "files/tofey71cqf0x",
-      "previous_gemini_uploaded_at": "2026-09-04T01:42:06.818039+00:00",
+      "status": "unchanged",
       "gemini_file_name": "files/bxqkterqpr6a",
       "gemini_uploaded_at": "2026-09-18T01:53:06.047563+00:00",
       "upload_status": "uploaded"
@@ -2399,7 +2397,7 @@
       "file_name": "changing-screen-s-orientation-portrait-landscape.md",
       "source_url": "https://support.optisigns.com/hc/en-us/articles/360016833514-Changing-screen-s-orientation-portrait-landscape",
       "md5": "5600301b71b13c22be140b25425003c3",
-      "status": "modified",
+      "status": "unchanged",
       "gemini_file_name": "files/t2ucqlys49hi",
       "gemini_uploaded_at": "2026-09-18T01:53:06.952593+00:00",
       "upload_status": "uploaded"
@@ -2557,10 +2555,12 @@
       "slug": "assign-content-to-your-screens",
       "file_name": "assign-content-to-your-screens.md",
       "source_url": "https://support.optisigns.com/hc/en-us/articles/360016375153-Assign-content-to-your-screens",
-      "md5": "9a3c3f4e5a3995d558ec1962a14ddb89",
+      "md5": "82d3a0c254bbf1149d1639d616f690cf",
       "status": "modified",
-      "gemini_file_name": "files/p3tcuw607l55",
-      "gemini_uploaded_at": "2026-09-18T01:53:07.812024+00:00",
+      "previous_gemini_file_name": "files/p3tcuw607l55",
+      "previous_gemini_uploaded_at": "2026-09-18T01:53:07.812024+00:00",
+      "gemini_file_name": "files/27b7ow0c2j38",
+      "gemini_uploaded_at": "2026-09-19T01:58:04.071696+00:00",
       "upload_status": "uploaded"
     },
     "44669013147923": {
@@ -3235,8 +3235,11 @@
       "slug": "how-to-use-the-cap-alert-app",
       "file_name": "how-to-use-the-cap-alert-app.md",
       "source_url": "https://support.optisigns.com/hc/en-us/articles/6604468198291-How-to-Use-the-CAP-Alert-App",
-      "md5": "aa73f4cb1d7e8c62902a0bd7e6b515ec",
-      "status": "unchanged"
+      "md5": "273e6897bcef9d4b8255343e7166b58b",
+      "status": "modified",
+      "gemini_file_name": "files/abjv5m6dy2ly",
+      "gemini_uploaded_at": "2026-09-19T01:58:04.695988+00:00",
+      "upload_status": "uploaded"
     },
     "6091289267475": {
       "article_id": "6091289267475",
@@ -3555,14 +3558,16 @@
     },
     "360056977214": {
       "article_id": "360056977214",
-      "title": "How to use Google Sheets with OptiSigns",
+      "title": "How to Use Google Sheets with OptiSigns",
       "slug": "how-to-use-google-sheets-with-optisigns",
       "file_name": "how-to-use-google-sheets-with-optisigns.md",
-      "source_url": "https://support.optisigns.com/hc/en-us/articles/360056977214-How-to-use-Google-Sheets-with-OptiSigns",
-      "md5": "1523a103a2d66ef0f8f2716df38ea80d",
-      "status": "unchanged",
-      "gemini_file_name": "files/wwpoobfo3bou",
-      "gemini_uploaded_at": "2026-09-16T02:02:10.643361+00:00",
+      "source_url": "https://support.optisigns.com/hc/en-us/articles/360056977214-How-to-Use-Google-Sheets-with-OptiSigns",
+      "md5": "0ea7fe12e67afbdaf38b1768c7e85c3c",
+      "status": "modified",
+      "previous_gemini_file_name": "files/wwpoobfo3bou",
+      "previous_gemini_uploaded_at": "2026-09-16T02:02:10.643361+00:00",
+      "gemini_file_name": "files/fr1y3qqtvq4q",
+      "gemini_uploaded_at": "2026-09-19T01:58:05.824850+00:00",
       "upload_status": "uploaded"
     },
     "360056356414": {
@@ -4106,15 +4111,15 @@
   "deleted_articles": [],
   "stats": {
     "new": 0,
-    "modified": 4,
-    "unchanged": 405,
+    "modified": 3,
+    "unchanged": 406,
     "deleted": 0
   },
   "last_upload_summary": {
-    "files_discovered": 4,
-    "files_uploaded": 4,
+    "files_discovered": 3,
+    "files_uploaded": 3,
     "files_failed": 0,
-    "estimated_chunks": 6,
-    "updated_at": "2026-09-18T01:53:07.812325+00:00"
+    "estimated_chunks": 10,
+    "updated_at": "2026-09-19T01:58:05.825091+00:00"
   }
 }
