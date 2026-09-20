@@ -1,6 +1,6 @@
 {
   "source": "https://support.optisigns.com",
-  "generated_at": "2026-09-19T01:58:02.138708+00:00",
+  "generated_at": "2026-09-20T02:01:17.269232+00:00",
   "articles": {
     "55450681344915": {
       "article_id": "55450681344915",
@@ -2556,9 +2556,7 @@
       "file_name": "assign-content-to-your-screens.md",
       "source_url": "https://support.optisigns.com/hc/en-us/articles/360016375153-Assign-content-to-your-screens",
       "md5": "82d3a0c254bbf1149d1639d616f690cf",
-      "status": "modified",
-      "previous_gemini_file_name": "files/p3tcuw607l55",
-      "previous_gemini_uploaded_at": "2026-09-18T01:53:07.812024+00:00",
+      "status": "unchanged",
       "gemini_file_name": "files/27b7ow0c2j38",
       "gemini_uploaded_at": "2026-09-19T01:58:04.071696+00:00",
       "upload_status": "uploaded"
@@ -3236,7 +3234,7 @@
       "file_name": "how-to-use-the-cap-alert-app.md",
       "source_url": "https://support.optisigns.com/hc/en-us/articles/6604468198291-How-to-Use-the-CAP-Alert-App",
       "md5": "273e6897bcef9d4b8255343e7166b58b",
-      "status": "modified",
+      "status": "unchanged",
       "gemini_file_name": "files/abjv5m6dy2ly",
       "gemini_uploaded_at": "2026-09-19T01:58:04.695988+00:00",
       "upload_status": "uploaded"
@@ -3563,9 +3561,7 @@
       "file_name": "how-to-use-google-sheets-with-optisigns.md",
       "source_url": "https://support.optisigns.com/hc/en-us/articles/360056977214-How-to-Use-Google-Sheets-with-OptiSigns",
       "md5": "0ea7fe12e67afbdaf38b1768c7e85c3c",
-      "status": "modified",
-      "previous_gemini_file_name": "files/wwpoobfo3bou",
-      "previous_gemini_uploaded_at": "2026-09-16T02:02:10.643361+00:00",
+      "status": "unchanged",
       "gemini_file_name": "files/fr1y3qqtvq4q",
       "gemini_uploaded_at": "2026-09-19T01:58:05.824850+00:00",
       "upload_status": "uploaded"
@@ -4111,15 +4107,15 @@
   "deleted_articles": [],
   "stats": {
     "new": 0,
-    "modified": 3,
-    "unchanged": 406,
+    "modified": 0,
+    "unchanged": 409,
     "deleted": 0
   },
   "last_upload_summary": {
-    "files_discovered": 3,
-    "files_uploaded": 3,
+    "files_discovered": 0,
+    "files_uploaded": 0,
     "files_failed": 0,
-    "estimated_chunks": 10,
-    "updated_at": "2026-09-19T01:58:05.825091+00:00"
+    "estimated_chunks": 0,
+    "updated_at": "2026-09-20T02:01:17.909484+00:00"
   }
 }
