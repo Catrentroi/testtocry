@@ -1,7 +1,19 @@
 {
   "source": "https://support.optisigns.com",
-  "generated_at": "2026-09-21T02:02:06.399464+00:00",
+  "generated_at": "2026-09-22T02:08:21.558486+00:00",
   "articles": {
+    "55640830295187": {
+      "article_id": "55640830295187",
+      "title": "Using the Japan Transit App",
+      "slug": "using-the-japan-transit-app",
+      "file_name": "using-the-japan-transit-app.md",
+      "source_url": "https://support.optisigns.com/hc/en-us/articles/55640830295187-Using-the-Japan-Transit-App",
+      "md5": "c2ab850b48313b95039e30c44e9051ca",
+      "status": "new",
+      "gemini_file_name": "files/tyixfk0z93dk",
+      "gemini_uploaded_at": "2026-09-22T02:08:23.325511+00:00",
+      "upload_status": "uploaded"
+    },
     "55450681344915": {
       "article_id": "55450681344915",
       "title": "Connect SharePoint News to OptiSigns Digital Signage",
@@ -521,8 +533,11 @@
       "slug": "configuring-mass-deployment-with-jamf-pro-mdm-on-apple-devices",
       "file_name": "configuring-mass-deployment-with-jamf-pro-mdm-on-apple-devices.md",
       "source_url": "https://support.optisigns.com/hc/en-us/articles/31695220475283-Configuring-Mass-Deployment-with-Jamf-Pro-MDM-on-Apple-Devices",
-      "md5": "74674ccbc461ade769aa80d2e99ad026",
-      "status": "unchanged"
+      "md5": "c4ba3a1cd691e1d7b44983224038c78e",
+      "status": "modified",
+      "gemini_file_name": "files/lub88sneqaxr",
+      "gemini_uploaded_at": "2026-09-22T02:08:23.949766+00:00",
+      "upload_status": "uploaded"
     },
     "31449657955347": {
       "article_id": "31449657955347",
@@ -1372,12 +1387,15 @@
     },
     "4403332894867": {
       "article_id": "4403332894867",
-      "title": "How to set up Audit Log for your account",
-      "slug": "how-to-set-up-audit-log-for-your-account",
-      "file_name": "how-to-set-up-audit-log-for-your-account.md",
-      "source_url": "https://support.optisigns.com/hc/en-us/articles/4403332894867-How-to-set-up-Audit-Log-for-your-account",
-      "md5": "ba1ad2add616c2ec98e904af07b0a3c4",
-      "status": "unchanged"
+      "title": "Setting Up Audit Logging",
+      "slug": "setting-up-audit-logging",
+      "file_name": "setting-up-audit-logging.md",
+      "source_url": "https://support.optisigns.com/hc/en-us/articles/4403332894867-Setting-Up-Audit-Logging",
+      "md5": "089d73c2683373a09475e4f47960c05b",
+      "status": "modified",
+      "gemini_file_name": "files/1gg4wl28z2vy",
+      "gemini_uploaded_at": "2026-09-22T02:08:24.567616+00:00",
+      "upload_status": "uploaded"
     },
     "4403306341523": {
       "article_id": "4403306341523",
@@ -2623,12 +2641,15 @@
     },
     "4411762539027": {
       "article_id": "4411762539027",
-      "title": "Multilingual and multi-currency",
-      "slug": "multilingual-and-multi-currency",
-      "file_name": "multilingual-and-multi-currency.md",
-      "source_url": "https://support.optisigns.com/hc/en-us/articles/4411762539027-Multilingual-and-multi-currency",
-      "md5": "2f23f2efeb68a31602aea1ec80ec7be8",
-      "status": "unchanged"
+      "title": "Multilingual and Multi-Currency Options",
+      "slug": "multilingual-and-multi-currency-options",
+      "file_name": "multilingual-and-multi-currency-options.md",
+      "source_url": "https://support.optisigns.com/hc/en-us/articles/4411762539027-Multilingual-and-Multi-Currency-Options",
+      "md5": "f2c4761d7c0e64b6091cb50f2110f4ab",
+      "status": "modified",
+      "gemini_file_name": "files/gra74fxsfdq6",
+      "gemini_uploaded_at": "2026-09-22T02:08:25.158174+00:00",
+      "upload_status": "uploaded"
     },
     "1500008112642": {
       "article_id": "1500008112642",
@@ -2804,8 +2825,11 @@
       "slug": "optisigns-pro-player-advanced-features",
       "file_name": "optisigns-pro-player-advanced-features.md",
       "source_url": "https://support.optisigns.com/hc/en-us/articles/35577511423635-OptiSigns-Pro-Player-Advanced-Features",
-      "md5": "a47880d7799c33f409eae004750caf2f",
-      "status": "unchanged"
+      "md5": "d4510635807cd34c73cd50e3c1656d41",
+      "status": "modified",
+      "gemini_file_name": "files/gss82u1kn01c",
+      "gemini_uploaded_at": "2026-09-22T02:08:25.987627+00:00",
+      "upload_status": "uploaded"
     },
     "18500083191059": {
       "article_id": "18500083191059",
@@ -4106,16 +4130,16 @@
   },
   "deleted_articles": [],
   "stats": {
-    "new": 0,
-    "modified": 0,
-    "unchanged": 409,
+    "new": 1,
+    "modified": 4,
+    "unchanged": 405,
     "deleted": 0
   },
   "last_upload_summary": {
-    "files_discovered": 0,
-    "files_uploaded": 0,
+    "files_discovered": 5,
+    "files_uploaded": 5,
     "files_failed": 0,
-    "estimated_chunks": 0,
-    "updated_at": "2026-09-21T02:02:07.054831+00:00"
+    "estimated_chunks": 14,
+    "updated_at": "2026-09-22T02:08:25.987983+00:00"
   }
 }
