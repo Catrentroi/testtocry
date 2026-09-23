@@ -1,7 +1,19 @@
 {
   "source": "https://support.optisigns.com",
-  "generated_at": "2026-09-22T02:08:21.558486+00:00",
+  "generated_at": "2026-09-23T02:08:03.914487+00:00",
   "articles": {
+    "55669121864979": {
+      "article_id": "55669121864979",
+      "title": "Using the Flight Schedule App",
+      "slug": "using-the-flight-schedule-app",
+      "file_name": "using-the-flight-schedule-app.md",
+      "source_url": "https://support.optisigns.com/hc/en-us/articles/55669121864979-Using-the-Flight-Schedule-App",
+      "md5": "5ec1c601eb0e042f6fb6360b9360da30",
+      "status": "new",
+      "gemini_file_name": "files/5mbpsxplnbo6",
+      "gemini_uploaded_at": "2026-09-23T02:08:06.508309+00:00",
+      "upload_status": "uploaded"
+    },
     "55640830295187": {
       "article_id": "55640830295187",
       "title": "Using the Japan Transit App",
@@ -9,7 +21,7 @@
       "file_name": "using-the-japan-transit-app.md",
       "source_url": "https://support.optisigns.com/hc/en-us/articles/55640830295187-Using-the-Japan-Transit-App",
       "md5": "c2ab850b48313b95039e30c44e9051ca",
-      "status": "new",
+      "status": "unchanged",
       "gemini_file_name": "files/tyixfk0z93dk",
       "gemini_uploaded_at": "2026-09-22T02:08:23.325511+00:00",
       "upload_status": "uploaded"
@@ -24,6 +36,18 @@
       "status": "unchanged",
       "gemini_file_name": "files/hqbrlpayt1va",
       "gemini_uploaded_at": "2026-09-16T02:02:06.854428+00:00",
+      "upload_status": "uploaded"
+    },
+    "55447693635731": {
+      "article_id": "55447693635731",
+      "title": "How to Display Grafana Dashboards on OptiSigns",
+      "slug": "how-to-display-grafana-dashboards-on-optisigns",
+      "file_name": "how-to-display-grafana-dashboards-on-optisigns.md",
+      "source_url": "https://support.optisigns.com/hc/en-us/articles/55447693635731-How-to-Display-Grafana-Dashboards-on-OptiSigns",
+      "md5": "d9d3a7c3f428e5bad595aed5c06f1eca",
+      "status": "new",
+      "gemini_file_name": "files/9xn8tsj4exxr",
+      "gemini_uploaded_at": "2026-09-23T02:08:07.714106+00:00",
       "upload_status": "uploaded"
     },
     "55416186918163": {
@@ -534,7 +558,7 @@
       "file_name": "configuring-mass-deployment-with-jamf-pro-mdm-on-apple-devices.md",
       "source_url": "https://support.optisigns.com/hc/en-us/articles/31695220475283-Configuring-Mass-Deployment-with-Jamf-Pro-MDM-on-Apple-Devices",
       "md5": "c4ba3a1cd691e1d7b44983224038c78e",
-      "status": "modified",
+      "status": "unchanged",
       "gemini_file_name": "files/lub88sneqaxr",
       "gemini_uploaded_at": "2026-09-22T02:08:23.949766+00:00",
       "upload_status": "uploaded"
@@ -1392,7 +1416,7 @@
       "file_name": "setting-up-audit-logging.md",
       "source_url": "https://support.optisigns.com/hc/en-us/articles/4403332894867-Setting-Up-Audit-Logging",
       "md5": "089d73c2683373a09475e4f47960c05b",
-      "status": "modified",
+      "status": "unchanged",
       "gemini_file_name": "files/1gg4wl28z2vy",
       "gemini_uploaded_at": "2026-09-22T02:08:24.567616+00:00",
       "upload_status": "uploaded"
@@ -2646,7 +2670,7 @@
       "file_name": "multilingual-and-multi-currency-options.md",
       "source_url": "https://support.optisigns.com/hc/en-us/articles/4411762539027-Multilingual-and-Multi-Currency-Options",
       "md5": "f2c4761d7c0e64b6091cb50f2110f4ab",
-      "status": "modified",
+      "status": "unchanged",
       "gemini_file_name": "files/gra74fxsfdq6",
       "gemini_uploaded_at": "2026-09-22T02:08:25.158174+00:00",
       "upload_status": "uploaded"
@@ -2826,7 +2850,7 @@
       "file_name": "optisigns-pro-player-advanced-features.md",
       "source_url": "https://support.optisigns.com/hc/en-us/articles/35577511423635-OptiSigns-Pro-Player-Advanced-Features",
       "md5": "d4510635807cd34c73cd50e3c1656d41",
-      "status": "modified",
+      "status": "unchanged",
       "gemini_file_name": "files/gss82u1kn01c",
       "gemini_uploaded_at": "2026-09-22T02:08:25.987627+00:00",
       "upload_status": "uploaded"
@@ -3530,10 +3554,12 @@
       "slug": "how-to-use-the-local-folder-app-in-optisigns",
       "file_name": "how-to-use-the-local-folder-app-in-optisigns.md",
       "source_url": "https://support.optisigns.com/hc/en-us/articles/1500001985341-How-to-Use-the-Local-Folder-App-in-OptiSigns",
-      "md5": "31001c5c7db265510bb2b8cfce1cabbc",
-      "status": "unchanged",
-      "gemini_file_name": "files/vyacpe0b94bw",
-      "gemini_uploaded_at": "2026-09-12T01:52:38.172464+00:00",
+      "md5": "888e81015001ed1d9f76b24e43035d7f",
+      "status": "modified",
+      "previous_gemini_file_name": "files/vyacpe0b94bw",
+      "previous_gemini_uploaded_at": "2026-09-12T01:52:38.172464+00:00",
+      "gemini_file_name": "files/wmvl9vzqq9lc",
+      "gemini_uploaded_at": "2026-09-23T02:08:08.799549+00:00",
       "upload_status": "uploaded"
     },
     "360060284174": {
@@ -3812,8 +3838,11 @@
       "slug": "how-to-use-facebook-live-stream-app",
       "file_name": "how-to-use-facebook-live-stream-app.md",
       "source_url": "https://support.optisigns.com/hc/en-us/articles/360048660813-How-to-use-Facebook-Live-Stream-App",
-      "md5": "ced6b36df7fa4851f3e27360631cd1e1",
-      "status": "unchanged"
+      "md5": "6c47877e19f17af063b2132544b55717",
+      "status": "modified",
+      "gemini_file_name": "files/fwcufwnyga0n",
+      "gemini_uploaded_at": "2026-09-23T02:08:09.700794+00:00",
+      "upload_status": "uploaded"
     },
     "360047501233": {
       "article_id": "360047501233",
@@ -4130,16 +4159,16 @@
   },
   "deleted_articles": [],
   "stats": {
-    "new": 1,
-    "modified": 4,
-    "unchanged": 405,
+    "new": 2,
+    "modified": 2,
+    "unchanged": 408,
     "deleted": 0
   },
   "last_upload_summary": {
-    "files_discovered": 5,
-    "files_uploaded": 5,
+    "files_discovered": 4,
+    "files_uploaded": 4,
     "files_failed": 0,
-    "estimated_chunks": 14,
-    "updated_at": "2026-09-22T02:08:25.987983+00:00"
+    "estimated_chunks": 18,
+    "updated_at": "2026-09-23T02:08:09.701068+00:00"
   }
 }
