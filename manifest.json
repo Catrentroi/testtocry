@@ -1,7 +1,19 @@
 {
   "source": "https://support.optisigns.com",
-  "generated_at": "2026-09-23T02:08:03.914487+00:00",
+  "generated_at": "2026-09-24T01:55:13.676774+00:00",
   "articles": {
+    "55709616003219": {
+      "article_id": "55709616003219",
+      "title": "Using the X Social App / Add-On",
+      "slug": "using-the-x-social-app-add-on",
+      "file_name": "using-the-x-social-app-add-on.md",
+      "source_url": "https://support.optisigns.com/hc/en-us/articles/55709616003219-Using-the-X-Social-App-Add-On",
+      "md5": "9e686350a2f72a354f6863b555604ba6",
+      "status": "new",
+      "gemini_file_name": "files/gurbqiky7n5j",
+      "gemini_uploaded_at": "2026-09-24T01:55:15.119797+00:00",
+      "upload_status": "uploaded"
+    },
     "55669121864979": {
       "article_id": "55669121864979",
       "title": "Using the Flight Schedule App",
@@ -9,7 +21,7 @@
       "file_name": "using-the-flight-schedule-app.md",
       "source_url": "https://support.optisigns.com/hc/en-us/articles/55669121864979-Using-the-Flight-Schedule-App",
       "md5": "5ec1c601eb0e042f6fb6360b9360da30",
-      "status": "new",
+      "status": "unchanged",
       "gemini_file_name": "files/5mbpsxplnbo6",
       "gemini_uploaded_at": "2026-09-23T02:08:06.508309+00:00",
       "upload_status": "uploaded"
@@ -45,7 +57,7 @@
       "file_name": "how-to-display-grafana-dashboards-on-optisigns.md",
       "source_url": "https://support.optisigns.com/hc/en-us/articles/55447693635731-How-to-Display-Grafana-Dashboards-on-OptiSigns",
       "md5": "d9d3a7c3f428e5bad595aed5c06f1eca",
-      "status": "new",
+      "status": "unchanged",
       "gemini_file_name": "files/9xn8tsj4exxr",
       "gemini_uploaded_at": "2026-09-23T02:08:07.714106+00:00",
       "upload_status": "uploaded"
@@ -68,10 +80,12 @@
       "slug": "broadcast-send-scheduled-snapshots-of-your-dashboards",
       "file_name": "broadcast-send-scheduled-snapshots-of-your-dashboards.md",
       "source_url": "https://support.optisigns.com/hc/en-us/articles/55416185869331-Broadcast-Send-Scheduled-Snapshots-of-Your-Dashboards",
-      "md5": "fa9c750a72b1c26bc9b4f013a8b8b0fa",
-      "status": "unchanged",
-      "gemini_file_name": "files/st8nkzimrdue",
-      "gemini_uploaded_at": "2026-09-16T02:02:08.935065+00:00",
+      "md5": "51b2ec41e49288c629c51440b56fd84f",
+      "status": "modified",
+      "previous_gemini_file_name": "files/st8nkzimrdue",
+      "previous_gemini_uploaded_at": "2026-09-16T02:02:08.935065+00:00",
+      "gemini_file_name": "files/0yzf7rwt0h6n",
+      "gemini_uploaded_at": "2026-09-24T01:55:16.384288+00:00",
       "upload_status": "uploaded"
     },
     "54095075680275": {
@@ -3008,8 +3022,11 @@
       "slug": "where-to-buy-optisigns-devices",
       "file_name": "where-to-buy-optisigns-devices.md",
       "source_url": "https://support.optisigns.com/hc/en-us/articles/32129032857875-Where-to-Buy-OptiSigns-Devices",
-      "md5": "d9a844b6021dd0a3623f7c0596ca77ff",
-      "status": "unchanged"
+      "md5": "8832a24535366e163c398f3a62bc9e52",
+      "status": "modified",
+      "gemini_file_name": "files/4cfi6miao5cm",
+      "gemini_uploaded_at": "2026-09-24T01:55:17.126123+00:00",
+      "upload_status": "uploaded"
     },
     "11784310183571": {
       "article_id": "11784310183571",
@@ -3555,9 +3572,7 @@
       "file_name": "how-to-use-the-local-folder-app-in-optisigns.md",
       "source_url": "https://support.optisigns.com/hc/en-us/articles/1500001985341-How-to-Use-the-Local-Folder-App-in-OptiSigns",
       "md5": "888e81015001ed1d9f76b24e43035d7f",
-      "status": "modified",
-      "previous_gemini_file_name": "files/vyacpe0b94bw",
-      "previous_gemini_uploaded_at": "2026-09-12T01:52:38.172464+00:00",
+      "status": "unchanged",
       "gemini_file_name": "files/wmvl9vzqq9lc",
       "gemini_uploaded_at": "2026-09-23T02:08:08.799549+00:00",
       "upload_status": "uploaded"
@@ -3839,7 +3854,7 @@
       "file_name": "how-to-use-facebook-live-stream-app.md",
       "source_url": "https://support.optisigns.com/hc/en-us/articles/360048660813-How-to-use-Facebook-Live-Stream-App",
       "md5": "6c47877e19f17af063b2132544b55717",
-      "status": "modified",
+      "status": "unchanged",
       "gemini_file_name": "files/fwcufwnyga0n",
       "gemini_uploaded_at": "2026-09-23T02:08:09.700794+00:00",
       "upload_status": "uploaded"
@@ -4159,16 +4174,16 @@
   },
   "deleted_articles": [],
   "stats": {
-    "new": 2,
+    "new": 1,
     "modified": 2,
-    "unchanged": 408,
+    "unchanged": 410,
     "deleted": 0
   },
   "last_upload_summary": {
-    "files_discovered": 4,
-    "files_uploaded": 4,
+    "files_discovered": 3,
+    "files_uploaded": 3,
     "files_failed": 0,
-    "estimated_chunks": 18,
-    "updated_at": "2026-09-23T02:08:09.701068+00:00"
+    "estimated_chunks": 14,
+    "updated_at": "2026-09-24T01:55:17.126403+00:00"
   }
 }
