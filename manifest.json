@@ -1,6 +1,6 @@
 {
   "source": "https://support.optisigns.com",
-  "generated_at": "2026-09-25T02:12:01.144324+00:00",
+  "generated_at": "2026-09-26T02:17:21.560168+00:00",
   "articles": {
     "55719322614803": {
       "article_id": "55719322614803",
@@ -9,7 +9,7 @@
       "file_name": "inbound-webhook-datasources-in-designer.md",
       "source_url": "https://support.optisigns.com/hc/en-us/articles/55719322614803-Inbound-Webhook-DataSources-in-Designer",
       "md5": "fea4c8c5bad69052cd3ac78b90d06667",
-      "status": "new",
+      "status": "unchanged",
       "gemini_file_name": "files/1xu7ft2s46zl",
       "gemini_uploaded_at": "2026-09-25T02:12:03.471725+00:00",
       "upload_status": "uploaded"
@@ -984,9 +984,7 @@
       "file_name": "how-to-use-the-viva-engage-app-formerly-yammer-on-optisigns.md",
       "source_url": "https://support.optisigns.com/hc/en-us/articles/19171222981523-How-to-Use-the-Viva-Engage-app-formerly-Yammer-on-OptiSigns",
       "md5": "1719dfab397a137b99f8680a20e91521",
-      "status": "modified",
-      "previous_gemini_file_name": "files/95j5gsz3qb86",
-      "previous_gemini_uploaded_at": "2026-08-22T00:31:24.102133+00:00",
+      "status": "unchanged",
       "gemini_file_name": "files/25hyd7ylguf1",
       "gemini_uploaded_at": "2026-09-25T02:12:04.576986+00:00",
       "upload_status": "uploaded"
@@ -3740,9 +3738,7 @@
       "file_name": "how-to-use-youtube-with-optisigns.md",
       "source_url": "https://support.optisigns.com/hc/en-us/articles/360051014713-How-to-Use-YouTube-with-OptiSigns",
       "md5": "20137bed0b4c2d4a268cfda240d3ed9b",
-      "status": "modified",
-      "previous_gemini_file_name": "files/jcej1g8o5vsz",
-      "previous_gemini_uploaded_at": "2026-09-05T01:42:52.067242+00:00",
+      "status": "unchanged",
       "gemini_file_name": "files/3qmxhri28ybc",
       "gemini_uploaded_at": "2026-09-25T02:12:05.626989+00:00",
       "upload_status": "uploaded"
@@ -4188,16 +4184,16 @@
   },
   "deleted_articles": [],
   "stats": {
-    "new": 1,
-    "modified": 2,
-    "unchanged": 411,
+    "new": 0,
+    "modified": 0,
+    "unchanged": 414,
     "deleted": 0
   },
   "last_upload_summary": {
-    "files_discovered": 3,
-    "files_uploaded": 3,
+    "files_discovered": 0,
+    "files_uploaded": 0,
     "files_failed": 0,
-    "estimated_chunks": 11,
-    "updated_at": "2026-09-25T02:12:05.627292+00:00"
+    "estimated_chunks": 0,
+    "updated_at": "2026-09-26T02:17:22.156508+00:00"
   }
 }
