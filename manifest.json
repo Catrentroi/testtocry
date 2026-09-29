@@ -1,6 +1,6 @@
 {
   "source": "https://support.optisigns.com",
-  "generated_at": "2026-09-28T02:16:27.690034+00:00",
+  "generated_at": "2026-09-29T03:01:17.658925+00:00",
   "articles": {
     "55719322614803": {
       "article_id": "55719322614803",
@@ -542,8 +542,11 @@
       "slug": "how-to-set-up-a-power-bi-service-principal-for-use-in-optisigns",
       "file_name": "how-to-set-up-a-power-bi-service-principal-for-use-in-optisigns.md",
       "source_url": "https://support.optisigns.com/hc/en-us/articles/32860569148819-How-to-Set-Up-a-Power-BI-Service-Principal-for-Use-in-OptiSigns",
-      "md5": "284a4295aa6b3f555914f04f47a625ed",
-      "status": "unchanged"
+      "md5": "ed20c25ead88df959fafc8cb91779dca",
+      "status": "modified",
+      "gemini_file_name": "files/6wxwx493w7cu",
+      "gemini_uploaded_at": "2026-09-29T03:01:19.441920+00:00",
+      "upload_status": "uploaded"
     },
     "32839794222099": {
       "article_id": "32839794222099",
@@ -1577,8 +1580,11 @@
       "slug": "advanced-enforce-sso-login-for-your-account",
       "file_name": "advanced-enforce-sso-login-for-your-account.md",
       "source_url": "https://support.optisigns.com/hc/en-us/articles/360061576673-Advanced-Enforce-SSO-login-for-your-account",
-      "md5": "8f29727a971e948f62e3dd026e096af8",
-      "status": "unchanged"
+      "md5": "3f05138a86fc211cfcdc799ce4c39232",
+      "status": "modified",
+      "gemini_file_name": "files/cl9iy5j2yviz",
+      "gemini_uploaded_at": "2026-09-29T03:01:20.186093+00:00",
+      "upload_status": "uploaded"
     },
     "1500000941981": {
       "article_id": "1500000941981",
@@ -4115,8 +4121,11 @@
       "slug": "how-to-display-microsoft-power-bi-dashboards-reports-with-optisigns",
       "file_name": "how-to-display-microsoft-power-bi-dashboards-reports-with-optisigns.md",
       "source_url": "https://support.optisigns.com/hc/en-us/articles/360024859713-How-to-Display-Microsoft-Power-BI-Dashboards-Reports-with-OptiSigns",
-      "md5": "76d60318c996defd651005cc5f4aa020",
-      "status": "unchanged"
+      "md5": "cdccd39ae9143d8fd9c49925d9dc8df5",
+      "status": "modified",
+      "gemini_file_name": "files/yw52wso6navv",
+      "gemini_uploaded_at": "2026-09-29T03:01:21.395137+00:00",
+      "upload_status": "uploaded"
     },
     "360023848334": {
       "article_id": "360023848334",
@@ -4185,15 +4194,15 @@
   "deleted_articles": [],
   "stats": {
     "new": 0,
-    "modified": 0,
-    "unchanged": 414,
+    "modified": 3,
+    "unchanged": 411,
     "deleted": 0
   },
   "last_upload_summary": {
-    "files_discovered": 0,
-    "files_uploaded": 0,
+    "files_discovered": 3,
+    "files_uploaded": 3,
     "files_failed": 0,
-    "estimated_chunks": 0,
-    "updated_at": "2026-09-28T02:16:28.401063+00:00"
+    "estimated_chunks": 14,
+    "updated_at": "2026-09-29T03:01:21.395439+00:00"
   }
 }
