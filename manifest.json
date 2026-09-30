@@ -1,7 +1,31 @@
 {
   "source": "https://support.optisigns.com",
-  "generated_at": "2026-09-29T03:01:17.658925+00:00",
+  "generated_at": "2026-09-30T02:43:08.769213+00:00",
   "articles": {
+    "55906396437523": {
+      "article_id": "55906396437523",
+      "title": "How to Use the Weather Radar App",
+      "slug": "how-to-use-the-weather-radar-app",
+      "file_name": "how-to-use-the-weather-radar-app.md",
+      "source_url": "https://support.optisigns.com/hc/en-us/articles/55906396437523-How-to-Use-the-Weather-Radar-App",
+      "md5": "bfe3e3eee7adbc664fce4a61ba5b6e5b",
+      "status": "new",
+      "gemini_file_name": "files/ld2bz1s0uplk",
+      "gemini_uploaded_at": "2026-09-30T02:43:11.565408+00:00",
+      "upload_status": "uploaded"
+    },
+    "55895814798739": {
+      "article_id": "55895814798739",
+      "title": "How to Display Salesforce Dashboards and Reports on OptiSigns",
+      "slug": "how-to-display-salesforce-dashboards-and-reports-on-optisigns",
+      "file_name": "how-to-display-salesforce-dashboards-and-reports-on-optisigns.md",
+      "source_url": "https://support.optisigns.com/hc/en-us/articles/55895814798739-How-to-Display-Salesforce-Dashboards-and-Reports-on-OptiSigns",
+      "md5": "85da60662b21a2fb51fbc7763097f4fa",
+      "status": "new",
+      "gemini_file_name": "files/7ozm9vnyxrdi",
+      "gemini_uploaded_at": "2026-09-30T02:43:12.574062+00:00",
+      "upload_status": "uploaded"
+    },
     "55719322614803": {
       "article_id": "55719322614803",
       "title": "Inbound Webhook DataSources in Designer",
@@ -543,7 +567,7 @@
       "file_name": "how-to-set-up-a-power-bi-service-principal-for-use-in-optisigns.md",
       "source_url": "https://support.optisigns.com/hc/en-us/articles/32860569148819-How-to-Set-Up-a-Power-BI-Service-Principal-for-Use-in-OptiSigns",
       "md5": "ed20c25ead88df959fafc8cb91779dca",
-      "status": "modified",
+      "status": "unchanged",
       "gemini_file_name": "files/6wxwx493w7cu",
       "gemini_uploaded_at": "2026-09-29T03:01:19.441920+00:00",
       "upload_status": "uploaded"
@@ -1581,7 +1605,7 @@
       "file_name": "advanced-enforce-sso-login-for-your-account.md",
       "source_url": "https://support.optisigns.com/hc/en-us/articles/360061576673-Advanced-Enforce-SSO-login-for-your-account",
       "md5": "3f05138a86fc211cfcdc799ce4c39232",
-      "status": "modified",
+      "status": "unchanged",
       "gemini_file_name": "files/cl9iy5j2yviz",
       "gemini_uploaded_at": "2026-09-29T03:01:20.186093+00:00",
       "upload_status": "uploaded"
@@ -2150,8 +2174,11 @@
       "slug": "does-optisigns-offer-non-profit-education-discount",
       "file_name": "does-optisigns-offer-non-profit-education-discount.md",
       "source_url": "https://support.optisigns.com/hc/en-us/articles/360016252654-Does-OptiSigns-offer-Non-profit-Education-discount",
-      "md5": "cf51da46609c3c1a9ff9bd6115ef3151",
-      "status": "unchanged"
+      "md5": "4f1a8459e8527b04eadd20d5225ec06d",
+      "status": "modified",
+      "gemini_file_name": "files/mzbcgbhrue3d",
+      "gemini_uploaded_at": "2026-09-30T02:43:13.813948+00:00",
+      "upload_status": "uploaded"
     },
     "360016247974": {
       "article_id": "360016247974",
@@ -2615,10 +2642,12 @@
       "slug": "how-to-use-weather-apps-in-optisigns",
       "file_name": "how-to-use-weather-apps-in-optisigns.md",
       "source_url": "https://support.optisigns.com/hc/en-us/articles/360017964153-How-to-Use-Weather-Apps-in-OptiSigns",
-      "md5": "b4d2c59128dc0bba1fd05cb289a50fee",
-      "status": "unchanged",
-      "gemini_file_name": "files/jwedy0e4bkxj",
-      "gemini_uploaded_at": "2026-09-10T01:48:15.418045+00:00",
+      "md5": "a591e1dc80fc507f613a5c5fa3edd874",
+      "status": "modified",
+      "previous_gemini_file_name": "files/jwedy0e4bkxj",
+      "previous_gemini_uploaded_at": "2026-09-10T01:48:15.418045+00:00",
+      "gemini_file_name": "files/pqa07awt8ie7",
+      "gemini_uploaded_at": "2026-09-30T02:43:15.199772+00:00",
       "upload_status": "uploaded"
     },
     "360016375153": {
@@ -2933,8 +2962,11 @@
       "slug": "kiosk-setup-hub",
       "file_name": "kiosk-setup-hub.md",
       "source_url": "https://support.optisigns.com/hc/en-us/articles/44650391786131-Kiosk-Setup-Hub",
-      "md5": "a11a38850216b6b8beef382cceb40976",
-      "status": "unchanged"
+      "md5": "a6f1a70710feee7639a75fc7e6f4c1bc",
+      "status": "modified",
+      "gemini_file_name": "files/n8jn6ly3hfm1",
+      "gemini_uploaded_at": "2026-09-30T02:43:16.071667+00:00",
+      "upload_status": "uploaded"
     },
     "42313875427859": {
       "article_id": "42313875427859",
@@ -4122,7 +4154,7 @@
       "file_name": "how-to-display-microsoft-power-bi-dashboards-reports-with-optisigns.md",
       "source_url": "https://support.optisigns.com/hc/en-us/articles/360024859713-How-to-Display-Microsoft-Power-BI-Dashboards-Reports-with-OptiSigns",
       "md5": "cdccd39ae9143d8fd9c49925d9dc8df5",
-      "status": "modified",
+      "status": "unchanged",
       "gemini_file_name": "files/yw52wso6navv",
       "gemini_uploaded_at": "2026-09-29T03:01:21.395137+00:00",
       "upload_status": "uploaded"
@@ -4193,16 +4225,16 @@
   },
   "deleted_articles": [],
   "stats": {
-    "new": 0,
+    "new": 2,
     "modified": 3,
     "unchanged": 411,
     "deleted": 0
   },
   "last_upload_summary": {
-    "files_discovered": 3,
-    "files_uploaded": 3,
+    "files_discovered": 5,
+    "files_uploaded": 5,
     "files_failed": 0,
-    "estimated_chunks": 14,
-    "updated_at": "2026-09-29T03:01:21.395439+00:00"
+    "estimated_chunks": 18,
+    "updated_at": "2026-09-30T02:43:16.071925+00:00"
   }
 }
