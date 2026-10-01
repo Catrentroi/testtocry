@@ -1,6 +1,6 @@
 {
   "source": "https://support.optisigns.com",
-  "generated_at": "2026-09-30T02:43:08.769213+00:00",
+  "generated_at": "2026-10-01T02:47:57.234411+00:00",
   "articles": {
     "55906396437523": {
       "article_id": "55906396437523",
@@ -9,7 +9,7 @@
       "file_name": "how-to-use-the-weather-radar-app.md",
       "source_url": "https://support.optisigns.com/hc/en-us/articles/55906396437523-How-to-Use-the-Weather-Radar-App",
       "md5": "bfe3e3eee7adbc664fce4a61ba5b6e5b",
-      "status": "new",
+      "status": "unchanged",
       "gemini_file_name": "files/ld2bz1s0uplk",
       "gemini_uploaded_at": "2026-09-30T02:43:11.565408+00:00",
       "upload_status": "uploaded"
@@ -21,7 +21,7 @@
       "file_name": "how-to-display-salesforce-dashboards-and-reports-on-optisigns.md",
       "source_url": "https://support.optisigns.com/hc/en-us/articles/55895814798739-How-to-Display-Salesforce-Dashboards-and-Reports-on-OptiSigns",
       "md5": "85da60662b21a2fb51fbc7763097f4fa",
-      "status": "new",
+      "status": "unchanged",
       "gemini_file_name": "files/7ozm9vnyxrdi",
       "gemini_uploaded_at": "2026-09-30T02:43:12.574062+00:00",
       "upload_status": "uploaded"
@@ -497,8 +497,11 @@
       "slug": "how-to-use-optisigns-with-microsoft-teams-rooms",
       "file_name": "how-to-use-optisigns-with-microsoft-teams-rooms.md",
       "source_url": "https://support.optisigns.com/hc/en-us/articles/36911639377683-How-to-Use-OptiSigns-with-Microsoft-Teams-Rooms",
-      "md5": "de1467bbc93509dc3dcec6ae8c71174d",
-      "status": "unchanged"
+      "md5": "621d225e79b55112cd4fa09065bbbeb3",
+      "status": "modified",
+      "gemini_file_name": "files/ra73tg5ttjpu",
+      "gemini_uploaded_at": "2026-10-01T02:47:59.123102+00:00",
+      "upload_status": "uploaded"
     },
     "36501302096915": {
       "article_id": "36501302096915",
@@ -2175,7 +2178,7 @@
       "file_name": "does-optisigns-offer-non-profit-education-discount.md",
       "source_url": "https://support.optisigns.com/hc/en-us/articles/360016252654-Does-OptiSigns-offer-Non-profit-Education-discount",
       "md5": "4f1a8459e8527b04eadd20d5225ec06d",
-      "status": "modified",
+      "status": "unchanged",
       "gemini_file_name": "files/mzbcgbhrue3d",
       "gemini_uploaded_at": "2026-09-30T02:43:13.813948+00:00",
       "upload_status": "uploaded"
@@ -2643,9 +2646,7 @@
       "file_name": "how-to-use-weather-apps-in-optisigns.md",
       "source_url": "https://support.optisigns.com/hc/en-us/articles/360017964153-How-to-Use-Weather-Apps-in-OptiSigns",
       "md5": "a591e1dc80fc507f613a5c5fa3edd874",
-      "status": "modified",
-      "previous_gemini_file_name": "files/jwedy0e4bkxj",
-      "previous_gemini_uploaded_at": "2026-09-10T01:48:15.418045+00:00",
+      "status": "unchanged",
       "gemini_file_name": "files/pqa07awt8ie7",
       "gemini_uploaded_at": "2026-09-30T02:43:15.199772+00:00",
       "upload_status": "uploaded"
@@ -2963,7 +2964,7 @@
       "file_name": "kiosk-setup-hub.md",
       "source_url": "https://support.optisigns.com/hc/en-us/articles/44650391786131-Kiosk-Setup-Hub",
       "md5": "a6f1a70710feee7639a75fc7e6f4c1bc",
-      "status": "modified",
+      "status": "unchanged",
       "gemini_file_name": "files/n8jn6ly3hfm1",
       "gemini_uploaded_at": "2026-09-30T02:43:16.071667+00:00",
       "upload_status": "uploaded"
@@ -3390,12 +3391,15 @@
     },
     "4529298306963": {
       "article_id": "4529298306963",
-      "title": "How to use Microsoft Excel Online with OptiSigns",
+      "title": "How to Use Microsoft Excel Online with OptiSigns",
       "slug": "how-to-use-microsoft-excel-online-with-optisigns",
       "file_name": "how-to-use-microsoft-excel-online-with-optisigns.md",
-      "source_url": "https://support.optisigns.com/hc/en-us/articles/4529298306963-How-to-use-Microsoft-Excel-Online-with-OptiSigns",
-      "md5": "e6d9705c8a6c5f9747964febfd635089",
-      "status": "unchanged"
+      "source_url": "https://support.optisigns.com/hc/en-us/articles/4529298306963-How-to-Use-Microsoft-Excel-Online-with-OptiSigns",
+      "md5": "69ac2c5ad5eac2e4b468c66336577907",
+      "status": "modified",
+      "gemini_file_name": "files/tl6ek7ghygap",
+      "gemini_uploaded_at": "2026-10-01T02:48:00.507998+00:00",
+      "upload_status": "uploaded"
     },
     "4417940565139": {
       "article_id": "4417940565139",
@@ -3424,17 +3428,23 @@
       "slug": "how-to-use-microsoft-powerpoint-with-optisigns",
       "file_name": "how-to-use-microsoft-powerpoint-with-optisigns.md",
       "source_url": "https://support.optisigns.com/hc/en-us/articles/4414355658899-How-to-Use-Microsoft-PowerPoint-with-OptiSigns",
-      "md5": "c15ea99c687492716c27d83a96092880",
-      "status": "unchanged"
+      "md5": "d47ed8b48de78f77deb208f353b83a35",
+      "status": "modified",
+      "gemini_file_name": "files/rxerdd61gvcd",
+      "gemini_uploaded_at": "2026-10-01T02:48:01.479546+00:00",
+      "upload_status": "uploaded"
     },
     "4411530012307": {
       "article_id": "4411530012307",
-      "title": "How to use Microsoft Teams Live app with OptiSigns",
+      "title": "How to Use Microsoft Teams Live app with OptiSigns",
       "slug": "how-to-use-microsoft-teams-live-app-with-optisigns",
       "file_name": "how-to-use-microsoft-teams-live-app-with-optisigns.md",
-      "source_url": "https://support.optisigns.com/hc/en-us/articles/4411530012307-How-to-use-Microsoft-Teams-Live-app-with-OptiSigns",
-      "md5": "ce0ce64e3113a7e10741ee14909f8347",
-      "status": "unchanged"
+      "source_url": "https://support.optisigns.com/hc/en-us/articles/4411530012307-How-to-Use-Microsoft-Teams-Live-app-with-OptiSigns",
+      "md5": "e9b8eeb6c81a25668c2bcf88ae572859",
+      "status": "modified",
+      "gemini_file_name": "files/6lmvhfb8d0xb",
+      "gemini_uploaded_at": "2026-10-01T02:48:02.247759+00:00",
+      "upload_status": "uploaded"
     },
     "4410655948563": {
       "article_id": "4410655948563",
@@ -3813,12 +3823,15 @@
     },
     "360050665253": {
       "article_id": "360050665253",
-      "title": "How to use the OneDrive App",
+      "title": "How to Use the OneDrive App",
       "slug": "how-to-use-the-onedrive-app",
       "file_name": "how-to-use-the-onedrive-app.md",
-      "source_url": "https://support.optisigns.com/hc/en-us/articles/360050665253-How-to-use-the-OneDrive-App",
-      "md5": "b96fb17a8f800b1f8ac5a16fa0e9d22c",
-      "status": "unchanged"
+      "source_url": "https://support.optisigns.com/hc/en-us/articles/360050665253-How-to-Use-the-OneDrive-App",
+      "md5": "a735ce26f44e0a6c8663d7be749e06c2",
+      "status": "modified",
+      "gemini_file_name": "files/h6uesjm1vj93",
+      "gemini_uploaded_at": "2026-10-01T02:48:03.482747+00:00",
+      "upload_status": "uploaded"
     },
     "360050664913": {
       "article_id": "360050664913",
@@ -4225,8 +4238,8 @@
   },
   "deleted_articles": [],
   "stats": {
-    "new": 2,
-    "modified": 3,
+    "new": 0,
+    "modified": 5,
     "unchanged": 411,
     "deleted": 0
   },
@@ -4234,7 +4247,7 @@
     "files_discovered": 5,
     "files_uploaded": 5,
     "files_failed": 0,
-    "estimated_chunks": 18,
-    "updated_at": "2026-09-30T02:43:16.071925+00:00"
+    "estimated_chunks": 15,
+    "updated_at": "2026-10-01T02:48:03.483041+00:00"
   }
 }
