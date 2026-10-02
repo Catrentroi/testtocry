@@ -1,6 +1,6 @@
 {
   "source": "https://support.optisigns.com",
-  "generated_at": "2026-10-01T02:47:57.234411+00:00",
+  "generated_at": "2026-10-02T02:51:12.477104+00:00",
   "articles": {
     "55906396437523": {
       "article_id": "55906396437523",
@@ -498,7 +498,7 @@
       "file_name": "how-to-use-optisigns-with-microsoft-teams-rooms.md",
       "source_url": "https://support.optisigns.com/hc/en-us/articles/36911639377683-How-to-Use-OptiSigns-with-Microsoft-Teams-Rooms",
       "md5": "621d225e79b55112cd4fa09065bbbeb3",
-      "status": "modified",
+      "status": "unchanged",
       "gemini_file_name": "files/ra73tg5ttjpu",
       "gemini_uploaded_at": "2026-10-01T02:47:59.123102+00:00",
       "upload_status": "uploaded"
@@ -802,12 +802,15 @@
     },
     "27356288211859": {
       "article_id": "27356288211859",
-      "title": "How to use iCloud Calendar with OptiSigns",
+      "title": "How to Use iCloud Calendar with OptiSigns",
       "slug": "how-to-use-icloud-calendar-with-optisigns",
       "file_name": "how-to-use-icloud-calendar-with-optisigns.md",
-      "source_url": "https://support.optisigns.com/hc/en-us/articles/27356288211859-How-to-use-iCloud-Calendar-with-OptiSigns",
-      "md5": "4443e03da939cb17e7e27a8737ff39a4",
-      "status": "unchanged"
+      "source_url": "https://support.optisigns.com/hc/en-us/articles/27356288211859-How-to-Use-iCloud-Calendar-with-OptiSigns",
+      "md5": "4e3708a8479af4507ff63a5bcad72b14",
+      "status": "modified",
+      "gemini_file_name": "files/7lwojkmnynl9",
+      "gemini_uploaded_at": "2026-10-02T02:51:13.770996+00:00",
+      "upload_status": "uploaded"
     },
     "27267311796243": {
       "article_id": "27267311796243",
@@ -1340,8 +1343,11 @@
       "slug": "how-to-integrate-bonusly-digital-signage-with-optisigns",
       "file_name": "how-to-integrate-bonusly-digital-signage-with-optisigns.md",
       "source_url": "https://support.optisigns.com/hc/en-us/articles/4408946045715-How-to-Integrate-Bonusly-Digital-Signage-with-Optisigns",
-      "md5": "b52eada771b6b69d0d5ebb512025f40a",
-      "status": "unchanged"
+      "md5": "1568de8e922831cc7e41ce0c8b50e260",
+      "status": "modified",
+      "gemini_file_name": "files/avxlfjzo1ncy",
+      "gemini_uploaded_at": "2026-10-02T02:51:14.837193+00:00",
+      "upload_status": "uploaded"
     },
     "4408658251027": {
       "article_id": "4408658251027",
@@ -3396,19 +3402,22 @@
       "file_name": "how-to-use-microsoft-excel-online-with-optisigns.md",
       "source_url": "https://support.optisigns.com/hc/en-us/articles/4529298306963-How-to-Use-Microsoft-Excel-Online-with-OptiSigns",
       "md5": "69ac2c5ad5eac2e4b468c66336577907",
-      "status": "modified",
+      "status": "unchanged",
       "gemini_file_name": "files/tl6ek7ghygap",
       "gemini_uploaded_at": "2026-10-01T02:48:00.507998+00:00",
       "upload_status": "uploaded"
     },
     "4417940565139": {
       "article_id": "4417940565139",
-      "title": "How to display Microsoft Teams on OptiSigns",
-      "slug": "how-to-display-microsoft-teams-on-optisigns",
-      "file_name": "how-to-display-microsoft-teams-on-optisigns.md",
-      "source_url": "https://support.optisigns.com/hc/en-us/articles/4417940565139-How-to-display-Microsoft-Teams-on-OptiSigns",
-      "md5": "1d8f022c6b32742a2c8a712c20005d19",
-      "status": "unchanged"
+      "title": "How to Display Microsoft Teams Chat on OptiSigns",
+      "slug": "how-to-display-microsoft-teams-chat-on-optisigns",
+      "file_name": "how-to-display-microsoft-teams-chat-on-optisigns.md",
+      "source_url": "https://support.optisigns.com/hc/en-us/articles/4417940565139-How-to-Display-Microsoft-Teams-Chat-on-OptiSigns",
+      "md5": "bfaec6dcc99b3221674bdc65f31bc70d",
+      "status": "modified",
+      "gemini_file_name": "files/0i9o18eujbco",
+      "gemini_uploaded_at": "2026-10-02T02:51:15.929200+00:00",
+      "upload_status": "uploaded"
     },
     "4414539282067": {
       "article_id": "4414539282067",
@@ -3416,10 +3425,12 @@
       "slug": "displaying-sharepoint-sites-on-optisigns",
       "file_name": "displaying-sharepoint-sites-on-optisigns.md",
       "source_url": "https://support.optisigns.com/hc/en-us/articles/4414539282067-Displaying-SharePoint-Sites-on-OptiSigns",
-      "md5": "2b5c922cda3bcfcfd3f67cee5f39ec9f",
-      "status": "unchanged",
-      "gemini_file_name": "files/o90qk4hknaz1",
-      "gemini_uploaded_at": "2026-07-30T01:15:18.374246+00:00",
+      "md5": "156058d53ca482b5d075f025bdf9f22d",
+      "status": "modified",
+      "previous_gemini_file_name": "files/o90qk4hknaz1",
+      "previous_gemini_uploaded_at": "2026-07-30T01:15:18.374246+00:00",
+      "gemini_file_name": "files/soduozv0gtd3",
+      "gemini_uploaded_at": "2026-10-02T02:51:16.952421+00:00",
       "upload_status": "uploaded"
     },
     "4414355658899": {
@@ -3429,7 +3440,7 @@
       "file_name": "how-to-use-microsoft-powerpoint-with-optisigns.md",
       "source_url": "https://support.optisigns.com/hc/en-us/articles/4414355658899-How-to-Use-Microsoft-PowerPoint-with-OptiSigns",
       "md5": "d47ed8b48de78f77deb208f353b83a35",
-      "status": "modified",
+      "status": "unchanged",
       "gemini_file_name": "files/rxerdd61gvcd",
       "gemini_uploaded_at": "2026-10-01T02:48:01.479546+00:00",
       "upload_status": "uploaded"
@@ -3441,7 +3452,7 @@
       "file_name": "how-to-use-microsoft-teams-live-app-with-optisigns.md",
       "source_url": "https://support.optisigns.com/hc/en-us/articles/4411530012307-How-to-Use-Microsoft-Teams-Live-app-with-OptiSigns",
       "md5": "e9b8eeb6c81a25668c2bcf88ae572859",
-      "status": "modified",
+      "status": "unchanged",
       "gemini_file_name": "files/6lmvhfb8d0xb",
       "gemini_uploaded_at": "2026-10-01T02:48:02.247759+00:00",
       "upload_status": "uploaded"
@@ -3499,12 +3510,15 @@
     },
     "4407335862931": {
       "article_id": "4407335862931",
-      "title": "How to use Slack App",
-      "slug": "how-to-use-slack-app",
-      "file_name": "how-to-use-slack-app.md",
-      "source_url": "https://support.optisigns.com/hc/en-us/articles/4407335862931-How-to-use-Slack-App",
-      "md5": "995a8d357c3ccca9334e3ff21be0cb69",
-      "status": "unchanged"
+      "title": "How to Use the Slack App",
+      "slug": "how-to-use-the-slack-app",
+      "file_name": "how-to-use-the-slack-app.md",
+      "source_url": "https://support.optisigns.com/hc/en-us/articles/4407335862931-How-to-Use-the-Slack-App",
+      "md5": "1fd761429ad273009ccdebfa39f84b3c",
+      "status": "modified",
+      "gemini_file_name": "files/xyve7uugzbwm",
+      "gemini_uploaded_at": "2026-10-02T02:51:17.915588+00:00",
+      "upload_status": "uploaded"
     },
     "4406214738707": {
       "article_id": "4406214738707",
@@ -3526,12 +3540,15 @@
     },
     "4404053129619": {
       "article_id": "4404053129619",
-      "title": "How to use Microsoft Teams Meeting app with OptiSigns",
-      "slug": "how-to-use-microsoft-teams-meeting-app-with-optisigns",
-      "file_name": "how-to-use-microsoft-teams-meeting-app-with-optisigns.md",
-      "source_url": "https://support.optisigns.com/hc/en-us/articles/4404053129619-How-to-use-Microsoft-Teams-Meeting-app-with-OptiSigns",
-      "md5": "855db6212e94500998fcdb661eadb235",
-      "status": "unchanged"
+      "title": "How to Use the Microsoft Teams Meeting App",
+      "slug": "how-to-use-the-microsoft-teams-meeting-app",
+      "file_name": "how-to-use-the-microsoft-teams-meeting-app.md",
+      "source_url": "https://support.optisigns.com/hc/en-us/articles/4404053129619-How-to-Use-the-Microsoft-Teams-Meeting-App",
+      "md5": "24d7f501ed1523a74a04bbd07d13d409",
+      "status": "modified",
+      "gemini_file_name": "files/n1v5z4fyo3cr",
+      "gemini_uploaded_at": "2026-10-02T02:51:18.876906+00:00",
+      "upload_status": "uploaded"
     },
     "4403267825171": {
       "article_id": "4403267825171",
@@ -3814,12 +3831,15 @@
     },
     "360050665413": {
       "article_id": "360050665413",
-      "title": "How to use Dropbox App",
-      "slug": "how-to-use-dropbox-app",
-      "file_name": "how-to-use-dropbox-app.md",
-      "source_url": "https://support.optisigns.com/hc/en-us/articles/360050665413-How-to-use-Dropbox-App",
-      "md5": "b8c66930c0c2cc56a118150bd7d7656f",
-      "status": "unchanged"
+      "title": "How to Use the Dropbox App",
+      "slug": "how-to-use-the-dropbox-app",
+      "file_name": "how-to-use-the-dropbox-app.md",
+      "source_url": "https://support.optisigns.com/hc/en-us/articles/360050665413-How-to-Use-the-Dropbox-App",
+      "md5": "1bf190792e6fac69237073f9d85c875b",
+      "status": "modified",
+      "gemini_file_name": "files/f3ksrqksli3w",
+      "gemini_uploaded_at": "2026-10-02T02:51:19.811410+00:00",
+      "upload_status": "uploaded"
     },
     "360050665253": {
       "article_id": "360050665253",
@@ -3828,7 +3848,7 @@
       "file_name": "how-to-use-the-onedrive-app.md",
       "source_url": "https://support.optisigns.com/hc/en-us/articles/360050665253-How-to-Use-the-OneDrive-App",
       "md5": "a735ce26f44e0a6c8663d7be749e06c2",
-      "status": "modified",
+      "status": "unchanged",
       "gemini_file_name": "files/h6uesjm1vj93",
       "gemini_uploaded_at": "2026-10-01T02:48:03.482747+00:00",
       "upload_status": "uploaded"
@@ -4136,8 +4156,11 @@
       "slug": "how-to-use-microsoft-outlook-calendar-with-optisigns",
       "file_name": "how-to-use-microsoft-outlook-calendar-with-optisigns.md",
       "source_url": "https://support.optisigns.com/hc/en-us/articles/360036250853-How-to-Use-Microsoft-Outlook-Calendar-with-OptiSigns",
-      "md5": "3ba0bb1082091b8aa5bd942bb8e203d7",
-      "status": "unchanged"
+      "md5": "f67b4d8c1670bd87b6203c3bedadeb5f",
+      "status": "modified",
+      "gemini_file_name": "files/8m73baavc391",
+      "gemini_uploaded_at": "2026-10-02T02:51:20.841472+00:00",
+      "upload_status": "uploaded"
     },
     "360037965133": {
       "article_id": "360037965133",
@@ -4239,15 +4262,15 @@
   "deleted_articles": [],
   "stats": {
     "new": 0,
-    "modified": 5,
-    "unchanged": 411,
+    "modified": 8,
+    "unchanged": 408,
     "deleted": 0
   },
   "last_upload_summary": {
-    "files_discovered": 5,
-    "files_uploaded": 5,
+    "files_discovered": 8,
+    "files_uploaded": 8,
     "files_failed": 0,
-    "estimated_chunks": 15,
-    "updated_at": "2026-10-01T02:48:03.483041+00:00"
+    "estimated_chunks": 20,
+    "updated_at": "2026-10-02T02:51:20.841657+00:00"
   }
 }
