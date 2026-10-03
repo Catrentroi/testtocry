@@ -1,6 +1,6 @@
 {
   "source": "https://support.optisigns.com",
-  "generated_at": "2026-10-02T02:51:12.477104+00:00",
+  "generated_at": "2026-10-03T02:37:55.717935+00:00",
   "articles": {
     "55906396437523": {
       "article_id": "55906396437523",
@@ -575,15 +575,6 @@
       "gemini_uploaded_at": "2026-09-29T03:01:19.441920+00:00",
       "upload_status": "uploaded"
     },
-    "32839794222099": {
-      "article_id": "32839794222099",
-      "title": "Display Salesforce Dashboards with MFA using Web Scripting",
-      "slug": "display-salesforce-dashboards-with-mfa-using-web-scripting",
-      "file_name": "display-salesforce-dashboards-with-mfa-using-web-scripting.md",
-      "source_url": "https://support.optisigns.com/hc/en-us/articles/32839794222099-Display-Salesforce-Dashboards-with-MFA-using-Web-Scripting",
-      "md5": "4663a7056b717ca535905ab0910da0a0",
-      "status": "unchanged"
-    },
     "31960461758611": {
       "article_id": "31960461758611",
       "title": "How to Order a Preconfigured OptiSigns Android Stick",
@@ -807,7 +798,7 @@
       "file_name": "how-to-use-icloud-calendar-with-optisigns.md",
       "source_url": "https://support.optisigns.com/hc/en-us/articles/27356288211859-How-to-Use-iCloud-Calendar-with-OptiSigns",
       "md5": "4e3708a8479af4507ff63a5bcad72b14",
-      "status": "modified",
+      "status": "unchanged",
       "gemini_file_name": "files/7lwojkmnynl9",
       "gemini_uploaded_at": "2026-10-02T02:51:13.770996+00:00",
       "upload_status": "uploaded"
@@ -1344,7 +1335,7 @@
       "file_name": "how-to-integrate-bonusly-digital-signage-with-optisigns.md",
       "source_url": "https://support.optisigns.com/hc/en-us/articles/4408946045715-How-to-Integrate-Bonusly-Digital-Signage-with-Optisigns",
       "md5": "1568de8e922831cc7e41ce0c8b50e260",
-      "status": "modified",
+      "status": "unchanged",
       "gemini_file_name": "files/avxlfjzo1ncy",
       "gemini_uploaded_at": "2026-10-02T02:51:14.837193+00:00",
       "upload_status": "uploaded"
@@ -3178,12 +3169,15 @@
     },
     "11032964830227": {
       "article_id": "11032964830227",
-      "title": "How to use Monday.com App",
-      "slug": "how-to-use-monday-com-app",
-      "file_name": "how-to-use-monday-com-app.md",
-      "source_url": "https://support.optisigns.com/hc/en-us/articles/11032964830227-How-to-use-Monday-com-App",
-      "md5": "bd1e38eaf8ab8c54c0b882523a50830b",
-      "status": "unchanged"
+      "title": "How to Use the Monday.com App",
+      "slug": "how-to-use-the-monday-com-app",
+      "file_name": "how-to-use-the-monday-com-app.md",
+      "source_url": "https://support.optisigns.com/hc/en-us/articles/11032964830227-How-to-Use-the-Monday-com-App",
+      "md5": "bfcb92015456eaab0b868af26cc590f6",
+      "status": "modified",
+      "gemini_file_name": "files/8bzi2fpmkdi0",
+      "gemini_uploaded_at": "2026-10-03T02:37:59.463516+00:00",
+      "upload_status": "uploaded"
     },
     "4414558392339": {
       "article_id": "4414558392339",
@@ -3263,8 +3257,11 @@
       "slug": "how-to-use-airtable-with-optisigns",
       "file_name": "how-to-use-airtable-with-optisigns.md",
       "source_url": "https://support.optisigns.com/hc/en-us/articles/9392587446675-How-to-use-Airtable-with-OptiSigns",
-      "md5": "f687092ae7d5a62d7ef86ee1770d5ad7",
-      "status": "unchanged"
+      "md5": "341abc13e7874be7a27de661d0000bbf",
+      "status": "modified",
+      "gemini_file_name": "files/f4e22w4as33u",
+      "gemini_uploaded_at": "2026-10-03T02:38:00.665878+00:00",
+      "upload_status": "uploaded"
     },
     "4404879296403": {
       "article_id": "4404879296403",
@@ -3414,7 +3411,7 @@
       "file_name": "how-to-display-microsoft-teams-chat-on-optisigns.md",
       "source_url": "https://support.optisigns.com/hc/en-us/articles/4417940565139-How-to-Display-Microsoft-Teams-Chat-on-OptiSigns",
       "md5": "bfaec6dcc99b3221674bdc65f31bc70d",
-      "status": "modified",
+      "status": "unchanged",
       "gemini_file_name": "files/0i9o18eujbco",
       "gemini_uploaded_at": "2026-10-02T02:51:15.929200+00:00",
       "upload_status": "uploaded"
@@ -3426,9 +3423,7 @@
       "file_name": "displaying-sharepoint-sites-on-optisigns.md",
       "source_url": "https://support.optisigns.com/hc/en-us/articles/4414539282067-Displaying-SharePoint-Sites-on-OptiSigns",
       "md5": "156058d53ca482b5d075f025bdf9f22d",
-      "status": "modified",
-      "previous_gemini_file_name": "files/o90qk4hknaz1",
-      "previous_gemini_uploaded_at": "2026-07-30T01:15:18.374246+00:00",
+      "status": "unchanged",
       "gemini_file_name": "files/soduozv0gtd3",
       "gemini_uploaded_at": "2026-10-02T02:51:16.952421+00:00",
       "upload_status": "uploaded"
@@ -3515,7 +3510,7 @@
       "file_name": "how-to-use-the-slack-app.md",
       "source_url": "https://support.optisigns.com/hc/en-us/articles/4407335862931-How-to-Use-the-Slack-App",
       "md5": "1fd761429ad273009ccdebfa39f84b3c",
-      "status": "modified",
+      "status": "unchanged",
       "gemini_file_name": "files/xyve7uugzbwm",
       "gemini_uploaded_at": "2026-10-02T02:51:17.915588+00:00",
       "upload_status": "uploaded"
@@ -3545,7 +3540,7 @@
       "file_name": "how-to-use-the-microsoft-teams-meeting-app.md",
       "source_url": "https://support.optisigns.com/hc/en-us/articles/4404053129619-How-to-Use-the-Microsoft-Teams-Meeting-App",
       "md5": "24d7f501ed1523a74a04bbd07d13d409",
-      "status": "modified",
+      "status": "unchanged",
       "gemini_file_name": "files/n1v5z4fyo3cr",
       "gemini_uploaded_at": "2026-10-02T02:51:18.876906+00:00",
       "upload_status": "uploaded"
@@ -3594,12 +3589,15 @@
     },
     "1500005889381": {
       "article_id": "1500005889381",
-      "title": "How to use the MindMeister App",
+      "title": "How to Use the MindMeister App",
       "slug": "how-to-use-the-mindmeister-app",
       "file_name": "how-to-use-the-mindmeister-app.md",
-      "source_url": "https://support.optisigns.com/hc/en-us/articles/1500005889381-How-to-use-the-MindMeister-App",
-      "md5": "03277bed6c535cf79315b549ec139a50",
-      "status": "unchanged"
+      "source_url": "https://support.optisigns.com/hc/en-us/articles/1500005889381-How-to-Use-the-MindMeister-App",
+      "md5": "a460d2bd82ada4351b7470b1289fbdd5",
+      "status": "modified",
+      "gemini_file_name": "files/3y5b95gg4o8s",
+      "gemini_uploaded_at": "2026-10-03T02:38:01.792083+00:00",
+      "upload_status": "uploaded"
     },
     "1500005888781": {
       "article_id": "1500005888781",
@@ -3607,8 +3605,11 @@
       "slug": "how-to-best-use-canva-with-optisigns",
       "file_name": "how-to-best-use-canva-with-optisigns.md",
       "source_url": "https://support.optisigns.com/hc/en-us/articles/1500005888781-How-to-Best-Use-Canva-with-OptiSigns",
-      "md5": "087e765dec5e1f62543d9ccf05442971",
-      "status": "unchanged"
+      "md5": "6c28659e5155f9312c4ef2e8ce3d900b",
+      "status": "modified",
+      "gemini_file_name": "files/jvnnh28dyo6s",
+      "gemini_uploaded_at": "2026-10-03T02:38:03.393438+00:00",
+      "upload_status": "uploaded"
     },
     "1500002233221": {
       "article_id": "1500002233221",
@@ -3836,7 +3837,7 @@
       "file_name": "how-to-use-the-dropbox-app.md",
       "source_url": "https://support.optisigns.com/hc/en-us/articles/360050665413-How-to-Use-the-Dropbox-App",
       "md5": "1bf190792e6fac69237073f9d85c875b",
-      "status": "modified",
+      "status": "unchanged",
       "gemini_file_name": "files/f3ksrqksli3w",
       "gemini_uploaded_at": "2026-10-02T02:51:19.811410+00:00",
       "upload_status": "uploaded"
@@ -4157,7 +4158,7 @@
       "file_name": "how-to-use-microsoft-outlook-calendar-with-optisigns.md",
       "source_url": "https://support.optisigns.com/hc/en-us/articles/360036250853-How-to-Use-Microsoft-Outlook-Calendar-with-OptiSigns",
       "md5": "f67b4d8c1670bd87b6203c3bedadeb5f",
-      "status": "modified",
+      "status": "unchanged",
       "gemini_file_name": "files/8m73baavc391",
       "gemini_uploaded_at": "2026-10-02T02:51:20.841472+00:00",
       "upload_status": "uploaded"
@@ -4259,18 +4260,28 @@
       "upload_status": "uploaded"
     }
   },
-  "deleted_articles": [],
+  "deleted_articles": [
+    {
+      "article_id": "32839794222099",
+      "title": "Display Salesforce Dashboards with MFA using Web Scripting",
+      "slug": "display-salesforce-dashboards-with-mfa-using-web-scripting",
+      "file_name": "display-salesforce-dashboards-with-mfa-using-web-scripting.md",
+      "source_url": "https://support.optisigns.com/hc/en-us/articles/32839794222099-Display-Salesforce-Dashboards-with-MFA-using-Web-Scripting",
+      "md5": "4663a7056b717ca535905ab0910da0a0",
+      "status": "unchanged"
+    }
+  ],
   "stats": {
     "new": 0,
-    "modified": 8,
-    "unchanged": 408,
-    "deleted": 0
+    "modified": 4,
+    "unchanged": 411,
+    "deleted": 1
   },
   "last_upload_summary": {
-    "files_discovered": 8,
-    "files_uploaded": 8,
+    "files_discovered": 4,
+    "files_uploaded": 4,
     "files_failed": 0,
-    "estimated_chunks": 20,
-    "updated_at": "2026-10-02T02:51:20.841657+00:00"
+    "estimated_chunks": 7,
+    "updated_at": "2026-10-03T02:38:03.393790+00:00"
   }
 }
