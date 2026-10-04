@@ -1,6 +1,6 @@
 {
   "source": "https://support.optisigns.com",
-  "generated_at": "2026-10-03T02:37:55.717935+00:00",
+  "generated_at": "2026-10-04T03:09:09.288566+00:00",
   "articles": {
     "55906396437523": {
       "article_id": "55906396437523",
@@ -3174,7 +3174,7 @@
       "file_name": "how-to-use-the-monday-com-app.md",
       "source_url": "https://support.optisigns.com/hc/en-us/articles/11032964830227-How-to-Use-the-Monday-com-App",
       "md5": "bfcb92015456eaab0b868af26cc590f6",
-      "status": "modified",
+      "status": "unchanged",
       "gemini_file_name": "files/8bzi2fpmkdi0",
       "gemini_uploaded_at": "2026-10-03T02:37:59.463516+00:00",
       "upload_status": "uploaded"
@@ -3258,7 +3258,7 @@
       "file_name": "how-to-use-airtable-with-optisigns.md",
       "source_url": "https://support.optisigns.com/hc/en-us/articles/9392587446675-How-to-use-Airtable-with-OptiSigns",
       "md5": "341abc13e7874be7a27de661d0000bbf",
-      "status": "modified",
+      "status": "unchanged",
       "gemini_file_name": "files/f4e22w4as33u",
       "gemini_uploaded_at": "2026-10-03T02:38:00.665878+00:00",
       "upload_status": "uploaded"
@@ -3594,7 +3594,7 @@
       "file_name": "how-to-use-the-mindmeister-app.md",
       "source_url": "https://support.optisigns.com/hc/en-us/articles/1500005889381-How-to-Use-the-MindMeister-App",
       "md5": "a460d2bd82ada4351b7470b1289fbdd5",
-      "status": "modified",
+      "status": "unchanged",
       "gemini_file_name": "files/3y5b95gg4o8s",
       "gemini_uploaded_at": "2026-10-03T02:38:01.792083+00:00",
       "upload_status": "uploaded"
@@ -3606,7 +3606,7 @@
       "file_name": "how-to-best-use-canva-with-optisigns.md",
       "source_url": "https://support.optisigns.com/hc/en-us/articles/1500005888781-How-to-Best-Use-Canva-with-OptiSigns",
       "md5": "6c28659e5155f9312c4ef2e8ce3d900b",
-      "status": "modified",
+      "status": "unchanged",
       "gemini_file_name": "files/jvnnh28dyo6s",
       "gemini_uploaded_at": "2026-10-03T02:38:03.393438+00:00",
       "upload_status": "uploaded"
@@ -4260,28 +4260,18 @@
       "upload_status": "uploaded"
     }
   },
-  "deleted_articles": [
-    {
-      "article_id": "32839794222099",
-      "title": "Display Salesforce Dashboards with MFA using Web Scripting",
-      "slug": "display-salesforce-dashboards-with-mfa-using-web-scripting",
-      "file_name": "display-salesforce-dashboards-with-mfa-using-web-scripting.md",
-      "source_url": "https://support.optisigns.com/hc/en-us/articles/32839794222099-Display-Salesforce-Dashboards-with-MFA-using-Web-Scripting",
-      "md5": "4663a7056b717ca535905ab0910da0a0",
-      "status": "unchanged"
-    }
-  ],
+  "deleted_articles": [],
   "stats": {
     "new": 0,
-    "modified": 4,
-    "unchanged": 411,
-    "deleted": 1
+    "modified": 0,
+    "unchanged": 415,
+    "deleted": 0
   },
   "last_upload_summary": {
-    "files_discovered": 4,
-    "files_uploaded": 4,
+    "files_discovered": 0,
+    "files_uploaded": 0,
     "files_failed": 0,
-    "estimated_chunks": 7,
-    "updated_at": "2026-10-03T02:38:03.393790+00:00"
+    "estimated_chunks": 0,
+    "updated_at": "2026-10-04T03:09:09.858875+00:00"
   }
 }
