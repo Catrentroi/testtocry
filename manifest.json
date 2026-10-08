@@ -1,6 +1,6 @@
 {
   "source": "https://support.optisigns.com",
-  "generated_at": "2026-10-07T03:00:48.080806+00:00",
+  "generated_at": "2026-10-08T03:17:20.212163+00:00",
   "articles": {
     "55906396437523": {
       "article_id": "55906396437523",
@@ -545,10 +545,12 @@
       "slug": "what-do-i-get-with-an-optisigns-free-plan",
       "file_name": "what-do-i-get-with-an-optisigns-free-plan.md",
       "source_url": "https://support.optisigns.com/hc/en-us/articles/33940834613139-What-Do-I-Get-With-an-OptiSigns-Free-Plan",
-      "md5": "cb29d2541f7ebf072bad006010897aff",
-      "status": "unchanged",
-      "gemini_file_name": "files/y4i3ijovlqg1",
-      "gemini_uploaded_at": "2026-09-08T01:45:34.194272+00:00",
+      "md5": "58e1bb7d79dcdeaf54c68240726408e0",
+      "status": "modified",
+      "previous_gemini_file_name": "files/y4i3ijovlqg1",
+      "previous_gemini_uploaded_at": "2026-09-08T01:45:34.194272+00:00",
+      "gemini_file_name": "files/svc547exghdl",
+      "gemini_uploaded_at": "2026-10-08T03:17:22.045071+00:00",
       "upload_status": "uploaded"
     },
     "33382537925267": {
@@ -4263,15 +4265,15 @@
   "deleted_articles": [],
   "stats": {
     "new": 0,
-    "modified": 0,
-    "unchanged": 415,
+    "modified": 1,
+    "unchanged": 414,
     "deleted": 0
   },
   "last_upload_summary": {
-    "files_discovered": 0,
-    "files_uploaded": 0,
+    "files_discovered": 1,
+    "files_uploaded": 1,
     "files_failed": 0,
-    "estimated_chunks": 0,
-    "updated_at": "2026-10-07T03:00:48.753087+00:00"
+    "estimated_chunks": 3,
+    "updated_at": "2026-10-08T03:17:22.045342+00:00"
   }
 }
