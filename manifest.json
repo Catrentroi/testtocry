@@ -1,6 +1,6 @@
 {
   "source": "https://support.optisigns.com",
-  "generated_at": "2026-10-08T03:17:20.212163+00:00",
+  "generated_at": "2026-10-09T03:23:44.485030+00:00",
   "articles": {
     "55906396437523": {
       "article_id": "55906396437523",
@@ -92,10 +92,12 @@
       "slug": "how-to-display-grafana-dashboards-on-optisigns",
       "file_name": "how-to-display-grafana-dashboards-on-optisigns.md",
       "source_url": "https://support.optisigns.com/hc/en-us/articles/55447693635731-How-to-Display-Grafana-Dashboards-on-OptiSigns",
-      "md5": "d9d3a7c3f428e5bad595aed5c06f1eca",
-      "status": "unchanged",
-      "gemini_file_name": "files/9xn8tsj4exxr",
-      "gemini_uploaded_at": "2026-09-23T02:08:07.714106+00:00",
+      "md5": "fc28351943be782cbe7f1fb298324b90",
+      "status": "modified",
+      "previous_gemini_file_name": "files/9xn8tsj4exxr",
+      "previous_gemini_uploaded_at": "2026-09-23T02:08:07.714106+00:00",
+      "gemini_file_name": "files/t4l33yy1i8ts",
+      "gemini_uploaded_at": "2026-10-09T03:23:46.577785+00:00",
       "upload_status": "uploaded"
     },
     "55416186918163": {
@@ -545,12 +547,12 @@
       "slug": "what-do-i-get-with-an-optisigns-free-plan",
       "file_name": "what-do-i-get-with-an-optisigns-free-plan.md",
       "source_url": "https://support.optisigns.com/hc/en-us/articles/33940834613139-What-Do-I-Get-With-an-OptiSigns-Free-Plan",
-      "md5": "58e1bb7d79dcdeaf54c68240726408e0",
+      "md5": "d77a08040184ad05f59fd289275c4a5c",
       "status": "modified",
-      "previous_gemini_file_name": "files/y4i3ijovlqg1",
-      "previous_gemini_uploaded_at": "2026-09-08T01:45:34.194272+00:00",
-      "gemini_file_name": "files/svc547exghdl",
-      "gemini_uploaded_at": "2026-10-08T03:17:22.045071+00:00",
+      "previous_gemini_file_name": "files/svc547exghdl",
+      "previous_gemini_uploaded_at": "2026-10-08T03:17:22.045071+00:00",
+      "gemini_file_name": "files/8xqny9bfft6i",
+      "gemini_uploaded_at": "2026-10-09T03:23:47.973627+00:00",
       "upload_status": "uploaded"
     },
     "33382537925267": {
@@ -4265,15 +4267,15 @@
   "deleted_articles": [],
   "stats": {
     "new": 0,
-    "modified": 1,
-    "unchanged": 414,
+    "modified": 2,
+    "unchanged": 413,
     "deleted": 0
   },
   "last_upload_summary": {
-    "files_discovered": 1,
-    "files_uploaded": 1,
+    "files_discovered": 2,
+    "files_uploaded": 2,
     "files_failed": 0,
-    "estimated_chunks": 3,
-    "updated_at": "2026-10-08T03:17:22.045342+00:00"
+    "estimated_chunks": 16,
+    "updated_at": "2026-10-09T03:23:47.973944+00:00"
   }
 }
