@@ -1,6 +1,6 @@
 {
   "source": "https://support.optisigns.com",
-  "generated_at": "2026-10-12T02:58:19.928597+00:00",
+  "generated_at": "2026-10-13T04:13:25.563562+00:00",
   "articles": {
     "55906396437523": {
       "article_id": "55906396437523",
@@ -20,10 +20,12 @@
       "slug": "how-to-display-salesforce-dashboards-and-reports-on-optisigns",
       "file_name": "how-to-display-salesforce-dashboards-and-reports-on-optisigns.md",
       "source_url": "https://support.optisigns.com/hc/en-us/articles/55895814798739-How-to-Display-Salesforce-Dashboards-and-Reports-on-OptiSigns",
-      "md5": "85da60662b21a2fb51fbc7763097f4fa",
-      "status": "unchanged",
-      "gemini_file_name": "files/7ozm9vnyxrdi",
-      "gemini_uploaded_at": "2026-09-30T02:43:12.574062+00:00",
+      "md5": "51bacd4793d71b2b772a96fb844a421d",
+      "status": "modified",
+      "previous_gemini_file_name": "files/7ozm9vnyxrdi",
+      "previous_gemini_uploaded_at": "2026-09-30T02:43:12.574062+00:00",
+      "gemini_file_name": "files/zk5goqremjn1",
+      "gemini_uploaded_at": "2026-10-13T04:13:26.860978+00:00",
       "upload_status": "uploaded"
     },
     "55719322614803": {
@@ -619,12 +621,15 @@
     },
     "31113088917907": {
       "article_id": "31113088917907",
-      "title": "How to use Toast API data with OptiSigns",
+      "title": "How to Use Toast API Data with OptiSigns",
       "slug": "how-to-use-toast-api-data-with-optisigns",
       "file_name": "how-to-use-toast-api-data-with-optisigns.md",
-      "source_url": "https://support.optisigns.com/hc/en-us/articles/31113088917907-How-to-use-Toast-API-data-with-OptiSigns",
-      "md5": "f723d21e6400c9e4fc27409253d321a2",
-      "status": "unchanged"
+      "source_url": "https://support.optisigns.com/hc/en-us/articles/31113088917907-How-to-Use-Toast-API-Data-with-OptiSigns",
+      "md5": "c781dd1b2a82e9cd676a1fa134be7b6b",
+      "status": "modified",
+      "gemini_file_name": "files/3ekcg83rmeau",
+      "gemini_uploaded_at": "2026-10-13T04:13:27.774951+00:00",
+      "upload_status": "uploaded"
     },
     "30310366838803": {
       "article_id": "30310366838803",
@@ -2243,10 +2248,12 @@
       "slug": "how-to-manage-and-edit-your-playlist-settings",
       "file_name": "how-to-manage-and-edit-your-playlist-settings.md",
       "source_url": "https://support.optisigns.com/hc/en-us/articles/28295074995859-How-to-Manage-and-Edit-Your-Playlist-Settings",
-      "md5": "7380bf18b9360c9ca7c950f93576d5cd",
-      "status": "unchanged",
-      "gemini_file_name": "files/f724yn2cp9ax",
-      "gemini_uploaded_at": "2026-09-15T02:10:09.153839+00:00",
+      "md5": "5f81a458b737b2934b08782e68643137",
+      "status": "modified",
+      "previous_gemini_file_name": "files/f724yn2cp9ax",
+      "previous_gemini_uploaded_at": "2026-09-15T02:10:09.153839+00:00",
+      "gemini_file_name": "files/xsoxnckf6hnl",
+      "gemini_uploaded_at": "2026-10-13T04:13:28.635624+00:00",
       "upload_status": "uploaded"
     },
     "28026588373139": {
@@ -3301,12 +3308,15 @@
     },
     "8399990754195": {
       "article_id": "8399990754195",
-      "title": "How to display SmartSheet report on OptiSigns",
-      "slug": "how-to-display-smartsheet-report-on-optisigns",
-      "file_name": "how-to-display-smartsheet-report-on-optisigns.md",
-      "source_url": "https://support.optisigns.com/hc/en-us/articles/8399990754195-How-to-display-SmartSheet-report-on-OptiSigns",
-      "md5": "820c0ac889df8c1b54493dbab61f37a4",
-      "status": "unchanged"
+      "title": "How to Display a Smartsheet Report on OptiSigns",
+      "slug": "how-to-display-a-smartsheet-report-on-optisigns",
+      "file_name": "how-to-display-a-smartsheet-report-on-optisigns.md",
+      "source_url": "https://support.optisigns.com/hc/en-us/articles/8399990754195-How-to-Display-a-Smartsheet-Report-on-OptiSigns",
+      "md5": "80b92024904f35f47833e5e7ede68b13",
+      "status": "modified",
+      "gemini_file_name": "files/ffn4r2insuit",
+      "gemini_uploaded_at": "2026-10-13T04:13:29.559753+00:00",
+      "upload_status": "uploaded"
     },
     "8369526604435": {
       "article_id": "8369526604435",
@@ -4240,12 +4250,15 @@
     },
     "360016254994": {
       "article_id": "360016254994",
-      "title": "How to add & use Vimeo video with OptiSigns",
-      "slug": "how-to-add-use-vimeo-video-with-optisigns",
-      "file_name": "how-to-add-use-vimeo-video-with-optisigns.md",
-      "source_url": "https://support.optisigns.com/hc/en-us/articles/360016254994-How-to-add-use-Vimeo-video-with-OptiSigns",
-      "md5": "8fd69ed989c344bd4933d2f1d0dbb8b0",
-      "status": "unchanged"
+      "title": "How to Display Vimeo Videos with OptiSigns",
+      "slug": "how-to-display-vimeo-videos-with-optisigns",
+      "file_name": "how-to-display-vimeo-videos-with-optisigns.md",
+      "source_url": "https://support.optisigns.com/hc/en-us/articles/360016254994-How-to-Display-Vimeo-Videos-with-OptiSigns",
+      "md5": "4ebcc699c40c373d7028d8f27ccde8e7",
+      "status": "modified",
+      "gemini_file_name": "files/mghwmx22pdqo",
+      "gemini_uploaded_at": "2026-10-13T04:13:30.054235+00:00",
+      "upload_status": "uploaded"
     },
     "360016382473": {
       "article_id": "360016382473",
@@ -4263,15 +4276,15 @@
   "deleted_articles": [],
   "stats": {
     "new": 0,
-    "modified": 0,
-    "unchanged": 415,
+    "modified": 5,
+    "unchanged": 410,
     "deleted": 0
   },
   "last_upload_summary": {
-    "files_discovered": 0,
-    "files_uploaded": 0,
+    "files_discovered": 5,
+    "files_uploaded": 5,
     "files_failed": 0,
-    "estimated_chunks": 0,
-    "updated_at": "2026-10-12T02:58:20.527723+00:00"
+    "estimated_chunks": 20,
+    "updated_at": "2026-10-13T04:13:30.054518+00:00"
   }
 }
