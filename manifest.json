@@ -1,6 +1,6 @@
 {
   "source": "https://support.optisigns.com",
-  "generated_at": "2026-10-13T04:13:25.563562+00:00",
+  "generated_at": "2026-10-14T02:26:09.928518+00:00",
   "articles": {
     "55906396437523": {
       "article_id": "55906396437523",
@@ -21,9 +21,7 @@
       "file_name": "how-to-display-salesforce-dashboards-and-reports-on-optisigns.md",
       "source_url": "https://support.optisigns.com/hc/en-us/articles/55895814798739-How-to-Display-Salesforce-Dashboards-and-Reports-on-OptiSigns",
       "md5": "51bacd4793d71b2b772a96fb844a421d",
-      "status": "modified",
-      "previous_gemini_file_name": "files/7ozm9vnyxrdi",
-      "previous_gemini_uploaded_at": "2026-09-30T02:43:12.574062+00:00",
+      "status": "unchanged",
       "gemini_file_name": "files/zk5goqremjn1",
       "gemini_uploaded_at": "2026-10-13T04:13:26.860978+00:00",
       "upload_status": "uploaded"
@@ -626,7 +624,7 @@
       "file_name": "how-to-use-toast-api-data-with-optisigns.md",
       "source_url": "https://support.optisigns.com/hc/en-us/articles/31113088917907-How-to-Use-Toast-API-Data-with-OptiSigns",
       "md5": "c781dd1b2a82e9cd676a1fa134be7b6b",
-      "status": "modified",
+      "status": "unchanged",
       "gemini_file_name": "files/3ekcg83rmeau",
       "gemini_uploaded_at": "2026-10-13T04:13:27.774951+00:00",
       "upload_status": "uploaded"
@@ -2031,14 +2029,16 @@
     },
     "360037416494": {
       "article_id": "360037416494",
-      "title": "How to use the Jira (formerly Atlassian JIRA) app",
-      "slug": "how-to-use-the-jira-formerly-atlassian-jira-app",
-      "file_name": "how-to-use-the-jira-formerly-atlassian-jira-app.md",
-      "source_url": "https://support.optisigns.com/hc/en-us/articles/360037416494-How-to-use-the-Jira-formerly-Atlassian-JIRA-app",
-      "md5": "60bf389f5f693f2e8b00697d34a129d7",
-      "status": "unchanged",
-      "gemini_file_name": "files/3b412n015ahg",
-      "gemini_uploaded_at": "2026-08-21T00:34:18.732404+00:00",
+      "title": "How to Use the Jira App",
+      "slug": "how-to-use-the-jira-app",
+      "file_name": "how-to-use-the-jira-app.md",
+      "source_url": "https://support.optisigns.com/hc/en-us/articles/360037416494-How-to-Use-the-Jira-App",
+      "md5": "d40a40909128bd25cc121c34bef75fc1",
+      "status": "modified",
+      "previous_gemini_file_name": "files/3b412n015ahg",
+      "previous_gemini_uploaded_at": "2026-08-21T00:34:18.732404+00:00",
+      "gemini_file_name": "files/mkqvpp3knufi",
+      "gemini_uploaded_at": "2026-10-14T02:26:12.694931+00:00",
       "upload_status": "uploaded"
     },
     "360037391854": {
@@ -2249,9 +2249,7 @@
       "file_name": "how-to-manage-and-edit-your-playlist-settings.md",
       "source_url": "https://support.optisigns.com/hc/en-us/articles/28295074995859-How-to-Manage-and-Edit-Your-Playlist-Settings",
       "md5": "5f81a458b737b2934b08782e68643137",
-      "status": "modified",
-      "previous_gemini_file_name": "files/f724yn2cp9ax",
-      "previous_gemini_uploaded_at": "2026-09-15T02:10:09.153839+00:00",
+      "status": "unchanged",
       "gemini_file_name": "files/xsoxnckf6hnl",
       "gemini_uploaded_at": "2026-10-13T04:13:28.635624+00:00",
       "upload_status": "uploaded"
@@ -2919,15 +2917,6 @@
       "gemini_uploaded_at": "2026-09-22T02:08:25.987627+00:00",
       "upload_status": "uploaded"
     },
-    "18500083191059": {
-      "article_id": "18500083191059",
-      "title": "How to add captions to Vimeo videos",
-      "slug": "how-to-add-captions-to-vimeo-videos",
-      "file_name": "how-to-add-captions-to-vimeo-videos.md",
-      "source_url": "https://support.optisigns.com/hc/en-us/articles/18500083191059-How-to-add-captions-to-Vimeo-videos",
-      "md5": "cabb813ff134f06689b70cd14b41c7e1",
-      "status": "unchanged"
-    },
     "14502378549907": {
       "article_id": "14502378549907",
       "title": "Present / share your screen with OptiSigns & AeriCast Add-on",
@@ -2996,12 +2985,15 @@
     },
     "12454101966355": {
       "article_id": "12454101966355",
-      "title": "How to use the MustHaveMenus  app with OptiSigns",
-      "slug": "how-to-use-the-musthavemenus-app-with-optisigns",
-      "file_name": "how-to-use-the-musthavemenus-app-with-optisigns.md",
-      "source_url": "https://support.optisigns.com/hc/en-us/articles/12454101966355-How-to-use-the-MustHaveMenus-app-with-OptiSigns",
-      "md5": "5f3ebedb47a29b055679add5d1844579",
-      "status": "unchanged"
+      "title": "How to Use the MustHaveMenus App",
+      "slug": "how-to-use-the-musthavemenus-app",
+      "file_name": "how-to-use-the-musthavemenus-app.md",
+      "source_url": "https://support.optisigns.com/hc/en-us/articles/12454101966355-How-to-Use-the-MustHaveMenus-App",
+      "md5": "43914973578cf44bbfb49516fbb5ff7e",
+      "status": "modified",
+      "gemini_file_name": "files/fyvo8bsftajp",
+      "gemini_uploaded_at": "2026-10-14T02:26:13.838301+00:00",
+      "upload_status": "uploaded"
     },
     "4414558369811": {
       "article_id": "4414558369811",
@@ -3313,7 +3305,7 @@
       "file_name": "how-to-display-a-smartsheet-report-on-optisigns.md",
       "source_url": "https://support.optisigns.com/hc/en-us/articles/8399990754195-How-to-Display-a-Smartsheet-Report-on-OptiSigns",
       "md5": "80b92024904f35f47833e5e7ede68b13",
-      "status": "modified",
+      "status": "unchanged",
       "gemini_file_name": "files/ffn4r2insuit",
       "gemini_uploaded_at": "2026-10-13T04:13:29.559753+00:00",
       "upload_status": "uploaded"
@@ -3368,12 +3360,15 @@
     },
     "6091289267475": {
       "article_id": "6091289267475",
-      "title": "How to use Matterport App",
-      "slug": "how-to-use-matterport-app",
-      "file_name": "how-to-use-matterport-app.md",
-      "source_url": "https://support.optisigns.com/hc/en-us/articles/6091289267475-How-to-use-Matterport-App",
-      "md5": "03c50e7c89fa10b5901dcc2467825060",
-      "status": "unchanged"
+      "title": "How to Use the Matterport App",
+      "slug": "how-to-use-the-matterport-app",
+      "file_name": "how-to-use-the-matterport-app.md",
+      "source_url": "https://support.optisigns.com/hc/en-us/articles/6091289267475-How-to-Use-the-Matterport-App",
+      "md5": "d714b79cfd8dcc489966d01282e7011c",
+      "status": "modified",
+      "gemini_file_name": "files/zn0pe0be5p8x",
+      "gemini_uploaded_at": "2026-10-14T02:26:15.145811+00:00",
+      "upload_status": "uploaded"
     },
     "6086986017299": {
       "article_id": "6086986017299",
@@ -3395,12 +3390,15 @@
     },
     "5119724468371": {
       "article_id": "5119724468371",
-      "title": "How to use Notion App",
-      "slug": "how-to-use-notion-app",
-      "file_name": "how-to-use-notion-app.md",
-      "source_url": "https://support.optisigns.com/hc/en-us/articles/5119724468371-How-to-use-Notion-App",
-      "md5": "9a3206388d1528521516e38c5adfcf2f",
-      "status": "unchanged"
+      "title": "How to Use the Notion App",
+      "slug": "how-to-use-the-notion-app",
+      "file_name": "how-to-use-the-notion-app.md",
+      "source_url": "https://support.optisigns.com/hc/en-us/articles/5119724468371-How-to-Use-the-Notion-App",
+      "md5": "087a5b51fc42231c417b5316d19cf892",
+      "status": "modified",
+      "gemini_file_name": "files/lamvt7epggh0",
+      "gemini_uploaded_at": "2026-10-14T02:26:16.319532+00:00",
+      "upload_status": "uploaded"
     },
     "4529298306963": {
       "article_id": "4529298306963",
@@ -3623,12 +3621,15 @@
     },
     "1500002233221": {
       "article_id": "1500002233221",
-      "title": "How to use Asana App",
-      "slug": "how-to-use-asana-app",
-      "file_name": "how-to-use-asana-app.md",
-      "source_url": "https://support.optisigns.com/hc/en-us/articles/1500002233221-How-to-use-Asana-App",
-      "md5": "538ff88304e0df18c58e5a655cf761ba",
-      "status": "unchanged"
+      "title": "How to Use the Asana App",
+      "slug": "how-to-use-the-asana-app",
+      "file_name": "how-to-use-the-asana-app.md",
+      "source_url": "https://support.optisigns.com/hc/en-us/articles/1500002233221-How-to-Use-the-Asana-App",
+      "md5": "214d6827a5aafad93af76817a665a082",
+      "status": "modified",
+      "gemini_file_name": "files/5zr51iyg3qcx",
+      "gemini_uploaded_at": "2026-10-14T02:26:17.294705+00:00",
+      "upload_status": "uploaded"
     },
     "1500002131621": {
       "article_id": "1500002131621",
@@ -3800,12 +3801,15 @@
     },
     "360050244454": {
       "article_id": "360050244454",
-      "title": "How to use Trello App",
-      "slug": "how-to-use-trello-app",
-      "file_name": "how-to-use-trello-app.md",
-      "source_url": "https://support.optisigns.com/hc/en-us/articles/360050244454-How-to-use-Trello-App",
-      "md5": "82fa26f97b400bb9deb67e39c0901b81",
-      "status": "unchanged"
+      "title": "How to Use the Trello App",
+      "slug": "how-to-use-the-trello-app",
+      "file_name": "how-to-use-the-trello-app.md",
+      "source_url": "https://support.optisigns.com/hc/en-us/articles/360050244454-How-to-Use-the-Trello-App",
+      "md5": "8910077e49bea84cb90468852e939776",
+      "status": "modified",
+      "gemini_file_name": "files/drf1pjkw49pb",
+      "gemini_uploaded_at": "2026-10-14T02:26:18.658315+00:00",
+      "upload_status": "uploaded"
     },
     "360051014713": {
       "article_id": "360051014713",
@@ -3974,12 +3978,15 @@
     },
     "360046859534": {
       "article_id": "360046859534",
-      "title": "How to use Twitch App",
-      "slug": "how-to-use-twitch-app",
-      "file_name": "how-to-use-twitch-app.md",
-      "source_url": "https://support.optisigns.com/hc/en-us/articles/360046859534-How-to-use-Twitch-App",
-      "md5": "e673bd0f8927aae630de41ba413dfefe",
-      "status": "unchanged"
+      "title": "How to Use the Twitch App",
+      "slug": "how-to-use-the-twitch-app",
+      "file_name": "how-to-use-the-twitch-app.md",
+      "source_url": "https://support.optisigns.com/hc/en-us/articles/360046859534-How-to-Use-the-Twitch-App",
+      "md5": "d458deff0244838e1ffc0eb82d616484",
+      "status": "modified",
+      "gemini_file_name": "files/b5zutn07ln2g",
+      "gemini_uploaded_at": "2026-10-14T02:26:19.625910+00:00",
+      "upload_status": "uploaded"
     },
     "360044619014": {
       "article_id": "360044619014",
@@ -4254,10 +4261,12 @@
       "slug": "how-to-display-vimeo-videos-with-optisigns",
       "file_name": "how-to-display-vimeo-videos-with-optisigns.md",
       "source_url": "https://support.optisigns.com/hc/en-us/articles/360016254994-How-to-Display-Vimeo-Videos-with-OptiSigns",
-      "md5": "4ebcc699c40c373d7028d8f27ccde8e7",
+      "md5": "5d404c9497f7a22e9776c08c54aca873",
       "status": "modified",
-      "gemini_file_name": "files/mghwmx22pdqo",
-      "gemini_uploaded_at": "2026-10-13T04:13:30.054235+00:00",
+      "previous_gemini_file_name": "files/mghwmx22pdqo",
+      "previous_gemini_uploaded_at": "2026-10-13T04:13:30.054235+00:00",
+      "gemini_file_name": "files/8oosstjj5pks",
+      "gemini_uploaded_at": "2026-10-14T02:26:20.913234+00:00",
       "upload_status": "uploaded"
     },
     "360016382473": {
@@ -4273,18 +4282,28 @@
       "upload_status": "uploaded"
     }
   },
-  "deleted_articles": [],
+  "deleted_articles": [
+    {
+      "article_id": "18500083191059",
+      "title": "How to add captions to Vimeo videos",
+      "slug": "how-to-add-captions-to-vimeo-videos",
+      "file_name": "how-to-add-captions-to-vimeo-videos.md",
+      "source_url": "https://support.optisigns.com/hc/en-us/articles/18500083191059-How-to-add-captions-to-Vimeo-videos",
+      "md5": "cabb813ff134f06689b70cd14b41c7e1",
+      "status": "unchanged"
+    }
+  ],
   "stats": {
     "new": 0,
-    "modified": 5,
-    "unchanged": 410,
-    "deleted": 0
+    "modified": 8,
+    "unchanged": 406,
+    "deleted": 1
   },
   "last_upload_summary": {
-    "files_discovered": 5,
-    "files_uploaded": 5,
+    "files_discovered": 8,
+    "files_uploaded": 8,
     "files_failed": 0,
-    "estimated_chunks": 20,
-    "updated_at": "2026-10-13T04:13:30.054518+00:00"
+    "estimated_chunks": 18,
+    "updated_at": "2026-10-14T02:26:20.913584+00:00"
   }
 }
