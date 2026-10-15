@@ -1,6 +1,6 @@
 {
   "source": "https://support.optisigns.com",
-  "generated_at": "2026-10-14T02:26:09.928518+00:00",
+  "generated_at": "2026-10-15T02:06:54.372360+00:00",
   "articles": {
     "55906396437523": {
       "article_id": "55906396437523",
@@ -284,10 +284,12 @@
       "slug": "chromeos-pwa-instructions",
       "file_name": "chromeos-pwa-instructions.md",
       "source_url": "https://support.optisigns.com/hc/en-us/articles/49039295567891-ChromeOS-PWA-Instructions",
-      "md5": "9cf3e950a9d0cc123cc94cf2d011fffc",
-      "status": "unchanged",
-      "gemini_file_name": "files/perhgnjp1ti6",
-      "gemini_uploaded_at": "2026-07-08T05:46:07.849302+00:00",
+      "md5": "783bac38502a4e0996de658fdb333cd0",
+      "status": "modified",
+      "previous_gemini_file_name": "files/perhgnjp1ti6",
+      "previous_gemini_uploaded_at": "2026-07-08T05:46:07.849302+00:00",
+      "gemini_file_name": "files/wxpfpx38p9ul",
+      "gemini_uploaded_at": "2026-10-15T02:06:55.674332+00:00",
       "upload_status": "uploaded"
     },
     "48751096814995": {
@@ -416,10 +418,12 @@
       "slug": "how-to-play-licensed-background-music-on-digital-signs-with-optisound",
       "file_name": "how-to-play-licensed-background-music-on-digital-signs-with-optisound.md",
       "source_url": "https://support.optisigns.com/hc/en-us/articles/40671590645651-How-to-Play-Licensed-Background-Music-on-Digital-Signs-with-OptiSound",
-      "md5": "e624e917855f16294fe0e508f289ac78",
-      "status": "unchanged",
-      "gemini_file_name": "files/tbg72khfx5ek",
-      "gemini_uploaded_at": "2026-07-08T05:46:37.825940+00:00",
+      "md5": "604716d6d2c5590e908b7aa54f3d7e5c",
+      "status": "modified",
+      "previous_gemini_file_name": "files/tbg72khfx5ek",
+      "previous_gemini_uploaded_at": "2026-07-08T05:46:37.825940+00:00",
+      "gemini_file_name": "files/ikfkpw02fubz",
+      "gemini_uploaded_at": "2026-10-15T02:06:56.379608+00:00",
       "upload_status": "uploaded"
     },
     "40212027797523": {
@@ -1877,10 +1881,12 @@
       "slug": "edit-screen-what-does-each-option-do",
       "file_name": "edit-screen-what-does-each-option-do.md",
       "source_url": "https://support.optisigns.com/hc/en-us/articles/360048914673-Edit-Screen-What-does-each-option-do",
-      "md5": "e1e444e7a31911f80d68021a5d21c161",
-      "status": "unchanged",
-      "gemini_file_name": "files/tz4wvub6eh12",
-      "gemini_uploaded_at": "2026-09-03T01:47:53.766270+00:00",
+      "md5": "b832af17424a970c21c4a6a15fea08ca",
+      "status": "modified",
+      "previous_gemini_file_name": "files/tz4wvub6eh12",
+      "previous_gemini_uploaded_at": "2026-09-03T01:47:53.766270+00:00",
+      "gemini_file_name": "files/u5heupjtc67q",
+      "gemini_uploaded_at": "2026-10-15T02:06:57.268649+00:00",
       "upload_status": "uploaded"
     },
     "360047275934": {
@@ -2034,9 +2040,7 @@
       "file_name": "how-to-use-the-jira-app.md",
       "source_url": "https://support.optisigns.com/hc/en-us/articles/360037416494-How-to-Use-the-Jira-App",
       "md5": "d40a40909128bd25cc121c34bef75fc1",
-      "status": "modified",
-      "previous_gemini_file_name": "files/3b412n015ahg",
-      "previous_gemini_uploaded_at": "2026-08-21T00:34:18.732404+00:00",
+      "status": "unchanged",
       "gemini_file_name": "files/mkqvpp3knufi",
       "gemini_uploaded_at": "2026-10-14T02:26:12.694931+00:00",
       "upload_status": "uploaded"
@@ -2248,10 +2252,12 @@
       "slug": "how-to-manage-and-edit-your-playlist-settings",
       "file_name": "how-to-manage-and-edit-your-playlist-settings.md",
       "source_url": "https://support.optisigns.com/hc/en-us/articles/28295074995859-How-to-Manage-and-Edit-Your-Playlist-Settings",
-      "md5": "5f81a458b737b2934b08782e68643137",
-      "status": "unchanged",
-      "gemini_file_name": "files/xsoxnckf6hnl",
-      "gemini_uploaded_at": "2026-10-13T04:13:28.635624+00:00",
+      "md5": "68f83a7da4fa1a46ba3947ef244057cb",
+      "status": "modified",
+      "previous_gemini_file_name": "files/xsoxnckf6hnl",
+      "previous_gemini_uploaded_at": "2026-10-13T04:13:28.635624+00:00",
+      "gemini_file_name": "files/93udrqeai911",
+      "gemini_uploaded_at": "2026-10-15T02:06:58.204259+00:00",
       "upload_status": "uploaded"
     },
     "28026588373139": {
@@ -2990,7 +2996,7 @@
       "file_name": "how-to-use-the-musthavemenus-app.md",
       "source_url": "https://support.optisigns.com/hc/en-us/articles/12454101966355-How-to-Use-the-MustHaveMenus-App",
       "md5": "43914973578cf44bbfb49516fbb5ff7e",
-      "status": "modified",
+      "status": "unchanged",
       "gemini_file_name": "files/fyvo8bsftajp",
       "gemini_uploaded_at": "2026-10-14T02:26:13.838301+00:00",
       "upload_status": "uploaded"
@@ -3365,7 +3371,7 @@
       "file_name": "how-to-use-the-matterport-app.md",
       "source_url": "https://support.optisigns.com/hc/en-us/articles/6091289267475-How-to-Use-the-Matterport-App",
       "md5": "d714b79cfd8dcc489966d01282e7011c",
-      "status": "modified",
+      "status": "unchanged",
       "gemini_file_name": "files/zn0pe0be5p8x",
       "gemini_uploaded_at": "2026-10-14T02:26:15.145811+00:00",
       "upload_status": "uploaded"
@@ -3395,7 +3401,7 @@
       "file_name": "how-to-use-the-notion-app.md",
       "source_url": "https://support.optisigns.com/hc/en-us/articles/5119724468371-How-to-Use-the-Notion-App",
       "md5": "087a5b51fc42231c417b5316d19cf892",
-      "status": "modified",
+      "status": "unchanged",
       "gemini_file_name": "files/lamvt7epggh0",
       "gemini_uploaded_at": "2026-10-14T02:26:16.319532+00:00",
       "upload_status": "uploaded"
@@ -3626,7 +3632,7 @@
       "file_name": "how-to-use-the-asana-app.md",
       "source_url": "https://support.optisigns.com/hc/en-us/articles/1500002233221-How-to-Use-the-Asana-App",
       "md5": "214d6827a5aafad93af76817a665a082",
-      "status": "modified",
+      "status": "unchanged",
       "gemini_file_name": "files/5zr51iyg3qcx",
       "gemini_uploaded_at": "2026-10-14T02:26:17.294705+00:00",
       "upload_status": "uploaded"
@@ -3690,12 +3696,15 @@
     },
     "360060919453": {
       "article_id": "360060919453",
-      "title": "How to put ZenDesk Dashboard on your signs",
-      "slug": "how-to-put-zendesk-dashboard-on-your-signs",
-      "file_name": "how-to-put-zendesk-dashboard-on-your-signs.md",
-      "source_url": "https://support.optisigns.com/hc/en-us/articles/360060919453-How-to-put-ZenDesk-Dashboard-on-your-signs",
-      "md5": "c21876b925e62b7af9b5a2ae68abe194",
-      "status": "unchanged"
+      "title": "How to Use the Zendesk App",
+      "slug": "how-to-use-the-zendesk-app",
+      "file_name": "how-to-use-the-zendesk-app.md",
+      "source_url": "https://support.optisigns.com/hc/en-us/articles/360060919453-How-to-Use-the-Zendesk-App",
+      "md5": "072cd37398cca0adf237267d176edca8",
+      "status": "modified",
+      "gemini_file_name": "files/7we9uqvmze9o",
+      "gemini_uploaded_at": "2026-10-15T02:06:58.856125+00:00",
+      "upload_status": "uploaded"
     },
     "360058855273": {
       "article_id": "360058855273",
@@ -3806,7 +3815,7 @@
       "file_name": "how-to-use-the-trello-app.md",
       "source_url": "https://support.optisigns.com/hc/en-us/articles/360050244454-How-to-Use-the-Trello-App",
       "md5": "8910077e49bea84cb90468852e939776",
-      "status": "modified",
+      "status": "unchanged",
       "gemini_file_name": "files/drf1pjkw49pb",
       "gemini_uploaded_at": "2026-10-14T02:26:18.658315+00:00",
       "upload_status": "uploaded"
@@ -3983,7 +3992,7 @@
       "file_name": "how-to-use-the-twitch-app.md",
       "source_url": "https://support.optisigns.com/hc/en-us/articles/360046859534-How-to-Use-the-Twitch-App",
       "md5": "d458deff0244838e1ffc0eb82d616484",
-      "status": "modified",
+      "status": "unchanged",
       "gemini_file_name": "files/b5zutn07ln2g",
       "gemini_uploaded_at": "2026-10-14T02:26:19.625910+00:00",
       "upload_status": "uploaded"
@@ -4262,9 +4271,7 @@
       "file_name": "how-to-display-vimeo-videos-with-optisigns.md",
       "source_url": "https://support.optisigns.com/hc/en-us/articles/360016254994-How-to-Display-Vimeo-Videos-with-OptiSigns",
       "md5": "5d404c9497f7a22e9776c08c54aca873",
-      "status": "modified",
-      "previous_gemini_file_name": "files/mghwmx22pdqo",
-      "previous_gemini_uploaded_at": "2026-10-13T04:13:30.054235+00:00",
+      "status": "unchanged",
       "gemini_file_name": "files/8oosstjj5pks",
       "gemini_uploaded_at": "2026-10-14T02:26:20.913234+00:00",
       "upload_status": "uploaded"
@@ -4282,28 +4289,18 @@
       "upload_status": "uploaded"
     }
   },
-  "deleted_articles": [
-    {
-      "article_id": "18500083191059",
-      "title": "How to add captions to Vimeo videos",
-      "slug": "how-to-add-captions-to-vimeo-videos",
-      "file_name": "how-to-add-captions-to-vimeo-videos.md",
-      "source_url": "https://support.optisigns.com/hc/en-us/articles/18500083191059-How-to-add-captions-to-Vimeo-videos",
-      "md5": "cabb813ff134f06689b70cd14b41c7e1",
-      "status": "unchanged"
-    }
-  ],
+  "deleted_articles": [],
   "stats": {
     "new": 0,
-    "modified": 8,
-    "unchanged": 406,
-    "deleted": 1
+    "modified": 5,
+    "unchanged": 409,
+    "deleted": 0
   },
   "last_upload_summary": {
-    "files_discovered": 8,
-    "files_uploaded": 8,
+    "files_discovered": 5,
+    "files_uploaded": 5,
     "files_failed": 0,
-    "estimated_chunks": 18,
-    "updated_at": "2026-10-14T02:26:20.913584+00:00"
+    "estimated_chunks": 21,
+    "updated_at": "2026-10-15T02:06:58.856438+00:00"
   }
 }
