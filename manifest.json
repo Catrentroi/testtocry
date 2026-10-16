@@ -1,6 +1,6 @@
 {
   "source": "https://support.optisigns.com",
-  "generated_at": "2026-10-15T02:06:54.372360+00:00",
+  "generated_at": "2026-10-16T01:57:15.478648+00:00",
   "articles": {
     "55906396437523": {
       "article_id": "55906396437523",
@@ -152,10 +152,12 @@
       "slug": "device-management-and-mass-provisioning",
       "file_name": "device-management-and-mass-provisioning.md",
       "source_url": "https://support.optisigns.com/hc/en-us/articles/53497007807251-Device-Management-and-Mass-Provisioning",
-      "md5": "d1f50ec15bfe2fe3d36b38a785624dcd",
-      "status": "unchanged",
-      "gemini_file_name": "files/dazwhlk9oc7y",
-      "gemini_uploaded_at": "2026-07-17T01:25:07.655222+00:00",
+      "md5": "ff5b185627c906f33cc8405768c5333d",
+      "status": "modified",
+      "previous_gemini_file_name": "files/dazwhlk9oc7y",
+      "previous_gemini_uploaded_at": "2026-07-17T01:25:07.655222+00:00",
+      "gemini_file_name": "files/sv0kr2r0pwfh",
+      "gemini_uploaded_at": "2026-10-16T01:57:17.537613+00:00",
       "upload_status": "uploaded"
     },
     "53293393593491": {
@@ -285,9 +287,7 @@
       "file_name": "chromeos-pwa-instructions.md",
       "source_url": "https://support.optisigns.com/hc/en-us/articles/49039295567891-ChromeOS-PWA-Instructions",
       "md5": "783bac38502a4e0996de658fdb333cd0",
-      "status": "modified",
-      "previous_gemini_file_name": "files/perhgnjp1ti6",
-      "previous_gemini_uploaded_at": "2026-07-08T05:46:07.849302+00:00",
+      "status": "unchanged",
       "gemini_file_name": "files/wxpfpx38p9ul",
       "gemini_uploaded_at": "2026-10-15T02:06:55.674332+00:00",
       "upload_status": "uploaded"
@@ -419,9 +419,7 @@
       "file_name": "how-to-play-licensed-background-music-on-digital-signs-with-optisound.md",
       "source_url": "https://support.optisigns.com/hc/en-us/articles/40671590645651-How-to-Play-Licensed-Background-Music-on-Digital-Signs-with-OptiSound",
       "md5": "604716d6d2c5590e908b7aa54f3d7e5c",
-      "status": "modified",
-      "previous_gemini_file_name": "files/tbg72khfx5ek",
-      "previous_gemini_uploaded_at": "2026-07-08T05:46:37.825940+00:00",
+      "status": "unchanged",
       "gemini_file_name": "files/ikfkpw02fubz",
       "gemini_uploaded_at": "2026-10-15T02:06:56.379608+00:00",
       "upload_status": "uploaded"
@@ -1882,9 +1880,7 @@
       "file_name": "edit-screen-what-does-each-option-do.md",
       "source_url": "https://support.optisigns.com/hc/en-us/articles/360048914673-Edit-Screen-What-does-each-option-do",
       "md5": "b832af17424a970c21c4a6a15fea08ca",
-      "status": "modified",
-      "previous_gemini_file_name": "files/tz4wvub6eh12",
-      "previous_gemini_uploaded_at": "2026-09-03T01:47:53.766270+00:00",
+      "status": "unchanged",
       "gemini_file_name": "files/u5heupjtc67q",
       "gemini_uploaded_at": "2026-10-15T02:06:57.268649+00:00",
       "upload_status": "uploaded"
@@ -2102,15 +2098,6 @@
       "md5": "e386295f40531197155adc6838d716bd",
       "status": "unchanged"
     },
-    "360026610194": {
-      "article_id": "360026610194",
-      "title": "Stretch your images, document - Stretch vs Fit vs Zoom your content",
-      "slug": "stretch-your-images-document-stretch-vs-fit-vs-zoom-your-content",
-      "file_name": "stretch-your-images-document-stretch-vs-fit-vs-zoom-your-content.md",
-      "source_url": "https://support.optisigns.com/hc/en-us/articles/360026610194-Stretch-your-images-document-Stretch-vs-Fit-vs-Zoom-your-content",
-      "md5": "290069450f413d24ee6149082b17c81c",
-      "status": "unchanged"
-    },
     "360026559613": {
       "article_id": "360026559613",
       "title": "How to Create a Scrolling Strip or Bar",
@@ -2253,9 +2240,7 @@
       "file_name": "how-to-manage-and-edit-your-playlist-settings.md",
       "source_url": "https://support.optisigns.com/hc/en-us/articles/28295074995859-How-to-Manage-and-Edit-Your-Playlist-Settings",
       "md5": "68f83a7da4fa1a46ba3947ef244057cb",
-      "status": "modified",
-      "previous_gemini_file_name": "files/xsoxnckf6hnl",
-      "previous_gemini_uploaded_at": "2026-10-13T04:13:28.635624+00:00",
+      "status": "unchanged",
       "gemini_file_name": "files/93udrqeai911",
       "gemini_uploaded_at": "2026-10-15T02:06:58.204259+00:00",
       "upload_status": "uploaded"
@@ -3540,12 +3525,15 @@
     },
     "4406180781203": {
       "article_id": "4406180781203",
-      "title": "How to use LinkedIn App",
-      "slug": "how-to-use-linkedin-app",
-      "file_name": "how-to-use-linkedin-app.md",
-      "source_url": "https://support.optisigns.com/hc/en-us/articles/4406180781203-How-to-use-LinkedIn-App",
-      "md5": "7ac0cbd97ed5cf784983b6cd3784304d",
-      "status": "unchanged"
+      "title": "How to Use the LinkedIn App",
+      "slug": "how-to-use-the-linkedin-app",
+      "file_name": "how-to-use-the-linkedin-app.md",
+      "source_url": "https://support.optisigns.com/hc/en-us/articles/4406180781203-How-to-Use-the-LinkedIn-App",
+      "md5": "c1ac2c5d6910205112db4cb77421645a",
+      "status": "modified",
+      "gemini_file_name": "files/v28r8lfi5p4m",
+      "gemini_uploaded_at": "2026-10-16T01:57:18.523145+00:00",
+      "upload_status": "uploaded"
     },
     "4404053129619": {
       "article_id": "4404053129619",
@@ -3561,12 +3549,15 @@
     },
     "4403267825171": {
       "article_id": "4403267825171",
-      "title": "How to use the Social Mix App",
+      "title": "How to Use the Social Mix App",
       "slug": "how-to-use-the-social-mix-app",
       "file_name": "how-to-use-the-social-mix-app.md",
-      "source_url": "https://support.optisigns.com/hc/en-us/articles/4403267825171-How-to-use-the-Social-Mix-App",
-      "md5": "135efa95d75c74290f8e5610eb9abec8",
-      "status": "unchanged"
+      "source_url": "https://support.optisigns.com/hc/en-us/articles/4403267825171-How-to-Use-the-Social-Mix-App",
+      "md5": "5b6d0defcdad548f9df6d86c2782635c",
+      "status": "modified",
+      "gemini_file_name": "files/116kvo363svh",
+      "gemini_uploaded_at": "2026-10-16T01:57:19.445254+00:00",
+      "upload_status": "uploaded"
     },
     "1500011611322": {
       "article_id": "1500011611322",
@@ -3594,12 +3585,15 @@
     },
     "1500009343862": {
       "article_id": "1500009343862",
-      "title": "How to use the Taggbox Display app with OptiSigns",
-      "slug": "how-to-use-the-taggbox-display-app-with-optisigns",
-      "file_name": "how-to-use-the-taggbox-display-app-with-optisigns.md",
-      "source_url": "https://support.optisigns.com/hc/en-us/articles/1500009343862-How-to-use-the-Taggbox-Display-app-with-OptiSigns",
-      "md5": "92befab910ff2c72d6ba9ea053c0301d",
-      "status": "unchanged"
+      "title": "How to Use the Taggbox Display App",
+      "slug": "how-to-use-the-taggbox-display-app",
+      "file_name": "how-to-use-the-taggbox-display-app.md",
+      "source_url": "https://support.optisigns.com/hc/en-us/articles/1500009343862-How-to-Use-the-Taggbox-Display-App",
+      "md5": "2b9273133dbef5777a2e939e33973d29",
+      "status": "modified",
+      "gemini_file_name": "files/c4jlpneu56bb",
+      "gemini_uploaded_at": "2026-10-16T01:57:20.319559+00:00",
+      "upload_status": "uploaded"
     },
     "1500005889381": {
       "article_id": "1500005889381",
@@ -3701,7 +3695,7 @@
       "file_name": "how-to-use-the-zendesk-app.md",
       "source_url": "https://support.optisigns.com/hc/en-us/articles/360060919453-How-to-Use-the-Zendesk-App",
       "md5": "072cd37398cca0adf237267d176edca8",
-      "status": "modified",
+      "status": "unchanged",
       "gemini_file_name": "files/7we9uqvmze9o",
       "gemini_uploaded_at": "2026-10-15T02:06:58.856125+00:00",
       "upload_status": "uploaded"
@@ -3801,12 +3795,15 @@
     },
     "360051495193": {
       "article_id": "360051495193",
-      "title": "How to use Instagram Business App",
-      "slug": "how-to-use-instagram-business-app",
-      "file_name": "how-to-use-instagram-business-app.md",
-      "source_url": "https://support.optisigns.com/hc/en-us/articles/360051495193-How-to-use-Instagram-Business-App",
-      "md5": "1e3a56a3e6c7128b45e062dcb0cc22b3",
-      "status": "unchanged"
+      "title": "How to Use the Instagram Business App",
+      "slug": "how-to-use-the-instagram-business-app",
+      "file_name": "how-to-use-the-instagram-business-app.md",
+      "source_url": "https://support.optisigns.com/hc/en-us/articles/360051495193-How-to-Use-the-Instagram-Business-App",
+      "md5": "6d604da3bee078f96cf6d95bd6758f92",
+      "status": "modified",
+      "gemini_file_name": "files/ycndvrduzw3a",
+      "gemini_uploaded_at": "2026-10-16T01:57:21.333855+00:00",
+      "upload_status": "uploaded"
     },
     "360050244454": {
       "article_id": "360050244454",
@@ -3834,12 +3831,15 @@
     },
     "360049875794": {
       "article_id": "360049875794",
-      "title": "How to use Follow Us App",
-      "slug": "how-to-use-follow-us-app",
-      "file_name": "how-to-use-follow-us-app.md",
-      "source_url": "https://support.optisigns.com/hc/en-us/articles/360049875794-How-to-use-Follow-Us-App",
-      "md5": "661ea888299e46ecb72b36450904cfe4",
-      "status": "unchanged"
+      "title": "How to Use the Follow Us App",
+      "slug": "how-to-use-the-follow-us-app",
+      "file_name": "how-to-use-the-follow-us-app.md",
+      "source_url": "https://support.optisigns.com/hc/en-us/articles/360049875794-How-to-Use-the-Follow-Us-App",
+      "md5": "3bcc205b71f939892e5aa2898c22d7af",
+      "status": "modified",
+      "gemini_file_name": "files/z5l0aygv673s",
+      "gemini_uploaded_at": "2026-10-16T01:57:22.232112+00:00",
+      "upload_status": "uploaded"
     },
     "360049872414": {
       "article_id": "360049872414",
@@ -4084,19 +4084,24 @@
       "slug": "how-to-use-the-countup-app",
       "file_name": "how-to-use-the-countup-app.md",
       "source_url": "https://support.optisigns.com/hc/en-us/articles/360041222994-How-to-Use-the-CountUp-App",
-      "md5": "982d83c8c4981436c84c120ef68deea7",
-      "status": "unchanged"
+      "md5": "8541b20ae07c62c6892d228fb5321609",
+      "status": "modified",
+      "gemini_file_name": "files/v60s65f87k6q",
+      "gemini_uploaded_at": "2026-10-16T01:57:23.014328+00:00",
+      "upload_status": "uploaded"
     },
     "360041638433": {
       "article_id": "360041638433",
-      "title": "How to use the CountDown App",
+      "title": "How to Use the CountDown App",
       "slug": "how-to-use-the-countdown-app",
       "file_name": "how-to-use-the-countdown-app.md",
-      "source_url": "https://support.optisigns.com/hc/en-us/articles/360041638433-How-to-use-the-CountDown-App",
-      "md5": "e87fa34270365b46582541d109f174ca",
-      "status": "unchanged",
-      "gemini_file_name": "files/b861jghz7n7n",
-      "gemini_uploaded_at": "2026-09-12T01:52:39.947339+00:00",
+      "source_url": "https://support.optisigns.com/hc/en-us/articles/360041638433-How-to-Use-the-CountDown-App",
+      "md5": "dfe44a68c8b82d52e0c5589bd487d84b",
+      "status": "modified",
+      "previous_gemini_file_name": "files/b861jghz7n7n",
+      "previous_gemini_uploaded_at": "2026-09-12T01:52:39.947339+00:00",
+      "gemini_file_name": "files/3vv26kpflnxr",
+      "gemini_uploaded_at": "2026-10-16T01:57:24.612032+00:00",
       "upload_status": "uploaded"
     },
     "360041481553": {
@@ -4289,18 +4294,28 @@
       "upload_status": "uploaded"
     }
   },
-  "deleted_articles": [],
+  "deleted_articles": [
+    {
+      "article_id": "360026610194",
+      "title": "Stretch your images, document - Stretch vs Fit vs Zoom your content",
+      "slug": "stretch-your-images-document-stretch-vs-fit-vs-zoom-your-content",
+      "file_name": "stretch-your-images-document-stretch-vs-fit-vs-zoom-your-content.md",
+      "source_url": "https://support.optisigns.com/hc/en-us/articles/360026610194-Stretch-your-images-document-Stretch-vs-Fit-vs-Zoom-your-content",
+      "md5": "290069450f413d24ee6149082b17c81c",
+      "status": "unchanged"
+    }
+  ],
   "stats": {
     "new": 0,
-    "modified": 5,
-    "unchanged": 409,
-    "deleted": 0
+    "modified": 8,
+    "unchanged": 405,
+    "deleted": 1
   },
   "last_upload_summary": {
-    "files_discovered": 5,
-    "files_uploaded": 5,
+    "files_discovered": 8,
+    "files_uploaded": 8,
     "files_failed": 0,
-    "estimated_chunks": 21,
-    "updated_at": "2026-10-15T02:06:58.856438+00:00"
+    "estimated_chunks": 25,
+    "updated_at": "2026-10-16T01:57:24.612350+00:00"
   }
 }
