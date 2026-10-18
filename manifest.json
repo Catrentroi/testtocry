@@ -1,6 +1,6 @@
 {
   "source": "https://support.optisigns.com",
-  "generated_at": "2026-10-17T01:51:55.521543+00:00",
+  "generated_at": "2026-10-18T01:50:37.243660+00:00",
   "articles": {
     "56498391179667": {
       "article_id": "56498391179667",
@@ -9,7 +9,7 @@
       "file_name": "how-to-use-the-eventbrite-events-app.md",
       "source_url": "https://support.optisigns.com/hc/en-us/articles/56498391179667-How-to-Use-the-Eventbrite-Events-App",
       "md5": "f9ee444642f112c6b3a5b7ed4a6bc93d",
-      "status": "new",
+      "status": "unchanged",
       "gemini_file_name": "files/l41shs55c9ox",
       "gemini_uploaded_at": "2026-10-17T01:51:58.733206+00:00",
       "upload_status": "uploaded"
@@ -21,7 +21,7 @@
       "file_name": "how-to-use-the-air-quality-index-app.md",
       "source_url": "https://support.optisigns.com/hc/en-us/articles/56498363329683-How-to-Use-the-Air-Quality-Index-App",
       "md5": "d7a7d26fd710501c83ea946902ca156d",
-      "status": "new",
+      "status": "unchanged",
       "gemini_file_name": "files/ylj4o64ce50b",
       "gemini_uploaded_at": "2026-10-17T01:52:00.210213+00:00",
       "upload_status": "uploaded"
@@ -33,7 +33,7 @@
       "file_name": "how-to-display-datadog-dashboards-on-optisigns.md",
       "source_url": "https://support.optisigns.com/hc/en-us/articles/56493703696659-How-to-Display-Datadog-Dashboards-on-OptiSigns",
       "md5": "3b4d7f38a908d80237f1ec6ae167e559",
-      "status": "new",
+      "status": "unchanged",
       "gemini_file_name": "files/855z7vnrv7ri",
       "gemini_uploaded_at": "2026-10-17T01:52:01.633866+00:00",
       "upload_status": "uploaded"
@@ -57,9 +57,7 @@
       "file_name": "how-to-display-salesforce-dashboards-and-reports-on-optisigns.md",
       "source_url": "https://support.optisigns.com/hc/en-us/articles/55895814798739-How-to-Display-Salesforce-Dashboards-and-Reports-on-OptiSigns",
       "md5": "34a893dcad40e29b8434cf3c853a00d3",
-      "status": "modified",
-      "previous_gemini_file_name": "files/zk5goqremjn1",
-      "previous_gemini_uploaded_at": "2026-10-13T04:13:26.860978+00:00",
+      "status": "unchanged",
       "gemini_file_name": "files/z68rw6o7d6hc",
       "gemini_uploaded_at": "2026-10-17T01:52:02.833616+00:00",
       "upload_status": "uploaded"
@@ -2075,9 +2073,7 @@
       "file_name": "how-to-display-content-from-websites-that-require-a-login.md",
       "source_url": "https://support.optisigns.com/hc/en-us/articles/360037391854-How-to-Display-Content-From-Websites-That-Require-a-Login",
       "md5": "8efb4be0ba708e098d5aa8bf6d52f425",
-      "status": "modified",
-      "previous_gemini_file_name": "files/bn326q2m5nuc",
-      "previous_gemini_uploaded_at": "2026-08-27T05:25:55.732863+00:00",
+      "status": "unchanged",
       "gemini_file_name": "files/56dvnlz6eanl",
       "gemini_uploaded_at": "2026-10-17T01:52:03.812269+00:00",
       "upload_status": "uploaded"
@@ -2251,7 +2247,7 @@
       "file_name": "how-to-use-the-optisigns-mobile-admin-app.md",
       "source_url": "https://support.optisigns.com/hc/en-us/articles/30003143806099-How-to-Use-the-OptiSigns-Mobile-Admin-App",
       "md5": "c1c9a6dbf7a041a27d87df873fa66ddc",
-      "status": "modified",
+      "status": "unchanged",
       "gemini_file_name": "files/hovoks5bjc4i",
       "gemini_uploaded_at": "2026-10-17T01:52:04.838109+00:00",
       "upload_status": "uploaded"
@@ -2545,7 +2541,7 @@
       "file_name": "how-to-use-the-instagram-app.md",
       "source_url": "https://support.optisigns.com/hc/en-us/articles/360016388733-How-to-Use-the-Instagram-App",
       "md5": "bf9ac34a2fd8e79a8adf910f0841df4e",
-      "status": "modified",
+      "status": "unchanged",
       "gemini_file_name": "files/o80p4ifoje39",
       "gemini_uploaded_at": "2026-10-17T01:52:05.644135+00:00",
       "upload_status": "uploaded"
@@ -2566,7 +2562,7 @@
       "file_name": "kiosk10.md",
       "source_url": "https://support.optisigns.com/hc/en-us/articles/44652521310099-Kiosk10",
       "md5": "c91e4ba60b37ab06812c35b1d8180241",
-      "status": "modified",
+      "status": "unchanged",
       "gemini_file_name": "files/s7fzlwlvtize",
       "gemini_uploaded_at": "2026-10-17T01:52:06.819088+00:00",
       "upload_status": "uploaded"
@@ -3838,9 +3834,7 @@
       "file_name": "how-to-use-the-instagram-business-app.md",
       "source_url": "https://support.optisigns.com/hc/en-us/articles/360051495193-How-to-Use-the-Instagram-Business-App",
       "md5": "eff1fc1ce2010cf81e21dd421f8ef0e4",
-      "status": "modified",
-      "previous_gemini_file_name": "files/ycndvrduzw3a",
-      "previous_gemini_uploaded_at": "2026-10-16T01:57:21.333855+00:00",
+      "status": "unchanged",
       "gemini_file_name": "files/zusgv3acfvs7",
       "gemini_uploaded_at": "2026-10-17T01:52:08.796693+00:00",
       "upload_status": "uploaded"
@@ -3900,9 +3894,7 @@
       "file_name": "how-to-use-the-dropbox-app.md",
       "source_url": "https://support.optisigns.com/hc/en-us/articles/360050665413-How-to-Use-the-Dropbox-App",
       "md5": "4a1369c3d7c3cf266af5b3e04fa48bb5",
-      "status": "modified",
-      "previous_gemini_file_name": "files/f3ksrqksli3w",
-      "previous_gemini_uploaded_at": "2026-10-02T02:51:19.811410+00:00",
+      "status": "unchanged",
       "gemini_file_name": "files/jvkxbzfqcjlc",
       "gemini_uploaded_at": "2026-10-17T01:52:10.413038+00:00",
       "upload_status": "uploaded"
@@ -3914,9 +3906,7 @@
       "file_name": "how-to-use-the-onedrive-app.md",
       "source_url": "https://support.optisigns.com/hc/en-us/articles/360050665253-How-to-Use-the-OneDrive-App",
       "md5": "bd4a1084052079709ef7571dd6b85f52",
-      "status": "modified",
-      "previous_gemini_file_name": "files/h6uesjm1vj93",
-      "previous_gemini_uploaded_at": "2026-10-01T02:48:03.482747+00:00",
+      "status": "unchanged",
       "gemini_file_name": "files/cs1gosf119ay",
       "gemini_uploaded_at": "2026-10-17T01:52:11.465660+00:00",
       "upload_status": "uploaded"
@@ -3982,7 +3972,7 @@
       "file_name": "how-to-use-the-google-drive-app.md",
       "source_url": "https://support.optisigns.com/hc/en-us/articles/360049518313-How-to-Use-the-Google-Drive-App",
       "md5": "1b402f5d26630c86f10d94ca4fe85542",
-      "status": "modified",
+      "status": "unchanged",
       "gemini_file_name": "files/t11g6dixw52u",
       "gemini_uploaded_at": "2026-10-17T01:52:12.453930+00:00",
       "upload_status": "uploaded"
@@ -4225,7 +4215,7 @@
       "file_name": "how-to-use-the-google-reviews-app.md",
       "source_url": "https://support.optisigns.com/hc/en-us/articles/360037463934-How-to-Use-the-Google-Reviews-App",
       "md5": "8ec372dc25deb5dc4179bf1b60581fb1",
-      "status": "modified",
+      "status": "unchanged",
       "gemini_file_name": "files/27omlme9m99o",
       "gemini_uploaded_at": "2026-10-17T01:52:13.601338+00:00",
       "upload_status": "uploaded"
@@ -4342,28 +4332,18 @@
       "upload_status": "uploaded"
     }
   },
-  "deleted_articles": [
-    {
-      "article_id": "360050728934",
-      "title": "Difference between Instagram & Instagram Business App",
-      "slug": "difference-between-instagram-instagram-business-app",
-      "file_name": "difference-between-instagram-instagram-business-app.md",
-      "source_url": "https://support.optisigns.com/hc/en-us/articles/360050728934-Difference-between-Instagram-Instagram-Business-App",
-      "md5": "e30d29a4e80e55ffd725e074fea40b12",
-      "status": "unchanged"
-    }
-  ],
+  "deleted_articles": [],
   "stats": {
-    "new": 3,
-    "modified": 10,
-    "unchanged": 402,
-    "deleted": 1
+    "new": 0,
+    "modified": 0,
+    "unchanged": 415,
+    "deleted": 0
   },
   "last_upload_summary": {
-    "files_discovered": 13,
-    "files_uploaded": 13,
+    "files_discovered": 0,
+    "files_uploaded": 0,
     "files_failed": 0,
-    "estimated_chunks": 56,
-    "updated_at": "2026-10-17T01:52:13.601685+00:00"
+    "estimated_chunks": 0,
+    "updated_at": "2026-10-18T01:50:37.875721+00:00"
   }
 }
