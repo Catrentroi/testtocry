@@ -1,6 +1,6 @@
 {
   "source": "https://support.optisigns.com",
-  "generated_at": "2026-10-19T02:07:37.031250+00:00",
+  "generated_at": "2026-10-20T02:23:32.479787+00:00",
   "articles": {
     "56498391179667": {
       "article_id": "56498391179667",
@@ -2623,12 +2623,15 @@
     },
     "4403015887763": {
       "article_id": "4403015887763",
-      "title": "Moderate your social media feeds",
-      "slug": "moderate-your-social-media-feeds",
-      "file_name": "moderate-your-social-media-feeds.md",
-      "source_url": "https://support.optisigns.com/hc/en-us/articles/4403015887763-Moderate-your-social-media-feeds",
-      "md5": "3b67e897d134e662b8f75876a2b9f472",
-      "status": "unchanged"
+      "title": "How to Moderate Your Social Media Feeds",
+      "slug": "how-to-moderate-your-social-media-feeds",
+      "file_name": "how-to-moderate-your-social-media-feeds.md",
+      "source_url": "https://support.optisigns.com/hc/en-us/articles/4403015887763-How-to-Moderate-Your-Social-Media-Feeds",
+      "md5": "5b73b132a5b5bc7750975b652c4d943c",
+      "status": "modified",
+      "gemini_file_name": "files/vog0crcjty2d",
+      "gemini_uploaded_at": "2026-10-20T02:23:34.126787+00:00",
+      "upload_status": "uploaded"
     },
     "1500004699122": {
       "article_id": "1500004699122",
@@ -3925,12 +3928,15 @@
     },
     "360049159814": {
       "article_id": "360049159814",
-      "title": "How to use Walls.io App",
-      "slug": "how-to-use-walls-io-app",
-      "file_name": "how-to-use-walls-io-app.md",
-      "source_url": "https://support.optisigns.com/hc/en-us/articles/360049159814-How-to-use-Walls-io-App",
-      "md5": "1ea49b75c235180103fd17a497bac38c",
-      "status": "unchanged"
+      "title": "How to Use the Walls.io App",
+      "slug": "how-to-use-the-walls-io-app",
+      "file_name": "how-to-use-the-walls-io-app.md",
+      "source_url": "https://support.optisigns.com/hc/en-us/articles/360049159814-How-to-Use-the-Walls-io-App",
+      "md5": "fad9b0ae0665581683f9adcd86404012",
+      "status": "modified",
+      "gemini_file_name": "files/kth4xsogzcag",
+      "gemini_uploaded_at": "2026-10-20T02:23:35.178976+00:00",
+      "upload_status": "uploaded"
     },
     "360049156234": {
       "article_id": "360049156234",
@@ -4335,15 +4341,15 @@
   "deleted_articles": [],
   "stats": {
     "new": 0,
-    "modified": 0,
-    "unchanged": 415,
+    "modified": 2,
+    "unchanged": 413,
     "deleted": 0
   },
   "last_upload_summary": {
-    "files_discovered": 0,
-    "files_uploaded": 0,
+    "files_discovered": 2,
+    "files_uploaded": 2,
     "files_failed": 0,
-    "estimated_chunks": 0,
-    "updated_at": "2026-10-19T02:07:37.563983+00:00"
+    "estimated_chunks": 4,
+    "updated_at": "2026-10-20T02:23:35.179252+00:00"
   }
 }
