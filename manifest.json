@@ -1,6 +1,6 @@
 {
   "source": "https://support.optisigns.com",
-  "generated_at": "2026-10-20T02:23:32.479787+00:00",
+  "generated_at": "2026-10-21T02:16:48.448319+00:00",
   "articles": {
     "56498391179667": {
       "article_id": "56498391179667",
@@ -2628,7 +2628,7 @@
       "file_name": "how-to-moderate-your-social-media-feeds.md",
       "source_url": "https://support.optisigns.com/hc/en-us/articles/4403015887763-How-to-Moderate-Your-Social-Media-Feeds",
       "md5": "5b73b132a5b5bc7750975b652c4d943c",
-      "status": "modified",
+      "status": "unchanged",
       "gemini_file_name": "files/vog0crcjty2d",
       "gemini_uploaded_at": "2026-10-20T02:23:34.126787+00:00",
       "upload_status": "uploaded"
@@ -3933,7 +3933,7 @@
       "file_name": "how-to-use-the-walls-io-app.md",
       "source_url": "https://support.optisigns.com/hc/en-us/articles/360049159814-How-to-Use-the-Walls-io-App",
       "md5": "fad9b0ae0665581683f9adcd86404012",
-      "status": "modified",
+      "status": "unchanged",
       "gemini_file_name": "files/kth4xsogzcag",
       "gemini_uploaded_at": "2026-10-20T02:23:35.178976+00:00",
       "upload_status": "uploaded"
@@ -4341,15 +4341,15 @@
   "deleted_articles": [],
   "stats": {
     "new": 0,
-    "modified": 2,
-    "unchanged": 413,
+    "modified": 0,
+    "unchanged": 415,
     "deleted": 0
   },
   "last_upload_summary": {
-    "files_discovered": 2,
-    "files_uploaded": 2,
+    "files_discovered": 0,
+    "files_uploaded": 0,
     "files_failed": 0,
-    "estimated_chunks": 4,
-    "updated_at": "2026-10-20T02:23:35.179252+00:00"
+    "estimated_chunks": 0,
+    "updated_at": "2026-10-21T02:16:48.918759+00:00"
   }
 }
