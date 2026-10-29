@@ -1,6 +1,6 @@
 {
   "source": "https://support.optisigns.com",
-  "generated_at": "2026-10-28T02:49:34.932137+00:00",
+  "generated_at": "2026-10-29T03:11:09.456429+00:00",
   "articles": {
     "56498391179667": {
       "article_id": "56498391179667",
@@ -581,10 +581,12 @@
       "slug": "what-do-i-get-with-an-optisigns-free-plan",
       "file_name": "what-do-i-get-with-an-optisigns-free-plan.md",
       "source_url": "https://support.optisigns.com/hc/en-us/articles/33940834613139-What-Do-I-Get-With-an-OptiSigns-Free-Plan",
-      "md5": "d77a08040184ad05f59fd289275c4a5c",
-      "status": "unchanged",
-      "gemini_file_name": "files/8xqny9bfft6i",
-      "gemini_uploaded_at": "2026-10-09T03:23:47.973627+00:00",
+      "md5": "8a80ed02150b61a39831ca33922c2d67",
+      "status": "modified",
+      "previous_gemini_file_name": "files/8xqny9bfft6i",
+      "previous_gemini_uploaded_at": "2026-10-09T03:23:47.973627+00:00",
+      "gemini_file_name": "files/kiiufraldgdi",
+      "gemini_uploaded_at": "2026-10-29T03:11:12.058057+00:00",
       "upload_status": "uploaded"
     },
     "33382537925267": {
@@ -848,8 +850,11 @@
       "slug": "optistick",
       "file_name": "optistick.md",
       "source_url": "https://support.optisigns.com/hc/en-us/articles/27267311796243-OptiStick",
-      "md5": "bf6d68487e4b72363883bb9424643463",
-      "status": "unchanged"
+      "md5": "5175c006535171d7ec140a371bf47695",
+      "status": "modified",
+      "gemini_file_name": "files/fyal695ouhwz",
+      "gemini_uploaded_at": "2026-10-29T03:11:13.104596+00:00",
+      "upload_status": "uploaded"
     },
     "25273043501587": {
       "article_id": "25273043501587",
@@ -1156,12 +1161,15 @@
     },
     "15808407287315": {
       "article_id": "15808407287315",
-      "title": "The OptiSigns app keeps turning on the TV screen",
-      "slug": "the-optisigns-app-keeps-turning-on-the-tv-screen",
-      "file_name": "the-optisigns-app-keeps-turning-on-the-tv-screen.md",
-      "source_url": "https://support.optisigns.com/hc/en-us/articles/15808407287315-The-OptiSigns-app-keeps-turning-on-the-TV-screen",
-      "md5": "71cbf0402aa7ead0611f9a4a15d432c6",
-      "status": "unchanged"
+      "title": "Preventing the OptiSigns App from Turning On your Screen",
+      "slug": "preventing-the-optisigns-app-from-turning-on-your-screen",
+      "file_name": "preventing-the-optisigns-app-from-turning-on-your-screen.md",
+      "source_url": "https://support.optisigns.com/hc/en-us/articles/15808407287315-Preventing-the-OptiSigns-App-from-Turning-On-your-Screen",
+      "md5": "30fe88d962121bfe85d58f3b83c02e19",
+      "status": "modified",
+      "gemini_file_name": "files/ytv4ry0mby5v",
+      "gemini_uploaded_at": "2026-10-29T03:11:14.201127+00:00",
+      "upload_status": "uploaded"
     },
     "15313086319763": {
       "article_id": "15313086319763",
@@ -1681,14 +1689,16 @@
     },
     "1500000485202": {
       "article_id": "1500000485202",
-      "title": "Custom Branding Settings",
-      "slug": "custom-branding-settings",
-      "file_name": "custom-branding-settings.md",
-      "source_url": "https://support.optisigns.com/hc/en-us/articles/1500000485202-Custom-Branding-Settings",
-      "md5": "e6db42e19abb29d25e07c64833b95f5b",
-      "status": "unchanged",
-      "gemini_file_name": "files/9asnrp6owjlx",
-      "gemini_uploaded_at": "2026-07-15T01:12:39.288920+00:00",
+      "title": "Custom Branding Settings and Branded Portals",
+      "slug": "custom-branding-settings-and-branded-portals",
+      "file_name": "custom-branding-settings-and-branded-portals.md",
+      "source_url": "https://support.optisigns.com/hc/en-us/articles/1500000485202-Custom-Branding-Settings-and-Branded-Portals",
+      "md5": "6d465b066e78e49a3b123ea030a2f604",
+      "status": "modified",
+      "previous_gemini_file_name": "files/9asnrp6owjlx",
+      "previous_gemini_uploaded_at": "2026-07-15T01:12:39.288920+00:00",
+      "gemini_file_name": "files/rovifegsfea3",
+      "gemini_uploaded_at": "2026-10-29T03:11:15.288098+00:00",
       "upload_status": "uploaded"
     },
     "1500000480302": {
@@ -2102,8 +2112,11 @@
       "slug": "windows",
       "file_name": "windows.md",
       "source_url": "https://support.optisigns.com/hc/en-us/articles/360034379293-Windows",
-      "md5": "5ddc69e9dc1acd42a1723199b3a069bf",
-      "status": "unchanged"
+      "md5": "4111ea2ac9f103a2ca0e4164c4acebca",
+      "status": "modified",
+      "gemini_file_name": "files/shoyqi4bnqxf",
+      "gemini_uploaded_at": "2026-10-29T03:11:16.542987+00:00",
+      "upload_status": "uploaded"
     },
     "360034219593": {
       "article_id": "360034219593",
@@ -2363,8 +2376,11 @@
       "slug": "macos",
       "file_name": "macos.md",
       "source_url": "https://support.optisigns.com/hc/en-us/articles/360041501494-MacOS",
-      "md5": "5107b23345a50ce41b58d8f68c280b0c",
-      "status": "unchanged"
+      "md5": "ab132bb7a418a1d085017f47a9d8a209",
+      "status": "modified",
+      "gemini_file_name": "files/mgl01k7kxumn",
+      "gemini_uploaded_at": "2026-10-29T03:11:17.740411+00:00",
+      "upload_status": "uploaded"
     },
     "360035739414": {
       "article_id": "360035739414",
@@ -2510,8 +2526,11 @@
       "slug": "linux",
       "file_name": "linux.md",
       "source_url": "https://support.optisigns.com/hc/en-us/articles/360034379573-Linux",
-      "md5": "e3ac863943a9d403cf6109c89f2b804b",
-      "status": "unchanged"
+      "md5": "33f40c1e8fc7d991ad362b23fa8fdc00",
+      "status": "modified",
+      "gemini_file_name": "files/3oa0z7rpnvc8",
+      "gemini_uploaded_at": "2026-10-29T03:11:18.691838+00:00",
+      "upload_status": "uploaded"
     },
     "360016833514": {
       "article_id": "360016833514",
@@ -2639,8 +2658,11 @@
       "slug": "android-tv-chromecast",
       "file_name": "android-tv-chromecast.md",
       "source_url": "https://support.optisigns.com/hc/en-us/articles/1500004699122-Android-TV-ChromeCast",
-      "md5": "13713bbd9007b833f4f187c0fed1d261",
-      "status": "unchanged"
+      "md5": "a264371432972e3c097ec37574ab9359",
+      "status": "modified",
+      "gemini_file_name": "files/s54fcbjosuao",
+      "gemini_uploaded_at": "2026-10-29T03:11:19.979546+00:00",
+      "upload_status": "uploaded"
     },
     "360063693093": {
       "article_id": "360063693093",
@@ -3053,10 +3075,12 @@
       "slug": "fireos-tvs-amazon-insigna-toshiba-tcl",
       "file_name": "fireos-tvs-amazon-insigna-toshiba-tcl.md",
       "source_url": "https://support.optisigns.com/hc/en-us/articles/1500009042742-FireOS-TVs-Amazon-Insigna-Toshiba-TCL",
-      "md5": "afdbd2cae2717f4f975905d2cc829c6a",
-      "status": "unchanged",
-      "gemini_file_name": "files/58dpfbsdu99m",
-      "gemini_uploaded_at": "2026-09-09T01:52:09.415144+00:00",
+      "md5": "6fe5e15be7ee4a19a4bb82936fdce218",
+      "status": "modified",
+      "previous_gemini_file_name": "files/58dpfbsdu99m",
+      "previous_gemini_uploaded_at": "2026-09-09T01:52:09.415144+00:00",
+      "gemini_file_name": "files/4330ddlh5rzz",
+      "gemini_uploaded_at": "2026-10-29T03:11:21.206982+00:00",
       "upload_status": "uploaded"
     },
     "1500003244381": {
@@ -4341,15 +4365,15 @@
   "deleted_articles": [],
   "stats": {
     "new": 0,
-    "modified": 0,
-    "unchanged": 415,
+    "modified": 9,
+    "unchanged": 406,
     "deleted": 0
   },
   "last_upload_summary": {
-    "files_discovered": 0,
-    "files_uploaded": 0,
+    "files_discovered": 9,
+    "files_uploaded": 9,
     "files_failed": 0,
-    "estimated_chunks": 0,
-    "updated_at": "2026-10-28T02:49:35.556507+00:00"
+    "estimated_chunks": 22,
+    "updated_at": "2026-10-29T03:11:21.207297+00:00"
   }
 }
