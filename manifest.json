@@ -1,7 +1,19 @@
 {
   "source": "https://support.optisigns.com",
-  "generated_at": "2026-10-29T03:11:09.456429+00:00",
+  "generated_at": "2026-10-30T03:14:34.925363+00:00",
   "articles": {
+    "56946344474003": {
+      "article_id": "56946344474003",
+      "title": "LG webOS Smart TVs (Consumer Grade)",
+      "slug": "lg-webos-smart-tvs-consumer-grade",
+      "file_name": "lg-webos-smart-tvs-consumer-grade.md",
+      "source_url": "https://support.optisigns.com/hc/en-us/articles/56946344474003-LG-webOS-Smart-TVs-Consumer-Grade",
+      "md5": "7aba57d798bc8374bbb20118cdcb460d",
+      "status": "new",
+      "gemini_file_name": "files/bln91idyizna",
+      "gemini_uploaded_at": "2026-10-30T03:14:36.792577+00:00",
+      "upload_status": "uploaded"
+    },
     "56498391179667": {
       "article_id": "56498391179667",
       "title": "How to Use the Eventbrite Events App",
@@ -582,9 +594,7 @@
       "file_name": "what-do-i-get-with-an-optisigns-free-plan.md",
       "source_url": "https://support.optisigns.com/hc/en-us/articles/33940834613139-What-Do-I-Get-With-an-OptiSigns-Free-Plan",
       "md5": "8a80ed02150b61a39831ca33922c2d67",
-      "status": "modified",
-      "previous_gemini_file_name": "files/8xqny9bfft6i",
-      "previous_gemini_uploaded_at": "2026-10-09T03:23:47.973627+00:00",
+      "status": "unchanged",
       "gemini_file_name": "files/kiiufraldgdi",
       "gemini_uploaded_at": "2026-10-29T03:11:12.058057+00:00",
       "upload_status": "uploaded"
@@ -851,7 +861,7 @@
       "file_name": "optistick.md",
       "source_url": "https://support.optisigns.com/hc/en-us/articles/27267311796243-OptiStick",
       "md5": "5175c006535171d7ec140a371bf47695",
-      "status": "modified",
+      "status": "unchanged",
       "gemini_file_name": "files/fyal695ouhwz",
       "gemini_uploaded_at": "2026-10-29T03:11:13.104596+00:00",
       "upload_status": "uploaded"
@@ -1166,7 +1176,7 @@
       "file_name": "preventing-the-optisigns-app-from-turning-on-your-screen.md",
       "source_url": "https://support.optisigns.com/hc/en-us/articles/15808407287315-Preventing-the-OptiSigns-App-from-Turning-On-your-Screen",
       "md5": "30fe88d962121bfe85d58f3b83c02e19",
-      "status": "modified",
+      "status": "unchanged",
       "gemini_file_name": "files/ytv4ry0mby5v",
       "gemini_uploaded_at": "2026-10-29T03:11:14.201127+00:00",
       "upload_status": "uploaded"
@@ -1694,9 +1704,7 @@
       "file_name": "custom-branding-settings-and-branded-portals.md",
       "source_url": "https://support.optisigns.com/hc/en-us/articles/1500000485202-Custom-Branding-Settings-and-Branded-Portals",
       "md5": "6d465b066e78e49a3b123ea030a2f604",
-      "status": "modified",
-      "previous_gemini_file_name": "files/9asnrp6owjlx",
-      "previous_gemini_uploaded_at": "2026-07-15T01:12:39.288920+00:00",
+      "status": "unchanged",
       "gemini_file_name": "files/rovifegsfea3",
       "gemini_uploaded_at": "2026-10-29T03:11:15.288098+00:00",
       "upload_status": "uploaded"
@@ -2048,12 +2056,15 @@
     },
     "360039566974": {
       "article_id": "360039566974",
-      "title": "How to install OptiSigns as channel/app on Roku",
-      "slug": "how-to-install-optisigns-as-channel-app-on-roku",
-      "file_name": "how-to-install-optisigns-as-channel-app-on-roku.md",
-      "source_url": "https://support.optisigns.com/hc/en-us/articles/360039566974-How-to-install-OptiSigns-as-channel-app-on-Roku",
-      "md5": "8ddf63da7ef63c50be85cd52fb08dd4b",
-      "status": "unchanged"
+      "title": "Install OptiSigns as Channel or App on Roku",
+      "slug": "install-optisigns-as-channel-or-app-on-roku",
+      "file_name": "install-optisigns-as-channel-or-app-on-roku.md",
+      "source_url": "https://support.optisigns.com/hc/en-us/articles/360039566974-Install-OptiSigns-as-Channel-or-App-on-Roku",
+      "md5": "bfbde570da3baf54b7732096ed6d4030",
+      "status": "modified",
+      "gemini_file_name": "files/jkd56yxmimf4",
+      "gemini_uploaded_at": "2026-10-30T03:14:37.865801+00:00",
+      "upload_status": "uploaded"
     },
     "360038992973": {
       "article_id": "360038992973",
@@ -2113,7 +2124,7 @@
       "file_name": "windows.md",
       "source_url": "https://support.optisigns.com/hc/en-us/articles/360034379293-Windows",
       "md5": "4111ea2ac9f103a2ca0e4164c4acebca",
-      "status": "modified",
+      "status": "unchanged",
       "gemini_file_name": "files/shoyqi4bnqxf",
       "gemini_uploaded_at": "2026-10-29T03:11:16.542987+00:00",
       "upload_status": "uploaded"
@@ -2377,7 +2388,7 @@
       "file_name": "macos.md",
       "source_url": "https://support.optisigns.com/hc/en-us/articles/360041501494-MacOS",
       "md5": "ab132bb7a418a1d085017f47a9d8a209",
-      "status": "modified",
+      "status": "unchanged",
       "gemini_file_name": "files/mgl01k7kxumn",
       "gemini_uploaded_at": "2026-10-29T03:11:17.740411+00:00",
       "upload_status": "uploaded"
@@ -2527,7 +2538,7 @@
       "file_name": "linux.md",
       "source_url": "https://support.optisigns.com/hc/en-us/articles/360034379573-Linux",
       "md5": "33f40c1e8fc7d991ad362b23fa8fdc00",
-      "status": "modified",
+      "status": "unchanged",
       "gemini_file_name": "files/3oa0z7rpnvc8",
       "gemini_uploaded_at": "2026-10-29T03:11:18.691838+00:00",
       "upload_status": "uploaded"
@@ -2624,12 +2635,15 @@
     },
     "14726570281875": {
       "article_id": "14726570281875",
-      "title": "How to install OptiSigns on Samsung Tizen Smart TVs",
-      "slug": "how-to-install-optisigns-on-samsung-tizen-smart-tvs",
-      "file_name": "how-to-install-optisigns-on-samsung-tizen-smart-tvs.md",
-      "source_url": "https://support.optisigns.com/hc/en-us/articles/14726570281875-How-to-install-OptiSigns-on-Samsung-Tizen-Smart-TVs",
-      "md5": "4ca85dfd06d31210f7b08739cab9e5f7",
-      "status": "unchanged"
+      "title": "Installing OptiSigns on Samsung Tizen Smart TVs",
+      "slug": "installing-optisigns-on-samsung-tizen-smart-tvs",
+      "file_name": "installing-optisigns-on-samsung-tizen-smart-tvs.md",
+      "source_url": "https://support.optisigns.com/hc/en-us/articles/14726570281875-Installing-OptiSigns-on-Samsung-Tizen-Smart-TVs",
+      "md5": "9f31b6c86b8deba85708a85c53a44124",
+      "status": "modified",
+      "gemini_file_name": "files/en84e0yehzgk",
+      "gemini_uploaded_at": "2026-10-30T03:14:39.049988+00:00",
+      "upload_status": "uploaded"
     },
     "4414553099667": {
       "article_id": "4414553099667",
@@ -2659,7 +2673,7 @@
       "file_name": "android-tv-chromecast.md",
       "source_url": "https://support.optisigns.com/hc/en-us/articles/1500004699122-Android-TV-ChromeCast",
       "md5": "a264371432972e3c097ec37574ab9359",
-      "status": "modified",
+      "status": "unchanged",
       "gemini_file_name": "files/s54fcbjosuao",
       "gemini_uploaded_at": "2026-10-29T03:11:19.979546+00:00",
       "upload_status": "uploaded"
@@ -2802,8 +2816,11 @@
       "slug": "raspberry-pi",
       "file_name": "raspberry-pi.md",
       "source_url": "https://support.optisigns.com/hc/en-us/articles/360034379693-Raspberry-Pi",
-      "md5": "edf2f1afd1d2648557a74245da50fd6a",
-      "status": "unchanged"
+      "md5": "c8f5c7337a6b5e5b897cb82f3531a22b",
+      "status": "modified",
+      "gemini_file_name": "files/ryr8pve5vg99",
+      "gemini_uploaded_at": "2026-10-30T03:14:39.917817+00:00",
+      "upload_status": "uploaded"
     },
     "360016990233": {
       "article_id": "360016990233",
@@ -2865,10 +2882,12 @@
       "slug": "amazon-signage-stick",
       "file_name": "amazon-signage-stick.md",
       "source_url": "https://support.optisigns.com/hc/en-us/articles/34087061669523-Amazon-Signage-Stick",
-      "md5": "c597d9f9641b0a382d3db52383a915d6",
-      "status": "unchanged",
-      "gemini_file_name": "files/xn7vv439w0s5",
-      "gemini_uploaded_at": "2026-09-10T01:48:16.327219+00:00",
+      "md5": "0b17f258786bebe98d3ede4ab6841ab4",
+      "status": "modified",
+      "previous_gemini_file_name": "files/xn7vv439w0s5",
+      "previous_gemini_uploaded_at": "2026-09-10T01:48:16.327219+00:00",
+      "gemini_file_name": "files/kelpgzpczli0",
+      "gemini_uploaded_at": "2026-10-30T03:14:41.048924+00:00",
       "upload_status": "uploaded"
     },
     "14502723487379": {
@@ -3076,9 +3095,7 @@
       "file_name": "fireos-tvs-amazon-insigna-toshiba-tcl.md",
       "source_url": "https://support.optisigns.com/hc/en-us/articles/1500009042742-FireOS-TVs-Amazon-Insigna-Toshiba-TCL",
       "md5": "6fe5e15be7ee4a19a4bb82936fdce218",
-      "status": "modified",
-      "previous_gemini_file_name": "files/58dpfbsdu99m",
-      "previous_gemini_uploaded_at": "2026-09-09T01:52:09.415144+00:00",
+      "status": "unchanged",
       "gemini_file_name": "files/4330ddlh5rzz",
       "gemini_uploaded_at": "2026-10-29T03:11:21.206982+00:00",
       "upload_status": "uploaded"
@@ -3119,10 +3136,12 @@
       "slug": "where-to-buy-optisigns-devices",
       "file_name": "where-to-buy-optisigns-devices.md",
       "source_url": "https://support.optisigns.com/hc/en-us/articles/32129032857875-Where-to-Buy-OptiSigns-Devices",
-      "md5": "8832a24535366e163c398f3a62bc9e52",
-      "status": "unchanged",
-      "gemini_file_name": "files/4cfi6miao5cm",
-      "gemini_uploaded_at": "2026-09-24T01:55:17.126123+00:00",
+      "md5": "31e151e51701f538906aa5368fdb0717",
+      "status": "modified",
+      "previous_gemini_file_name": "files/4cfi6miao5cm",
+      "previous_gemini_uploaded_at": "2026-09-24T01:55:17.126123+00:00",
+      "gemini_file_name": "files/u0q6nkno96tv",
+      "gemini_uploaded_at": "2026-10-30T03:14:42.098031+00:00",
       "upload_status": "uploaded"
     },
     "11784310183571": {
@@ -3140,8 +3159,11 @@
       "slug": "brightsign-players",
       "file_name": "brightsign-players.md",
       "source_url": "https://support.optisigns.com/hc/en-us/articles/5090125683219-BrightSign-Players",
-      "md5": "5ece9aa7f60c0723af052157a4d7753a",
-      "status": "unchanged"
+      "md5": "7725da3fdec7aef0b0d0815ee244d29f",
+      "status": "modified",
+      "gemini_file_name": "files/kwcejjwja6uc",
+      "gemini_uploaded_at": "2026-10-30T03:14:43.311100+00:00",
+      "upload_status": "uploaded"
     },
     "4414564078995": {
       "article_id": "4414564078995",
@@ -3215,8 +3237,11 @@
       "slug": "setting-up-your-samsung-smart-signage-platform-sssp-commercial-grade",
       "file_name": "setting-up-your-samsung-smart-signage-platform-sssp-commercial-grade.md",
       "source_url": "https://support.optisigns.com/hc/en-us/articles/11116333259283-Setting-Up-Your-Samsung-Smart-Signage-Platform-SSSP-Commercial-Grade",
-      "md5": "4da43b61ee4f0d8e03c77d5bed4ddaec",
-      "status": "unchanged"
+      "md5": "a4d6df897e9d8cb6c910c34ce2770844",
+      "status": "modified",
+      "gemini_file_name": "files/ghyeek2z2vdn",
+      "gemini_uploaded_at": "2026-10-30T03:14:44.439530+00:00",
+      "upload_status": "uploaded"
     },
     "11032964830227": {
       "article_id": "11032964830227",
@@ -3281,8 +3306,11 @@
       "slug": "lg-webos-signage-commercial-grade",
       "file_name": "lg-webos-signage-commercial-grade.md",
       "source_url": "https://support.optisigns.com/hc/en-us/articles/4414496579475-LG-WebOS-Signage-Commercial-Grade",
-      "md5": "1fae7de7fc17e6055488e502604c0a4a",
-      "status": "unchanged"
+      "md5": "a75695106c16ca0e6feba1d69e6f4704",
+      "status": "modified",
+      "gemini_file_name": "files/wj48ovy9xf79",
+      "gemini_uploaded_at": "2026-10-30T03:14:45.273516+00:00",
+      "upload_status": "uploaded"
     },
     "360016253694": {
       "article_id": "360016253694",
@@ -4364,16 +4392,16 @@
   },
   "deleted_articles": [],
   "stats": {
-    "new": 0,
-    "modified": 9,
-    "unchanged": 406,
+    "new": 1,
+    "modified": 8,
+    "unchanged": 407,
     "deleted": 0
   },
   "last_upload_summary": {
     "files_discovered": 9,
     "files_uploaded": 9,
     "files_failed": 0,
-    "estimated_chunks": 22,
-    "updated_at": "2026-10-29T03:11:21.207297+00:00"
+    "estimated_chunks": 33,
+    "updated_at": "2026-10-30T03:14:45.273894+00:00"
   }
 }
