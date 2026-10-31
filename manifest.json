@@ -1,7 +1,19 @@
 {
   "source": "https://support.optisigns.com",
-  "generated_at": "2026-10-30T03:14:34.925363+00:00",
+  "generated_at": "2026-10-31T02:58:53.096360+00:00",
   "articles": {
+    "56987330525587": {
+      "article_id": "56987330525587",
+      "title": "Connect ChatGPT, Claude and Grok to OptiSigns Digital Signage with AI Connector",
+      "slug": "connect-chatgpt-claude-and-grok-to-optisigns-digital-signage-with-ai-connector",
+      "file_name": "connect-chatgpt-claude-and-grok-to-optisigns-digital-signage-with-ai-connector.md",
+      "source_url": "https://support.optisigns.com/hc/en-us/articles/56987330525587-Connect-ChatGPT-Claude-and-Grok-to-OptiSigns-Digital-Signage-with-AI-Connector",
+      "md5": "dd23eb33b62152eeb28994323e98c5b7",
+      "status": "new",
+      "gemini_file_name": "files/3cuero03lyy1",
+      "gemini_uploaded_at": "2026-10-31T02:58:54.972821+00:00",
+      "upload_status": "uploaded"
+    },
     "56946344474003": {
       "article_id": "56946344474003",
       "title": "LG webOS Smart TVs (Consumer Grade)",
@@ -9,7 +21,7 @@
       "file_name": "lg-webos-smart-tvs-consumer-grade.md",
       "source_url": "https://support.optisigns.com/hc/en-us/articles/56946344474003-LG-webOS-Smart-TVs-Consumer-Grade",
       "md5": "7aba57d798bc8374bbb20118cdcb460d",
-      "status": "new",
+      "status": "unchanged",
       "gemini_file_name": "files/bln91idyizna",
       "gemini_uploaded_at": "2026-10-30T03:14:36.792577+00:00",
       "upload_status": "uploaded"
@@ -1205,10 +1217,12 @@
       "slug": "build-integrations-using-the-optisigns-enterprise-app",
       "file_name": "build-integrations-using-the-optisigns-enterprise-app.md",
       "source_url": "https://support.optisigns.com/hc/en-us/articles/13320135306515-Build-Integrations-Using-the-OptiSigns-Enterprise-App",
-      "md5": "f69dfa8c58d6db83a649b1dfe1256908",
-      "status": "unchanged",
-      "gemini_file_name": "files/t8h54fbebk2x",
-      "gemini_uploaded_at": "2026-10-27T02:40:13.929061+00:00",
+      "md5": "bce11a4fd11766a2121f6e9005be0be5",
+      "status": "modified",
+      "previous_gemini_file_name": "files/t8h54fbebk2x",
+      "previous_gemini_uploaded_at": "2026-10-27T02:40:13.929061+00:00",
+      "gemini_file_name": "files/relk07q58uel",
+      "gemini_uploaded_at": "2026-10-31T02:58:55.793079+00:00",
       "upload_status": "uploaded"
     },
     "13097501958291": {
@@ -1901,8 +1915,11 @@
       "slug": "how-to-set-up-an-instagram-business-creator-account",
       "file_name": "how-to-set-up-an-instagram-business-creator-account.md",
       "source_url": "https://support.optisigns.com/hc/en-us/articles/360051745633-How-to-Set-up-an-Instagram-Business-Creator-account",
-      "md5": "842d99f9506390bf7ae8059f2602c4f0",
-      "status": "unchanged"
+      "md5": "c46bdeec161022878222a485e4dfa1ee",
+      "status": "modified",
+      "gemini_file_name": "files/6usi9mw16ufc",
+      "gemini_uploaded_at": "2026-10-31T02:58:56.565294+00:00",
+      "upload_status": "uploaded"
     },
     "360050602413": {
       "article_id": "360050602413",
@@ -1930,14 +1947,16 @@
     },
     "360047275934": {
       "article_id": "360047275934",
-      "title": "Whitelist OptiSigns IP addresses & ports",
+      "title": "Whitelist OptiSigns IP Addresses & Ports",
       "slug": "whitelist-optisigns-ip-addresses-ports",
       "file_name": "whitelist-optisigns-ip-addresses-ports.md",
-      "source_url": "https://support.optisigns.com/hc/en-us/articles/360047275934-Whitelist-OptiSigns-IP-addresses-ports",
-      "md5": "984fd61e2d6636d6f9c5fa7f0f77eb20",
-      "status": "unchanged",
-      "gemini_file_name": "files/bxqkterqpr6a",
-      "gemini_uploaded_at": "2026-09-18T01:53:06.047563+00:00",
+      "source_url": "https://support.optisigns.com/hc/en-us/articles/360047275934-Whitelist-OptiSigns-IP-Addresses-Ports",
+      "md5": "087abfaf9b95c8fe4dbc1305903683d4",
+      "status": "modified",
+      "previous_gemini_file_name": "files/bxqkterqpr6a",
+      "previous_gemini_uploaded_at": "2026-09-18T01:53:06.047563+00:00",
+      "gemini_file_name": "files/dciskwgqwco9",
+      "gemini_uploaded_at": "2026-10-31T02:58:57.732301+00:00",
       "upload_status": "uploaded"
     },
     "360047232054": {
@@ -2061,7 +2080,7 @@
       "file_name": "install-optisigns-as-channel-or-app-on-roku.md",
       "source_url": "https://support.optisigns.com/hc/en-us/articles/360039566974-Install-OptiSigns-as-Channel-or-App-on-Roku",
       "md5": "bfbde570da3baf54b7732096ed6d4030",
-      "status": "modified",
+      "status": "unchanged",
       "gemini_file_name": "files/jkd56yxmimf4",
       "gemini_uploaded_at": "2026-10-30T03:14:37.865801+00:00",
       "upload_status": "uploaded"
@@ -2570,10 +2589,12 @@
       "slug": "how-to-use-the-instagram-app",
       "file_name": "how-to-use-the-instagram-app.md",
       "source_url": "https://support.optisigns.com/hc/en-us/articles/360016388733-How-to-Use-the-Instagram-App",
-      "md5": "bf9ac34a2fd8e79a8adf910f0841df4e",
-      "status": "unchanged",
-      "gemini_file_name": "files/o80p4ifoje39",
-      "gemini_uploaded_at": "2026-10-17T01:52:05.644135+00:00",
+      "md5": "ff0093fd8ee2081aec1825140ca30197",
+      "status": "modified",
+      "previous_gemini_file_name": "files/o80p4ifoje39",
+      "previous_gemini_uploaded_at": "2026-10-17T01:52:05.644135+00:00",
+      "gemini_file_name": "files/0ph2m457z7ql",
+      "gemini_uploaded_at": "2026-10-31T02:58:58.672520+00:00",
       "upload_status": "uploaded"
     },
     "360016219114": {
@@ -2640,7 +2661,7 @@
       "file_name": "installing-optisigns-on-samsung-tizen-smart-tvs.md",
       "source_url": "https://support.optisigns.com/hc/en-us/articles/14726570281875-Installing-OptiSigns-on-Samsung-Tizen-Smart-TVs",
       "md5": "9f31b6c86b8deba85708a85c53a44124",
-      "status": "modified",
+      "status": "unchanged",
       "gemini_file_name": "files/en84e0yehzgk",
       "gemini_uploaded_at": "2026-10-30T03:14:39.049988+00:00",
       "upload_status": "uploaded"
@@ -2817,7 +2838,7 @@
       "file_name": "raspberry-pi.md",
       "source_url": "https://support.optisigns.com/hc/en-us/articles/360034379693-Raspberry-Pi",
       "md5": "c8f5c7337a6b5e5b897cb82f3531a22b",
-      "status": "modified",
+      "status": "unchanged",
       "gemini_file_name": "files/ryr8pve5vg99",
       "gemini_uploaded_at": "2026-10-30T03:14:39.917817+00:00",
       "upload_status": "uploaded"
@@ -2883,9 +2904,7 @@
       "file_name": "amazon-signage-stick.md",
       "source_url": "https://support.optisigns.com/hc/en-us/articles/34087061669523-Amazon-Signage-Stick",
       "md5": "0b17f258786bebe98d3ede4ab6841ab4",
-      "status": "modified",
-      "previous_gemini_file_name": "files/xn7vv439w0s5",
-      "previous_gemini_uploaded_at": "2026-09-10T01:48:16.327219+00:00",
+      "status": "unchanged",
       "gemini_file_name": "files/kelpgzpczli0",
       "gemini_uploaded_at": "2026-10-30T03:14:41.048924+00:00",
       "upload_status": "uploaded"
@@ -3137,9 +3156,7 @@
       "file_name": "where-to-buy-optisigns-devices.md",
       "source_url": "https://support.optisigns.com/hc/en-us/articles/32129032857875-Where-to-Buy-OptiSigns-Devices",
       "md5": "31e151e51701f538906aa5368fdb0717",
-      "status": "modified",
-      "previous_gemini_file_name": "files/4cfi6miao5cm",
-      "previous_gemini_uploaded_at": "2026-09-24T01:55:17.126123+00:00",
+      "status": "unchanged",
       "gemini_file_name": "files/u0q6nkno96tv",
       "gemini_uploaded_at": "2026-10-30T03:14:42.098031+00:00",
       "upload_status": "uploaded"
@@ -3160,7 +3177,7 @@
       "file_name": "brightsign-players.md",
       "source_url": "https://support.optisigns.com/hc/en-us/articles/5090125683219-BrightSign-Players",
       "md5": "7725da3fdec7aef0b0d0815ee244d29f",
-      "status": "modified",
+      "status": "unchanged",
       "gemini_file_name": "files/kwcejjwja6uc",
       "gemini_uploaded_at": "2026-10-30T03:14:43.311100+00:00",
       "upload_status": "uploaded"
@@ -3238,7 +3255,7 @@
       "file_name": "setting-up-your-samsung-smart-signage-platform-sssp-commercial-grade.md",
       "source_url": "https://support.optisigns.com/hc/en-us/articles/11116333259283-Setting-Up-Your-Samsung-Smart-Signage-Platform-SSSP-Commercial-Grade",
       "md5": "a4d6df897e9d8cb6c910c34ce2770844",
-      "status": "modified",
+      "status": "unchanged",
       "gemini_file_name": "files/ghyeek2z2vdn",
       "gemini_uploaded_at": "2026-10-30T03:14:44.439530+00:00",
       "upload_status": "uploaded"
@@ -3307,7 +3324,7 @@
       "file_name": "lg-webos-signage-commercial-grade.md",
       "source_url": "https://support.optisigns.com/hc/en-us/articles/4414496579475-LG-WebOS-Signage-Commercial-Grade",
       "md5": "a75695106c16ca0e6feba1d69e6f4704",
-      "status": "modified",
+      "status": "unchanged",
       "gemini_file_name": "files/wj48ovy9xf79",
       "gemini_uploaded_at": "2026-10-30T03:14:45.273516+00:00",
       "upload_status": "uploaded"
@@ -3912,10 +3929,12 @@
       "slug": "how-to-use-youtube-with-optisigns",
       "file_name": "how-to-use-youtube-with-optisigns.md",
       "source_url": "https://support.optisigns.com/hc/en-us/articles/360051014713-How-to-Use-YouTube-with-OptiSigns",
-      "md5": "20137bed0b4c2d4a268cfda240d3ed9b",
-      "status": "unchanged",
-      "gemini_file_name": "files/3qmxhri28ybc",
-      "gemini_uploaded_at": "2026-09-25T02:12:05.626989+00:00",
+      "md5": "b26c564076681d4f29f024c1aa02d2a1",
+      "status": "modified",
+      "previous_gemini_file_name": "files/3qmxhri28ybc",
+      "previous_gemini_uploaded_at": "2026-09-25T02:12:05.626989+00:00",
+      "gemini_file_name": "files/j69u7dkqjpii",
+      "gemini_uploaded_at": "2026-10-31T02:58:59.843869+00:00",
       "upload_status": "uploaded"
     },
     "360049875794": {
@@ -4393,15 +4412,15 @@
   "deleted_articles": [],
   "stats": {
     "new": 1,
-    "modified": 8,
-    "unchanged": 407,
+    "modified": 5,
+    "unchanged": 411,
     "deleted": 0
   },
   "last_upload_summary": {
-    "files_discovered": 9,
-    "files_uploaded": 9,
+    "files_discovered": 6,
+    "files_uploaded": 6,
     "files_failed": 0,
-    "estimated_chunks": 33,
-    "updated_at": "2026-10-30T03:14:45.273894+00:00"
+    "estimated_chunks": 19,
+    "updated_at": "2026-10-31T02:58:59.844192+00:00"
   }
 }
