@@ -1,6 +1,6 @@
 {
   "source": "https://support.optisigns.com",
-  "generated_at": "2026-11-02T03:01:09.056986+00:00",
+  "generated_at": "2026-11-03T04:19:48.006938+00:00",
   "articles": {
     "56987330525587": {
       "article_id": "56987330525587",
@@ -1274,10 +1274,12 @@
       "slug": "data-residency-and-optisigns",
       "file_name": "data-residency-and-optisigns.md",
       "source_url": "https://support.optisigns.com/hc/en-us/articles/9169378546195-Data-Residency-and-OptiSigns",
-      "md5": "1908d96212a1e2c5c082fefe38589a48",
-      "status": "unchanged",
-      "gemini_file_name": "files/xqmafnm7z7he",
-      "gemini_uploaded_at": "2026-09-04T01:42:05.532801+00:00",
+      "md5": "337706f907a898e9bac9952094479c2a",
+      "status": "modified",
+      "previous_gemini_file_name": "files/xqmafnm7z7he",
+      "previous_gemini_uploaded_at": "2026-09-04T01:42:05.532801+00:00",
+      "gemini_file_name": "files/zbddw5j16na2",
+      "gemini_uploaded_at": "2026-11-03T04:19:49.562402+00:00",
       "upload_status": "uploaded"
     },
     "9061950942995": {
@@ -4404,15 +4406,15 @@
   "deleted_articles": [],
   "stats": {
     "new": 0,
-    "modified": 0,
-    "unchanged": 417,
+    "modified": 1,
+    "unchanged": 416,
     "deleted": 0
   },
   "last_upload_summary": {
-    "files_discovered": 0,
-    "files_uploaded": 0,
+    "files_discovered": 1,
+    "files_uploaded": 1,
     "files_failed": 0,
-    "estimated_chunks": 0,
-    "updated_at": "2026-11-02T03:01:09.729087+00:00"
+    "estimated_chunks": 1,
+    "updated_at": "2026-11-03T04:19:49.562656+00:00"
   }
 }
