@@ -1,6 +1,6 @@
 {
   "source": "https://support.optisigns.com",
-  "generated_at": "2026-11-04T03:38:42.194539+00:00",
+  "generated_at": "2026-11-05T03:57:45.637110+00:00",
   "articles": {
     "56987330525587": {
       "article_id": "56987330525587",
@@ -12,18 +12,6 @@
       "status": "unchanged",
       "gemini_file_name": "files/3cuero03lyy1",
       "gemini_uploaded_at": "2026-10-31T02:58:54.972821+00:00",
-      "upload_status": "uploaded"
-    },
-    "56946344474003": {
-      "article_id": "56946344474003",
-      "title": "LG webOS Smart TVs (Consumer Grade)",
-      "slug": "lg-webos-smart-tvs-consumer-grade",
-      "file_name": "lg-webos-smart-tvs-consumer-grade.md",
-      "source_url": "https://support.optisigns.com/hc/en-us/articles/56946344474003-LG-webOS-Smart-TVs-Consumer-Grade",
-      "md5": "7aba57d798bc8374bbb20118cdcb460d",
-      "status": "unchanged",
-      "gemini_file_name": "files/bln91idyizna",
-      "gemini_uploaded_at": "2026-10-30T03:14:36.792577+00:00",
       "upload_status": "uploaded"
     },
     "56498391179667": {
@@ -1097,15 +1085,6 @@
       "md5": "87e5d98f8127a9d8e8e8316d9b10419d",
       "status": "unchanged"
     },
-    "18470994953363": {
-      "article_id": "18470994953363",
-      "title": "How to keep OptiSigns running on Fire Stick",
-      "slug": "how-to-keep-optisigns-running-on-fire-stick",
-      "file_name": "how-to-keep-optisigns-running-on-fire-stick.md",
-      "source_url": "https://support.optisigns.com/hc/en-us/articles/18470994953363-How-to-keep-OptiSigns-running-on-Fire-Stick",
-      "md5": "d62f63e1eb52cd838379b444f64abc55",
-      "status": "unchanged"
-    },
     "18399492388371": {
       "article_id": "18399492388371",
       "title": "How to Customize the Thumbnail of Files, Assets, and Folders",
@@ -1679,15 +1658,6 @@
       "gemini_uploaded_at": "2026-09-29T03:01:20.186093+00:00",
       "upload_status": "uploaded"
     },
-    "1500000941981": {
-      "article_id": "1500000941981",
-      "title": "How to allow the OptiSigns app to access local storage on a Fire Stick",
-      "slug": "how-to-allow-the-optisigns-app-to-access-local-storage-on-a-fire-stick",
-      "file_name": "how-to-allow-the-optisigns-app-to-access-local-storage-on-a-fire-stick.md",
-      "source_url": "https://support.optisigns.com/hc/en-us/articles/1500000941981-How-to-allow-the-OptiSigns-app-to-access-local-storage-on-a-Fire-Stick",
-      "md5": "c018b82c9b5aa0f8199f7707360d0020",
-      "status": "unchanged"
-    },
     "360059386254": {
       "article_id": "360059386254",
       "title": "How to Use the YouTube Playlist App with OptiSigns",
@@ -1808,15 +1778,6 @@
       "md5": "baca787bc63df1f03ea75021f8341fcf",
       "status": "unchanged"
     },
-    "360055328454": {
-      "article_id": "360055328454",
-      "title": "How to Enable/Disable Auto Update for OptiSigns app on Fire TV",
-      "slug": "how-to-enable-disable-auto-update-for-optisigns-app-on-fire-tv",
-      "file_name": "how-to-enable-disable-auto-update-for-optisigns-app-on-fire-tv.md",
-      "source_url": "https://support.optisigns.com/hc/en-us/articles/360055328454-How-to-Enable-Disable-Auto-Update-for-OptiSigns-app-on-Fire-TV",
-      "md5": "ead659afc5f61e14eeab9be7daeac1bd",
-      "status": "unchanged"
-    },
     "360057146573": {
       "article_id": "360057146573",
       "title": "Advanced: How to Manually Install & Activate OptiSigns Remote Agent on Linux or Raspberry Pi",
@@ -1824,15 +1785,6 @@
       "file_name": "advanced-how-to-manually-install-activate-optisigns-remote-agent-on-linux-or-raspberry-pi.md",
       "source_url": "https://support.optisigns.com/hc/en-us/articles/360057146573-Advanced-How-to-Manually-Install-Activate-OptiSigns-Remote-Agent-on-Linux-or-Raspberry-Pi",
       "md5": "eb2882dd8580810ec901da6aa77c2355",
-      "status": "unchanged"
-    },
-    "360055080914": {
-      "article_id": "360055080914",
-      "title": "How to Use USB HUB Adaptor Connect to Your Fire Stick",
-      "slug": "how-to-use-usb-hub-adaptor-connect-to-your-fire-stick",
-      "file_name": "how-to-use-usb-hub-adaptor-connect-to-your-fire-stick.md",
-      "source_url": "https://support.optisigns.com/hc/en-us/articles/360055080914-How-to-Use-USB-HUB-Adaptor-Connect-to-Your-Fire-Stick",
-      "md5": "cb1ebe6fc8883e92c471aa5fc1833c1e",
       "status": "unchanged"
     },
     "360056655633": {
@@ -1860,51 +1812,6 @@
       "file_name": "optisigns-side-menu-options.md",
       "source_url": "https://support.optisigns.com/hc/en-us/articles/360056090593-OptiSigns-Side-Menu-Options",
       "md5": "d7ef23c8eeb1e775bfabb3b7ccc0a420",
-      "status": "unchanged"
-    },
-    "360054298754": {
-      "article_id": "360054298754",
-      "title": "How to Factory Reset Your Fire Stick device",
-      "slug": "how-to-factory-reset-your-fire-stick-device",
-      "file_name": "how-to-factory-reset-your-fire-stick-device.md",
-      "source_url": "https://support.optisigns.com/hc/en-us/articles/360054298754-How-to-Factory-Reset-Your-Fire-Stick-device",
-      "md5": "f3ee07142344e4300d973de09ab1fbdd",
-      "status": "unchanged"
-    },
-    "360056087613": {
-      "article_id": "360056087613",
-      "title": "How to Clear Cache on Your Fire Stick device",
-      "slug": "how-to-clear-cache-on-your-fire-stick-device",
-      "file_name": "how-to-clear-cache-on-your-fire-stick-device.md",
-      "source_url": "https://support.optisigns.com/hc/en-us/articles/360056087613-How-to-Clear-Cache-on-Your-Fire-Stick-device",
-      "md5": "6fa59ab32d659bf974008eb30a0a1f8b",
-      "status": "unchanged"
-    },
-    "360056086653": {
-      "article_id": "360056086653",
-      "title": "How to Change Time Zone on Your Fire Stick device",
-      "slug": "how-to-change-time-zone-on-your-fire-stick-device",
-      "file_name": "how-to-change-time-zone-on-your-fire-stick-device.md",
-      "source_url": "https://support.optisigns.com/hc/en-us/articles/360056086653-How-to-Change-Time-Zone-on-Your-Fire-Stick-device",
-      "md5": "e3956d0191226b68ec4d57b5949aa854",
-      "status": "unchanged"
-    },
-    "360053198573": {
-      "article_id": "360053198573",
-      "title": "How to uninstall/reinstall OptiSigns app from your Fire Stick device",
-      "slug": "how-to-uninstall-reinstall-optisigns-app-from-your-fire-stick-device",
-      "file_name": "how-to-uninstall-reinstall-optisigns-app-from-your-fire-stick-device.md",
-      "source_url": "https://support.optisigns.com/hc/en-us/articles/360053198573-How-to-uninstall-reinstall-OptiSigns-app-from-your-Fire-Stick-device",
-      "md5": "bff9c42c87b7d2db32bd8da9b267e952",
-      "status": "unchanged"
-    },
-    "360052361293": {
-      "article_id": "360052361293",
-      "title": "How to Update Fire TV OS to latest version",
-      "slug": "how-to-update-fire-tv-os-to-latest-version",
-      "file_name": "how-to-update-fire-tv-os-to-latest-version.md",
-      "source_url": "https://support.optisigns.com/hc/en-us/articles/360052361293-How-to-Update-Fire-TV-OS-to-latest-version",
-      "md5": "18a559a24988efe7e5d94678c5b4954d",
       "status": "unchanged"
     },
     "360051745633": {
@@ -2218,15 +2125,6 @@
       "gemini_file_name": "files/d8udn24innr7",
       "gemini_uploaded_at": "2026-09-11T01:47:00.045289+00:00",
       "upload_status": "uploaded"
-    },
-    "360016313754": {
-      "article_id": "360016313754",
-      "title": "How to Install an APK file on your Fire TV",
-      "slug": "how-to-install-an-apk-file-on-your-fire-tv",
-      "file_name": "how-to-install-an-apk-file-on-your-fire-tv.md",
-      "source_url": "https://support.optisigns.com/hc/en-us/articles/360016313754-How-to-Install-an-APK-file-on-your-Fire-TV",
-      "md5": "46844b1f4726d44a62f5ea8be93b93cd",
-      "status": "unchanged"
     },
     "360016252654": {
       "article_id": "360016252654",
@@ -2558,27 +2456,6 @@
       "gemini_uploaded_at": "2026-10-29T03:11:18.691838+00:00",
       "upload_status": "uploaded"
     },
-    "360016833514": {
-      "article_id": "360016833514",
-      "title": "Changing screen's orientation (portrait & landscape)",
-      "slug": "changing-screen-s-orientation-portrait-landscape",
-      "file_name": "changing-screen-s-orientation-portrait-landscape.md",
-      "source_url": "https://support.optisigns.com/hc/en-us/articles/360016833514-Changing-screen-s-orientation-portrait-landscape",
-      "md5": "5600301b71b13c22be140b25425003c3",
-      "status": "unchanged",
-      "gemini_file_name": "files/t2ucqlys49hi",
-      "gemini_uploaded_at": "2026-09-18T01:53:06.952593+00:00",
-      "upload_status": "uploaded"
-    },
-    "360016485633": {
-      "article_id": "360016485633",
-      "title": "How can I remotely start/restart OptiSigns app on Fire TV?",
-      "slug": "how-can-i-remotely-start-restart-optisigns-app-on-fire-tv",
-      "file_name": "how-can-i-remotely-start-restart-optisigns-app-on-fire-tv.md",
-      "source_url": "https://support.optisigns.com/hc/en-us/articles/360016485633-How-can-I-remotely-start-restart-OptiSigns-app-on-Fire-TV",
-      "md5": "2e837f981243025ca11d6dde934a9a1a",
-      "status": "unchanged"
-    },
     "360016388733": {
       "article_id": "360016388733",
       "title": "How to Use the Instagram App",
@@ -2848,12 +2725,15 @@
     },
     "360016374813": {
       "article_id": "360016374813",
-      "title": "Set up & add a screen",
-      "slug": "set-up-add-a-screen",
-      "file_name": "set-up-add-a-screen.md",
-      "source_url": "https://support.optisigns.com/hc/en-us/articles/360016374813-Set-up-add-a-screen",
-      "md5": "f5f5428de4b4e952ecae7e77271fd10d",
-      "status": "unchanged"
+      "title": "Set Up, Add, or Unpair a Screen",
+      "slug": "set-up-add-or-unpair-a-screen",
+      "file_name": "set-up-add-or-unpair-a-screen.md",
+      "source_url": "https://support.optisigns.com/hc/en-us/articles/360016374813-Set-Up-Add-or-Unpair-a-Screen",
+      "md5": "6949e270e31e00958c3022273628922a",
+      "status": "modified",
+      "gemini_file_name": "files/trhfc0abk99d",
+      "gemini_uploaded_at": "2026-11-05T03:57:48.351504+00:00",
+      "upload_status": "uploaded"
     },
     "46299245284243": {
       "article_id": "46299245284243",
@@ -2931,15 +2811,6 @@
       "file_name": "how-to-install-optisigns-as-an-apk-file-on-android-devices.md",
       "source_url": "https://support.optisigns.com/hc/en-us/articles/1500011891542-How-to-Install-OptiSigns-as-an-APK-File-on-Android-Devices",
       "md5": "7ec15850fd6c6173151d09ffa60e3151",
-      "status": "unchanged"
-    },
-    "360058700673": {
-      "article_id": "360058700673",
-      "title": "How to unpair a device, screen?",
-      "slug": "how-to-unpair-a-device-screen",
-      "file_name": "how-to-unpair-a-device-screen.md",
-      "source_url": "https://support.optisigns.com/hc/en-us/articles/360058700673-How-to-unpair-a-device-screen",
-      "md5": "93a749b929c54f6d0bd9e8bcf149a0e4",
       "status": "unchanged"
     },
     "360042424294": {
@@ -3022,14 +2893,16 @@
     },
     "360016174554": {
       "article_id": "360016174554",
-      "title": "Amazon Firestick",
-      "slug": "amazon-firestick",
-      "file_name": "amazon-firestick.md",
-      "source_url": "https://support.optisigns.com/hc/en-us/articles/360016174554-Amazon-Firestick",
-      "md5": "62a158c1b1962e89c9716144e1631e9c",
-      "status": "unchanged",
-      "gemini_file_name": "files/32ugt6dx5jm5",
-      "gemini_uploaded_at": "2026-08-26T00:34:05.146673+00:00",
+      "title": "How to Set Up and Manage OptiSigns on Amazon FireTV and Firesticks",
+      "slug": "how-to-set-up-and-manage-optisigns-on-amazon-firetv-and-firesticks",
+      "file_name": "how-to-set-up-and-manage-optisigns-on-amazon-firetv-and-firesticks.md",
+      "source_url": "https://support.optisigns.com/hc/en-us/articles/360016174554-How-to-Set-Up-and-Manage-OptiSigns-on-Amazon-FireTV-and-Firesticks",
+      "md5": "60c1d13fb28273e342bb8c55007dfdbb",
+      "status": "modified",
+      "previous_gemini_file_name": "files/32ugt6dx5jm5",
+      "previous_gemini_uploaded_at": "2026-08-26T00:34:05.146673+00:00",
+      "gemini_file_name": "files/yfisizyiwz08",
+      "gemini_uploaded_at": "2026-11-05T03:57:49.916750+00:00",
       "upload_status": "uploaded"
     },
     "44650391786131": {
@@ -4401,18 +4274,151 @@
       "upload_status": "uploaded"
     }
   },
-  "deleted_articles": [],
+  "deleted_articles": [
+    {
+      "article_id": "56946344474003",
+      "title": "LG webOS Smart TVs (Consumer Grade)",
+      "slug": "lg-webos-smart-tvs-consumer-grade",
+      "file_name": "lg-webos-smart-tvs-consumer-grade.md",
+      "source_url": "https://support.optisigns.com/hc/en-us/articles/56946344474003-LG-webOS-Smart-TVs-Consumer-Grade",
+      "md5": "7aba57d798bc8374bbb20118cdcb460d",
+      "status": "unchanged",
+      "gemini_file_name": "files/bln91idyizna",
+      "gemini_uploaded_at": "2026-10-30T03:14:36.792577+00:00",
+      "upload_status": "uploaded"
+    },
+    {
+      "article_id": "18470994953363",
+      "title": "How to keep OptiSigns running on Fire Stick",
+      "slug": "how-to-keep-optisigns-running-on-fire-stick",
+      "file_name": "how-to-keep-optisigns-running-on-fire-stick.md",
+      "source_url": "https://support.optisigns.com/hc/en-us/articles/18470994953363-How-to-keep-OptiSigns-running-on-Fire-Stick",
+      "md5": "d62f63e1eb52cd838379b444f64abc55",
+      "status": "unchanged"
+    },
+    {
+      "article_id": "1500000941981",
+      "title": "How to allow the OptiSigns app to access local storage on a Fire Stick",
+      "slug": "how-to-allow-the-optisigns-app-to-access-local-storage-on-a-fire-stick",
+      "file_name": "how-to-allow-the-optisigns-app-to-access-local-storage-on-a-fire-stick.md",
+      "source_url": "https://support.optisigns.com/hc/en-us/articles/1500000941981-How-to-allow-the-OptiSigns-app-to-access-local-storage-on-a-Fire-Stick",
+      "md5": "c018b82c9b5aa0f8199f7707360d0020",
+      "status": "unchanged"
+    },
+    {
+      "article_id": "360055328454",
+      "title": "How to Enable/Disable Auto Update for OptiSigns app on Fire TV",
+      "slug": "how-to-enable-disable-auto-update-for-optisigns-app-on-fire-tv",
+      "file_name": "how-to-enable-disable-auto-update-for-optisigns-app-on-fire-tv.md",
+      "source_url": "https://support.optisigns.com/hc/en-us/articles/360055328454-How-to-Enable-Disable-Auto-Update-for-OptiSigns-app-on-Fire-TV",
+      "md5": "ead659afc5f61e14eeab9be7daeac1bd",
+      "status": "unchanged"
+    },
+    {
+      "article_id": "360055080914",
+      "title": "How to Use USB HUB Adaptor Connect to Your Fire Stick",
+      "slug": "how-to-use-usb-hub-adaptor-connect-to-your-fire-stick",
+      "file_name": "how-to-use-usb-hub-adaptor-connect-to-your-fire-stick.md",
+      "source_url": "https://support.optisigns.com/hc/en-us/articles/360055080914-How-to-Use-USB-HUB-Adaptor-Connect-to-Your-Fire-Stick",
+      "md5": "cb1ebe6fc8883e92c471aa5fc1833c1e",
+      "status": "unchanged"
+    },
+    {
+      "article_id": "360054298754",
+      "title": "How to Factory Reset Your Fire Stick device",
+      "slug": "how-to-factory-reset-your-fire-stick-device",
+      "file_name": "how-to-factory-reset-your-fire-stick-device.md",
+      "source_url": "https://support.optisigns.com/hc/en-us/articles/360054298754-How-to-Factory-Reset-Your-Fire-Stick-device",
+      "md5": "f3ee07142344e4300d973de09ab1fbdd",
+      "status": "unchanged"
+    },
+    {
+      "article_id": "360056087613",
+      "title": "How to Clear Cache on Your Fire Stick device",
+      "slug": "how-to-clear-cache-on-your-fire-stick-device",
+      "file_name": "how-to-clear-cache-on-your-fire-stick-device.md",
+      "source_url": "https://support.optisigns.com/hc/en-us/articles/360056087613-How-to-Clear-Cache-on-Your-Fire-Stick-device",
+      "md5": "6fa59ab32d659bf974008eb30a0a1f8b",
+      "status": "unchanged"
+    },
+    {
+      "article_id": "360056086653",
+      "title": "How to Change Time Zone on Your Fire Stick device",
+      "slug": "how-to-change-time-zone-on-your-fire-stick-device",
+      "file_name": "how-to-change-time-zone-on-your-fire-stick-device.md",
+      "source_url": "https://support.optisigns.com/hc/en-us/articles/360056086653-How-to-Change-Time-Zone-on-Your-Fire-Stick-device",
+      "md5": "e3956d0191226b68ec4d57b5949aa854",
+      "status": "unchanged"
+    },
+    {
+      "article_id": "360053198573",
+      "title": "How to uninstall/reinstall OptiSigns app from your Fire Stick device",
+      "slug": "how-to-uninstall-reinstall-optisigns-app-from-your-fire-stick-device",
+      "file_name": "how-to-uninstall-reinstall-optisigns-app-from-your-fire-stick-device.md",
+      "source_url": "https://support.optisigns.com/hc/en-us/articles/360053198573-How-to-uninstall-reinstall-OptiSigns-app-from-your-Fire-Stick-device",
+      "md5": "bff9c42c87b7d2db32bd8da9b267e952",
+      "status": "unchanged"
+    },
+    {
+      "article_id": "360052361293",
+      "title": "How to Update Fire TV OS to latest version",
+      "slug": "how-to-update-fire-tv-os-to-latest-version",
+      "file_name": "how-to-update-fire-tv-os-to-latest-version.md",
+      "source_url": "https://support.optisigns.com/hc/en-us/articles/360052361293-How-to-Update-Fire-TV-OS-to-latest-version",
+      "md5": "18a559a24988efe7e5d94678c5b4954d",
+      "status": "unchanged"
+    },
+    {
+      "article_id": "360016313754",
+      "title": "How to Install an APK file on your Fire TV",
+      "slug": "how-to-install-an-apk-file-on-your-fire-tv",
+      "file_name": "how-to-install-an-apk-file-on-your-fire-tv.md",
+      "source_url": "https://support.optisigns.com/hc/en-us/articles/360016313754-How-to-Install-an-APK-file-on-your-Fire-TV",
+      "md5": "46844b1f4726d44a62f5ea8be93b93cd",
+      "status": "unchanged"
+    },
+    {
+      "article_id": "360016833514",
+      "title": "Changing screen's orientation (portrait & landscape)",
+      "slug": "changing-screen-s-orientation-portrait-landscape",
+      "file_name": "changing-screen-s-orientation-portrait-landscape.md",
+      "source_url": "https://support.optisigns.com/hc/en-us/articles/360016833514-Changing-screen-s-orientation-portrait-landscape",
+      "md5": "5600301b71b13c22be140b25425003c3",
+      "status": "unchanged",
+      "gemini_file_name": "files/t2ucqlys49hi",
+      "gemini_uploaded_at": "2026-09-18T01:53:06.952593+00:00",
+      "upload_status": "uploaded"
+    },
+    {
+      "article_id": "360016485633",
+      "title": "How can I remotely start/restart OptiSigns app on Fire TV?",
+      "slug": "how-can-i-remotely-start-restart-optisigns-app-on-fire-tv",
+      "file_name": "how-can-i-remotely-start-restart-optisigns-app-on-fire-tv.md",
+      "source_url": "https://support.optisigns.com/hc/en-us/articles/360016485633-How-can-I-remotely-start-restart-OptiSigns-app-on-Fire-TV",
+      "md5": "2e837f981243025ca11d6dde934a9a1a",
+      "status": "unchanged"
+    },
+    {
+      "article_id": "360058700673",
+      "title": "How to unpair a device, screen?",
+      "slug": "how-to-unpair-a-device-screen",
+      "file_name": "how-to-unpair-a-device-screen.md",
+      "source_url": "https://support.optisigns.com/hc/en-us/articles/360058700673-How-to-unpair-a-device-screen",
+      "md5": "93a749b929c54f6d0bd9e8bcf149a0e4",
+      "status": "unchanged"
+    }
+  ],
   "stats": {
     "new": 0,
-    "modified": 0,
-    "unchanged": 417,
-    "deleted": 0
+    "modified": 2,
+    "unchanged": 401,
+    "deleted": 14
   },
   "last_upload_summary": {
-    "files_discovered": 0,
-    "files_uploaded": 0,
+    "files_discovered": 2,
+    "files_uploaded": 2,
     "files_failed": 0,
-    "estimated_chunks": 0,
-    "updated_at": "2026-11-04T03:38:42.788599+00:00"
+    "estimated_chunks": 12,
+    "updated_at": "2026-11-05T03:57:49.917026+00:00"
   }
 }
